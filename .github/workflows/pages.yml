@@ -1,0 +1,59 @@
+name: Deploy Writing Prompts to GitHub Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Validate prompt data
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          prompts = json.loads(Path("data/prompts.json").read_text(encoding="utf-8"))
+          daily = json.loads(Path("data/daily-prompts.json").read_text(encoding="utf-8"))
+          mixer = json.loads(Path("data/mixer-elements.json").read_text(encoding="utf-8"))
+          assert isinstance(prompts, list) and prompts, "Prompt collection must be a non-empty array"
+          ids = [p["id"] for p in prompts]
+          assert len(ids) == len(set(ids)), "Prompt IDs must be unique"
+          required = {"id", "title", "text", "genre", "form", "type"}
+          for prompt in prompts:
+              assert required.issubset(prompt), f"Missing prompt fields: {prompt}"
+              assert all(str(prompt[k]).strip() for k in required), f"Empty prompt field: {prompt}"
+          unknown = set(daily) - set(ids)
+          assert not unknown, f"Daily prompt IDs not found: {sorted(unknown)}"
+          for key in ("characters", "settings", "conflicts", "twists"):
+              assert isinstance(mixer.get(key), list) and mixer[key], f"Missing mixer list: {key}"
+          print(f"Validated {len(prompts)} prompts and {len(daily)} daily prompt IDs.")
+          PY
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
