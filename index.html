@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fbfaf6">
+  <meta name="description" content="A quiet corner for your next idea. Discover thoughtful creative writing prompts, mix your own inspiration, and make time to write.">
+  <title>Writing Prompts — A quiet corner for your next idea</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/tokens.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script src="assets/js/timer.js" defer></script>
+  <script src="assets/js/mixer.js" defer></script>
+  <script src="assets/js/app.js" defer></script>
+</head>
+<body>
+  <div class="site-shell" id="writing-prompts-app">
+    <header class="site-header">
+      <a class="wordmark" href="./" aria-label="Writing Prompts home">
+        <span class="wordmark-mark" aria-hidden="true">w.</span>
+        <span>writing prompts</span>
+      </a>
+      <nav class="top-nav" aria-label="Main navigation">
+        <a href="#discover">Discover</a>
+        <a href="#mixer">Prompt mixer</a>
+        <a href="#timer">Writing timer</a>
+      </nav>
+      <a class="header-note" href="#daily"><span class="status-dot"></span> A little inspiration, every day</a>
+    </header>
+
+    <main>
+      <section class="hero-section" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="eyebrow-line"></span> FOR THE LOVE OF WRITING</p>
+          <h1 id="hero-title">A quiet corner<br>for your <em>next idea.</em></h1>
+          <p class="hero-description">Some days, the hardest part is knowing where to begin. Find a thought worth following, a story worth telling, or simply a reason to put pen to paper.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#discover">Find a prompt <span aria-hidden="true">↗</span></a>
+            <a class="text-link" href="#daily">Read today's prompt <span aria-hidden="true">↓</span></a>
+          </div>
+          <div class="hero-footnote"><span class="tiny-spark" aria-hidden="true">✳</span> No rules. No pressure. Just write.</div>
+        </div>
+        <div class="hero-art" aria-label="An open notebook and a cup of tea on a writing desk" role="img">
+          <div class="art-sun"></div>
+          <div class="art-leaf art-leaf-one"></div>
+          <div class="art-leaf art-leaf-two"></div>
+          <div class="paper-note">
+            <span class="note-kicker">A NOTE TO SELF</span>
+            <span class="note-rule"></span>
+            <span class="note-line note-line-long"></span>
+            <span class="note-line"></span>
+            <span class="note-line note-line-short"></span>
+            <span class="note-script">begin<br>anywhere.</span>
+            <span class="note-page">01</span>
+          </div>
+          <span class="art-caption">A page is a place to begin.</span>
+        </div>
+      </section>
+
+      <section class="daily-section" id="daily" aria-labelledby="daily-title">
+        <div class="section-heading">
+          <div><p class="eyebrow">A MOMENT OF INSPIRATION</p><h2 id="daily-title">Today's writing prompt</h2></div>
+          <span class="date-label" id="daily-date">A prompt for today</span>
+        </div>
+        <article class="daily-card">
+          <div class="daily-card-index"><span>01</span><span class="index-rule"></span><span>DAILY EDITION</span></div>
+          <div class="daily-card-content">
+            <p class="prompt-category" id="daily-category">PERSONAL ESSAY · OBSERVATION</p>
+            <p class="daily-prompt-text" id="daily-prompt-text">Write about a place you have passed a hundred times but never truly noticed. What changes when you decide to look closely?</p>
+            <div class="prompt-actions">
+              <button class="button button-primary" id="daily-use" type="button">Write about this <span aria-hidden="true">↗</span></button>
+              <button class="button button-quiet" id="daily-copy" type="button"><span aria-hidden="true">▢</span> Copy prompt</button>
+            </div>
+          </div>
+          <div class="daily-card-aside"><span class="aside-asterisk" aria-hidden="true">✳</span><span>Take your time.<br>There is no rush.</span></div>
+        </article>
+      </section>
+
+      <section class="discover-section" id="discover" aria-labelledby="discover-title">
+        <div class="section-heading discover-heading">
+          <div><p class="eyebrow">FOLLOW YOUR CURIOSITY</p><h2 id="discover-title">Find your starting point</h2><p class="section-intro">Choose a direction, or let chance choose one for you.</p></div>
+          <button class="button button-outline" id="surprise-button" type="button"><span aria-hidden="true">✳</span> Surprise me</button>
+        </div>
+        <div class="discover-layout">
+          <aside class="filter-panel" aria-label="Prompt filters">
+            <div class="filter-group">
+              <h3>Writing mood</h3>
+              <div class="filter-options" id="genre-filters">
+                <button class="filter-chip is-active" type="button" data-genre="all">Everything</button>
+                <button class="filter-chip" type="button" data-genre="fiction">Fiction</button>
+                <button class="filter-chip" type="button" data-genre="mystery">Mystery</button>
+                <button class="filter-chip" type="button" data-genre="fantasy">Fantasy</button>
+                <button class="filter-chip" type="button" data-genre="science fiction">Science fiction</button>
+                <button class="filter-chip" type="button" data-genre="horror">Horror</button>
+                <button class="filter-chip" type="button" data-genre="personal essay">Personal essays</button>
+                <button class="filter-chip" type="button" data-genre="poetry">Poetry</button>
+              </div>
+            </div>
+            <div class="filter-divider"></div>
+            <div class="filter-group">
+              <h3>Prompt type</h3>
+              <label class="select-wrap" for="type-filter"><span class="sr-only">Choose a prompt type</span>
+                <select id="type-filter">
+                  <option value="all">All prompt types</option>
+                  <option value="story starter">Story starters</option>
+                  <option value="character">Characters</option>
+                  <option value="situation">Situations</option>
+                  <option value="observation">Observations</option>
+                  <option value="philosophical question">Philosophical questions</option>
+                  <option value="constraint">Writing constraints</option>
+                </select>
+              </label>
+            </div>
+            <p class="filter-note"><span aria-hidden="true">✳</span> The best ideas often arrive unexpectedly.</p>
+          </aside>
+          <div class="prompt-results">
+            <div class="results-toolbar"><span id="results-count">A few ideas to get you started</span><button class="sort-button" id="clear-filters" type="button">Clear filters <span aria-hidden="true">↺</span></button></div>
+            <div class="prompt-grid" id="prompt-grid" aria-live="polite">
+              <article class="prompt-card prompt-card-featured"><span class="card-number">01 / A BEGINNING</span><p class="prompt-card-text">The last person in a small town receives a letter addressed to someone who has been dead for fifty years.</p><div class="prompt-card-footer"><span>FICTION · STORY STARTER</span><button type="button" class="icon-button" aria-label="Copy prompt">↗</button></div></article>
+              <article class="prompt-card"><span class="card-number">02 / A QUESTION</span><p class="prompt-card-text">What is something you believed as a child that you wish had turned out to be true?</p><div class="prompt-card-footer"><span>PERSONAL ESSAY</span><button type="button" class="icon-button" aria-label="Copy prompt">↗</button></div></article>
+              <article class="prompt-card"><span class="card-number">03 / A POSSIBILITY</span><p class="prompt-card-text">Imagine a library where every book contains the memory of a person who has forgotten it.</p><div class="prompt-card-footer"><span>FANTASY · SITUATION</span><button type="button" class="icon-button" aria-label="Copy prompt">↗</button></div></article>
+            </div>
+            <p class="empty-state" id="empty-state" hidden>No prompts found for this combination. Try another filter.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="mixer-section" id="mixer" aria-labelledby="mixer-title">
+        <div class="mixer-intro"><p class="eyebrow">WHEN YOU NEED AN UNEXPECTED SPARK</p><h2 id="mixer-title">A story, <em>stirred by chance.</em></h2><p>Bring four ingredients together. See what kind of story might emerge.</p></div>
+        <div class="mixer-board">
+          <div class="mixer-ingredients">
+            <div class="ingredient"><span class="ingredient-label">01 / CHARACTER</span><p id="mix-character">A retired magician</p></div>
+            <div class="ingredient"><span class="ingredient-label">02 / SETTING</span><p id="mix-setting">A railway station after midnight</p></div>
+            <div class="ingredient"><span class="ingredient-label">03 / CONFLICT</span><p id="mix-conflict">They receive a message from their future self</p></div>
+            <div class="ingredient"><span class="ingredient-label">04 / TWIST</span><p id="mix-twist">Nobody else can see the letter</p></div>
+          </div>
+          <div class="mixer-result"><span class="result-label">YOUR STORY SEED</span><p id="mix-result">A retired magician waits at a railway station after midnight. A message arrives from their future self, but nobody else can see the letter.</p><div class="mixer-actions"><button class="button button-primary" id="mix-again" type="button">Mix again <span aria-hidden="true">↻</span></button><button class="button button-quiet" id="mix-copy" type="button">Copy story seed</button></div></div>
+        </div>
+      </section>
+
+      <section class="timer-section" id="timer" aria-labelledby="timer-title">
+        <div class="timer-copy"><p class="eyebrow">MAKE A LITTLE ROOM FOR WORDS</p><h2 id="timer-title">Give your thoughts<br><em>a little time.</em></h2><p>Set aside a few minutes. Leave the editing for later. For now, just follow the thought.</p></div>
+        <div class="timer-widget">
+          <span class="timer-label">YOUR WRITING SESSION</span>
+          <div class="timer-display" id="timer-display" role="timer" aria-live="off">10:00</div>
+          <div class="timer-presets" role="group" aria-label="Choose writing duration">
+            <button type="button" data-minutes="5">5 min</button><button type="button" class="is-selected" data-minutes="10">10 min</button><button type="button" data-minutes="15">15 min</button><button type="button" data-minutes="30">30 min</button>
+          </div>
+          <div class="timer-controls"><button class="button button-primary" id="timer-start" type="button">Begin writing <span aria-hidden="true">→</span></button><button class="button button-quiet" id="timer-reset" type="button">Reset</button></div>
+          <p class="timer-message" id="timer-message" aria-live="polite">A small beginning is still a beginning.</p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer"><a class="wordmark footer-wordmark" href="./"><span class="wordmark-mark">w.</span><span>writing prompts</span></a><p>Made for the moments before the first sentence.</p><a href="#hero-title">Back to top ↑</a></footer>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  </div>
+</body>
+</html>
