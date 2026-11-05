@@ -10,7 +10,7 @@
     const mins = Math.floor(state.remaining / 60).toString().padStart(2, "0");
     const secs = (state.remaining % 60).toString().padStart(2, "0");
     node.textContent = mins + ":" + secs;
-    if (startButton()) startButton().innerHTML = state.running ? "Pause session <span aria-hidden='true'>Ⅱ</span>" : (state.remaining < state.duration ? "Resume writing <span aria-hidden='true'>→</span>" : "Begin writing <span aria-hidden='true'>→</span>");
+    if (startButton()) startButton().innerHTML = state.running ? "Pause session <span aria-hidden='true'>Ⅱ</span>" : (state.remaining === 0 ? "START AGAIN <span aria-hidden='true'>↻</span>" : (state.remaining < state.duration ? "RESUME WRITING <span aria-hidden='true'>→</span>" : "START GAME <span aria-hidden='true'>→</span>"));
   }
 
   function stopInterval() {
