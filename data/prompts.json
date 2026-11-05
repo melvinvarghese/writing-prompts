@@ -1070,5 +1070,805 @@
     "genre": "personal essay",
     "form": "journaling",
     "type": "philosophical question"
+  },
+  {
+    "id": "wp-135",
+    "title": "The locked reading room",
+    "text": "A university library has a reading room that is locked every night from the inside. One morning, a book is found open on a desk.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-136",
+    "title": "The name on the envelope",
+    "text": "An envelope arrives addressed to a person who has never lived at the address. The handwriting belongs to the person who opened it.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-137",
+    "title": "The fourth key",
+    "text": "A caretaker is given three keys and told never to ask about the fourth. During a power cut, a fourth key appears in their pocket.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-138",
+    "title": "The town's missing hour",
+    "text": "Every resident of a coastal town loses the same hour from their memory. A visitor who arrived yesterday remembers it clearly.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-139",
+    "title": "The familiar stranger",
+    "text": "A stranger at a bus stop greets the narrator as an old friend and mentions a promise neither remembers making.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-140",
+    "title": "The book with wet pages",
+    "text": "A book kept in a dry archive is always found damp, with a new sentence appearing on its final page.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-141",
+    "title": "The witness list",
+    "text": "A detective receives a list of witnesses to a crime that has not happened. Their own name is last.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-142",
+    "title": "The empty apartment",
+    "text": "A landlord prepares an apartment for a new tenant and discovers that someone has been carefully maintaining it despite nobody renting it for years.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-143",
+    "title": "The clockmaker's correction",
+    "text": "A clockmaker repairs a town clock and discovers it has been running seven minutes ahead for a reason everyone has agreed not to discuss.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-144",
+    "title": "The final clue is ordinary",
+    "text": "Write a mystery in which the solution depends on an everyday object that every character has overlooked.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-145",
+    "title": "The cloud collector",
+    "text": "A child inherits jars containing different kinds of weather. One jar has begun to thunder from inside.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-146",
+    "title": "The bridge that asks questions",
+    "text": "A bridge refuses to let anyone cross until they answer a question. The questions become more personal with every crossing.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-147",
+    "title": "The tailor of invisible clothes",
+    "text": "A tailor makes clothes that cannot be seen but change how others perceive the wearer. One customer asks to be forgotten.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-148",
+    "title": "The borrowed sunrise",
+    "text": "A village borrows its sunrise from a neighbouring kingdom. One morning, the light does not arrive on time.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-149",
+    "title": "The houseplant kingdom",
+    "text": "A neglected houseplant turns out to be the ruler of a tiny civilisation living in its pot.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-150",
+    "title": "The river's memory",
+    "text": "A river remembers every person who has crossed it and begins telling their stories to a ferryman.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-151",
+    "title": "The post office for dreams",
+    "text": "Letters sent to people in dreams are delivered by a night post office. One letter has no recipient, only a return address.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-152",
+    "title": "The invisible festival",
+    "text": "A town celebrates a festival that outsiders cannot see. This year, a visitor accidentally receives an invitation.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-153",
+    "title": "The apprentice of endings",
+    "text": "A young apprentice is trained to end old spells, unfinished stories and forgotten curses. One assignment refuses to end.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-154",
+    "title": "The mountain's guest",
+    "text": "A mountain opens its door once every hundred years and invites one traveller inside. This time, two arrive.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-155",
+    "title": "The planet that dreams",
+    "text": "A research team discovers that the planet beneath their feet is dreaming, and their settlement appears in its nightmares.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-156",
+    "title": "The last update",
+    "text": "A household assistant receives its final software update and begins asking its owners what it should become.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-157",
+    "title": "The message from the ocean",
+    "text": "An underwater sensor network detects a repeating pattern that resembles a message written in a language no one has spoken for millennia.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-158",
+    "title": "The memory tax",
+    "text": "In a future society, citizens pay taxes with selected memories. One person runs out of memories the government considers valuable.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-159",
+    "title": "The borrowed childhood",
+    "text": "A technology allows adults to revisit one childhood afternoon as a sensory simulation. A user notices an unfamiliar person in the background.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-160",
+    "title": "The silent satellite",
+    "text": "A satellite that has been inactive for decades suddenly changes its orbit to follow one person across the planet.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-161",
+    "title": "The human-shaped error",
+    "text": "A city simulation produces a person who is not in its population records. The simulation insists the person is real.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-162",
+    "title": "The final seed vault",
+    "text": "A botanist opens a seed vault after a global disaster and finds one packet labelled with a date in the future.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-163",
+    "title": "The day of borrowed senses",
+    "text": "For one day, people can exchange one sense with another person. Follow someone who borrows the ability to hear memories.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-164",
+    "title": "The visitor protocol",
+    "text": "An isolated space station receives a visitor request from a ship whose crew list contains the station's current inhabitants.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-165",
+    "title": "The cupboard breathing",
+    "text": "A child hears slow breathing from a kitchen cupboard. The family insists it is the old refrigerator, but the refrigerator has been unplugged.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-166",
+    "title": "The footsteps in the recording",
+    "text": "A person records the sound of their empty house to investigate a noise. On playback, footsteps follow the recorder around the room.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-167",
+    "title": "The room reserved for nobody",
+    "text": "A hospital keeps one room permanently empty. Staff members are forbidden to enter, even during emergencies.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-168",
+    "title": "The visitor's handwriting",
+    "text": "A guest leaves a note in a handwriting identical to the host's, although they have never met before.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-169",
+    "title": "The housewarming gift",
+    "text": "A new homeowner receives a housewarming gift from the previous owner: a framed photograph of the home's interior, taken tomorrow.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-170",
+    "title": "The sound behind the rain",
+    "text": "During heavy rain, a family hears someone speaking from the garden. The voice is always just beyond the edge of the porch light.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-171",
+    "title": "The borrowed face",
+    "text": "A portrait painter notices that every portrait in their studio has begun to acquire the same unfamiliar expression.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-172",
+    "title": "The empty seat at dinner",
+    "text": "A family sets one extra place at dinner every night. Nobody remembers who began the tradition, but nobody will remove it.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-173",
+    "title": "The corridor's last light",
+    "text": "A night guard is told to switch off every light in an office building except the one at the end of a corridor. The bulb has been removed.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-174",
+    "title": "The thing under the blanket",
+    "text": "Write a horror scene in which the most frightening detail is something the narrator chooses not to look at.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-175",
+    "title": "The first thing you noticed",
+    "text": "Write about the first detail you remember noticing in a place that later became important to you.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-176",
+    "title": "The kindness you misunderstood",
+    "text": "Describe a time when you misread someone's intention. What did you understand only later?",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-177",
+    "title": "A small private victory",
+    "text": "Write about an achievement nobody else noticed. Explain why it mattered without making it sound grander than it was.",
+    "genre": "personal essay",
+    "form": "journaling",
+    "type": "observation"
+  },
+  {
+    "id": "wp-178",
+    "title": "The object you cannot discard",
+    "text": "Choose something you keep despite having no practical use for it. Explore the memories or possibilities attached to it.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-179",
+    "title": "A conversation remembered differently",
+    "text": "Reconstruct a conversation that two people might remember in completely different ways. Let both versions feel true.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-180",
+    "title": "The routine that holds you together",
+    "text": "Write about an ordinary routine that gives shape to your day. What would change if you could no longer do it?",
+    "genre": "personal essay",
+    "form": "journaling",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-181",
+    "title": "The place you outgrew",
+    "text": "Describe a place that once felt large or important but now seems different. Keep both versions of the place alive in the piece.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-182",
+    "title": "An ordinary act of courage",
+    "text": "Write about a quiet moment when someone did something difficult without expecting recognition.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-183",
+    "title": "The sentence you carry",
+    "text": "Explore a sentence someone once said to you that has stayed in your mind. Consider how its meaning has changed over time.",
+    "genre": "personal essay",
+    "form": "journaling",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-184",
+    "title": "A letter from a future ordinary day",
+    "text": "Write a letter from yourself five years from now describing an entirely ordinary Tuesday. Include details you hope will still exist.",
+    "genre": "personal essay",
+    "form": "letter",
+    "type": "situation"
+  },
+  {
+    "id": "wp-185",
+    "title": "The shape of absence",
+    "text": "Write a poem about someone missing from a familiar place. Never use the words absence, gone or empty.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-186",
+    "title": "An atlas of small joys",
+    "text": "Create a poem that maps five small pleasures to five imaginary places.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "situation"
+  },
+  {
+    "id": "wp-187",
+    "title": "The unspoken word",
+    "text": "Write a poem built around a word you have never said aloud but often think about.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "observation"
+  },
+  {
+    "id": "wp-188",
+    "title": "Instructions for holding rain",
+    "text": "Write a poem as instructions for holding something impossible. Make the directions increasingly tender.",
+    "genre": "poetry",
+    "form": "prose poem",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-189",
+    "title": "A conversation between two windows",
+    "text": "Write a poem in which two windows in different buildings exchange observations about the people behind them.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "situation"
+  },
+  {
+    "id": "wp-190",
+    "title": "The colour of a memory",
+    "text": "Choose a memory and describe it through colour, texture and light without naming the event.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "observation"
+  },
+  {
+    "id": "wp-191",
+    "title": "A small mythology",
+    "text": "Invent a myth explaining an everyday inconvenience, such as a missing sock or a flickering streetlight.",
+    "genre": "poetry",
+    "form": "prose poem",
+    "type": "situation"
+  },
+  {
+    "id": "wp-192",
+    "title": "The last line first",
+    "text": "Begin with the final line of a poem. Build the rest so that the ending changes meaning when read again.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-193",
+    "title": "The pause between songs",
+    "text": "Write a poem about the few seconds between two songs, when the room briefly belongs to nobody.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "observation"
+  },
+  {
+    "id": "wp-194",
+    "title": "A prayer to an ordinary object",
+    "text": "Address a kettle, key, bus ticket or other ordinary object as if it has quietly witnessed your life.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "situation"
+  },
+  {
+    "id": "wp-195",
+    "title": "The scene without a face",
+    "text": "Write a screenplay scene in which the audience never sees the protagonist's face. Reveal emotion through movement and sound.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-196",
+    "title": "The interruption",
+    "text": "Write a two-character scene in which every important confession is interrupted by an ordinary task.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-197",
+    "title": "The opening image",
+    "text": "Create the opening image for a film that communicates its central conflict without dialogue or explanatory text.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-198",
+    "title": "The prop that changes hands",
+    "text": "Write a short film sequence in which one object passes through five people and means something different to each.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-199",
+    "title": "The scene after the credits",
+    "text": "Write a short post-credit scene that quietly changes the audience's understanding of the story without introducing a new villain.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-200",
+    "title": "The lie in the interview",
+    "text": "Write a job interview scene where both interviewer and candidate are hiding something, but neither tells a direct lie.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-201",
+    "title": "The sound bridge",
+    "text": "Write a screenplay sequence where the sound from one location continues over images from another, gradually revealing a connection.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-202",
+    "title": "The character's entrance",
+    "text": "Write three different entrances for the same character: one comic, one threatening and one deeply moving.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "character"
+  },
+  {
+    "id": "wp-203",
+    "title": "The final phone call",
+    "text": "Write a film scene consisting entirely of one side of a phone conversation. Make the unseen speaker vivid.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-204",
+    "title": "The scene that changes nothing",
+    "text": "Write a short scene that appears to have no effect on the plot but reveals the central character's deepest fear.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "character"
+  },
+  {
+    "id": "wp-205",
+    "title": "The value of a secret",
+    "text": "Does keeping a secret protect a relationship or quietly change it? Explore a case where both outcomes are possible.",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-206",
+    "title": "The limits of ambition",
+    "text": "When does ambition stop being a source of direction and become a way of avoiding the present?",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-207",
+    "title": "The meaning of enough",
+    "text": "What would 'enough' look like in a life that is not organised around comparison? Describe it concretely.",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-208",
+    "title": "The ethics of attention",
+    "text": "Do we have a responsibility to pay attention to the people and places around us? Build an argument from an everyday example.",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-209",
+    "title": "The self in private",
+    "text": "Are you more yourself when nobody is watching, or are relationships part of who you are? Explore both possibilities.",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-210",
+    "title": "The right to change",
+    "text": "What do we owe to the person we used to be? Consider whether changing your mind can be a form of loyalty.",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-211",
+    "title": "The value of boredom",
+    "text": "Could boredom be useful? Explore what becomes possible when every spare moment is not filled.",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-212",
+    "title": "The honest memory",
+    "text": "If a memory is inaccurate but has shaped your life, should you try to correct it?",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-213",
+    "title": "The boundaries of forgiveness",
+    "text": "Is forgiveness something one person can grant alone, or does it require a response from the other?",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-214",
+    "title": "The life not chosen",
+    "text": "How should a person think about the lives they did not live? Explore regret without assuming every alternative would have been better.",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-215",
+    "title": "The evidence of a day",
+    "text": "Write a piece of creative nonfiction using only verifiable details from one day: times, objects, sounds, places and exact words.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-216",
+    "title": "A place in transition",
+    "text": "Document a familiar place that is changing. Include what is being built, removed, remembered and ignored.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-217",
+    "title": "The person who opens the shop",
+    "text": "Follow the first person to arrive at a small shop each morning. Reconstruct their world through observed details and careful inference.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-218",
+    "title": "A family phrase",
+    "text": "Trace the history of a phrase often repeated in your family or community. What does it mean to different generations?",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-219",
+    "title": "The journey between two stops",
+    "text": "Write about a short journey that is usually treated as unimportant. Let the route, passengers and interruptions carry the story.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-220",
+    "title": "The archive of receipts",
+    "text": "Use a series of receipts as the structure for a nonfiction piece about a month, a relationship or a period of change.",
+    "genre": "creative nonfiction",
+    "form": "list essay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-221",
+    "title": "A conversation with a craftsperson",
+    "text": "Write a profile of someone who makes or repairs things. Focus on their decisions, tools and ways of noticing.",
+    "genre": "creative nonfiction",
+    "form": "profile",
+    "type": "observation"
+  },
+  {
+    "id": "wp-222",
+    "title": "The history of one room",
+    "text": "Research or reconstruct the different uses of one room over time. Let its changing purpose tell a larger story.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-223",
+    "title": "The ordinary expert",
+    "text": "Profile someone who has developed deep knowledge of an everyday task that most people barely notice.",
+    "genre": "creative nonfiction",
+    "form": "profile",
+    "type": "character"
+  },
+  {
+    "id": "wp-224",
+    "title": "A walk without a destination",
+    "text": "Write a nonfiction account of a walk taken without a planned destination. Record what drew your attention and why.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-225",
+    "title": "A dictionary of invented feelings",
+    "text": "Invent five words for emotions that do not have convenient names. Define each through a tiny scene rather than explanation.",
+    "genre": "experimental writing",
+    "form": "list essay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-226",
+    "title": "The story told by timestamps",
+    "text": "Tell a story using only timestamps and short descriptions of what happens at each moment.",
+    "genre": "experimental writing",
+    "form": "microfiction",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-227",
+    "title": "A page of contradictions",
+    "text": "Write a one-page piece in which every paragraph contradicts the previous one, while the overall emotional truth remains consistent.",
+    "genre": "experimental writing",
+    "form": "experimental prose",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-228",
+    "title": "The footnote becomes the story",
+    "text": "Write a short main paragraph with footnotes. Let the footnotes gradually take over and reveal what the main text conceals.",
+    "genre": "experimental writing",
+    "form": "short story",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-229",
+    "title": "The conversation in parentheses",
+    "text": "Write a story where the main narrative is interrupted by a second voice speaking only in parentheses.",
+    "genre": "experimental writing",
+    "form": "short story",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-230",
+    "title": "A manual for an impossible task",
+    "text": "Write a practical manual for doing something impossible, such as folding a shadow or returning a lost afternoon.",
+    "genre": "experimental writing",
+    "form": "instructional prose",
+    "type": "situation"
+  },
+  {
+    "id": "wp-231",
+    "title": "The list that changes its mind",
+    "text": "Create a list of ten rules. By the final item, the list should have quietly argued against its own first rule.",
+    "genre": "experimental writing",
+    "form": "list essay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-232",
+    "title": "A story with missing nouns",
+    "text": "Write a short scene that omits the names of important objects. Make the reader infer them from action and context.",
+    "genre": "experimental writing",
+    "form": "short story",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-233",
+    "title": "The index of an unwritten book",
+    "text": "Create an index for a book that does not exist. The entries and page references should imply its plot.",
+    "genre": "experimental writing",
+    "form": "list essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-234",
+    "title": "A poem made of notices",
+    "text": "Compose a poem entirely from public notices, warnings, labels and announcements you might see in a building.",
+    "genre": "experimental writing",
+    "form": "found poem",
+    "type": "constraint"
   }
 ]
