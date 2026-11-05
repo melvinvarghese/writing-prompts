@@ -5,7 +5,7 @@ A free, distraction-free creative writing prompt generator for writers. It will 
 
 ## Product principles
 - Encourage writing rather than managing writing.
-- Keep the interface calm, editorial, accessible, and mobile-first.
+- Make the interface feel like an imaginative 1980s arcade and Memphis-inspired creative playground: energetic, playful, surprising, accessible, and mobile-first.
 - No accounts, subscriptions, AI APIs, backend, database, favourites, or saved history.
 - Keep the prompt collection curated, original, structured, and easy to maintain.
 - One shared frontend and one shared data source for both deployments.
@@ -55,11 +55,11 @@ writing-prompts/
 Target: at least 500 curated prompts for launch. Prompts will have stable IDs, title, prompt text, genre, form, prompt type, and optional estimated difficulty. Data will be validated for missing fields and duplicate IDs before release. Daily prompts and mixer ingredients will be separate datasets.
 
 ## Visual direction
-- Warm ivory / paper-inspired canvas
-- Deep charcoal typography and muted sage-green accents
-- Expressive but readable serif display typography paired with a clean sans-serif interface face
-- Editorial spacing, restrained borders, subtle paper-like surfaces
-- Minimal ornamentation; no generic SaaS dashboard patterns, excessive gradients, glass effects, or decorative clutter
+- 1980s arcade meets Memphis graphic design
+- Cream canvas with hot pink, arcade yellow, electric teal, cobalt blue, and purple
+- Chunky outlined controls, geometric stickers, playful asymmetry, and a CRT-inspired prompt machine
+- Bold display typography paired with readable sans-serif and monospace interface text
+- Energetic without sacrificing hierarchy, readability, accessibility, or mobile usability
 - Touch targets at least 44px where practical
 - Visible keyboard focus and reduced-motion support
 
