@@ -110,6 +110,8 @@
     const prompt = items[Math.floor(Math.random() * items.length)];
     $("#daily-category").textContent = (prompt.genre + " · " + prompt.type).toUpperCase();
     $("#daily-prompt-text").textContent = prompt.text;
+    $("#daily-copy").onclick = () => copyText(prompt.text);
+    $("#daily-use").onclick = () => { $("#discover").scrollIntoView({ behavior: "smooth" }); showToast("Take this idea wherever you like."); };
     $("#daily-date").textContent = "A little surprise for you";
     $("#daily").scrollIntoView({ behavior: "smooth" });
   }
@@ -118,7 +120,7 @@
     document.querySelectorAll("[data-genre]").forEach((button) => {
       button.addEventListener("click", () => {
         activeGenre = button.dataset.genre;
-        document.querySelectorAll("[data-genre]").forEach((item) => item.classList.toggle("is-active", item === button));
+        document.querySelectorAll("[data-genre]").forEach((item) => { const selected = item === button; item.classList.toggle("is-active", selected); item.setAttribute("aria-pressed", String(selected)); });
         renderPrompts();
       });
     });
@@ -129,7 +131,7 @@
     $("#clear-filters")?.addEventListener("click", () => {
       activeGenre = "all";
       activeType = "all";
-      document.querySelectorAll("[data-genre]").forEach((item) => item.classList.toggle("is-active", item.dataset.genre === "all"));
+      document.querySelectorAll("[data-genre]").forEach((item) => { const selected = item.dataset.genre === "all"; item.classList.toggle("is-active", selected); item.setAttribute("aria-pressed", String(selected)); });
       $("#type-filter").value = "all";
       renderPrompts();
     });
