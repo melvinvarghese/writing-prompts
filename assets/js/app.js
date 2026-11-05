@@ -4,6 +4,8 @@
   let dailyIds = [];
   let activeGenre = "all";
   let activeType = "all";
+  const pageSize = 12;
+  let visibleCount = pageSize;
   let toastTimer;
 
   function showToast(text) {
@@ -53,13 +55,16 @@
     const grid = $("#prompt-grid");
     const empty = $("#empty-state");
     const count = $("#results-count");
+    const loadMore = $("#load-more-prompts");
     if (!grid) return;
     const items = filteredPrompts();
+    const visibleItems = items.slice(0, visibleCount);
     grid.replaceChildren();
-    if (count) count.textContent = items.length + (items.length === 1 ? " idea to get you started" : " ideas to get you started");
+    if (count) count.textContent = "SHOWING " + visibleItems.length + " OF " + items.length + " PROMPTS";
     if (empty) empty.hidden = items.length !== 0;
+    if (loadMore) loadMore.hidden = visibleItems.length >= items.length;
 
-    items.forEach((prompt, index) => {
+    visibleItems.forEach((prompt, index) => {
       const card = document.createElement("article");
       card.className = "prompt-card" + (index === 0 ? " prompt-card-featured" : "");
       const number = document.createElement("span");
@@ -122,22 +127,29 @@
     document.querySelectorAll("[data-genre]").forEach((button) => {
       button.addEventListener("click", () => {
         activeGenre = button.dataset.genre;
+        visibleCount = pageSize;
         document.querySelectorAll("[data-genre]").forEach((item) => { const selected = item === button; item.classList.toggle("is-active", selected); item.setAttribute("aria-pressed", String(selected)); });
         renderPrompts();
       });
     });
     $("#type-filter")?.addEventListener("change", (event) => {
       activeType = event.target.value;
+      visibleCount = pageSize;
       renderPrompts();
     });
     $("#clear-filters")?.addEventListener("click", () => {
       activeGenre = "all";
       activeType = "all";
+      visibleCount = pageSize;
       document.querySelectorAll("[data-genre]").forEach((item) => { const selected = item.dataset.genre === "all"; item.classList.toggle("is-active", selected); item.setAttribute("aria-pressed", String(selected)); });
       $("#type-filter").value = "all";
       renderPrompts();
     });
     $("#surprise-button")?.addEventListener("click", randomPrompt);
+    $("#load-more-prompts")?.addEventListener("click", () => {
+      visibleCount += pageSize;
+      renderPrompts();
+    });
   }
 
   async function initMixer() {
