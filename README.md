@@ -1,10 +1,10 @@
 # Writing Prompts
 
-A free, distraction-free creative writing prompt generator for writers.
+A free creative writing playground with an 80s arcade and Memphis-inspired visual identity.
 
 ## Project status
 
-The project foundation and initial design system are being prepared. The application will be developed and tested as a standalone static website before being embedded into WordPress.
+The first interactive interface is being redesigned around an 80s arcade-inspired creative playground. It will be tested as a standalone static website before WordPress integration.
 
 ## Planned experience
 
@@ -29,4 +29,4 @@ No accounts, subscriptions, backend, database, or paid API dependencies.
 
 ## Design direction
 
-Warm ivory surfaces, charcoal text, muted sage accents, expressive serif headings, clean sans-serif interface typography, generous whitespace, and accessible interactions.
+1980s arcade energy meets Memphis graphic design: electric teal, hot pink, arcade yellow, cobalt blue, chunky outlined controls, CRT-inspired prompt display, geometric stickers, bold display typography, playful interactions, and accessible responsive layouts.
