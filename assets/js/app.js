@@ -94,6 +94,7 @@
     const prompt = prompts.find((item) => item.id === id) || prompts[0];
     $("#daily-category").textContent = (prompt.genre + " · " + prompt.type).toUpperCase();
     $("#daily-prompt-text").textContent = prompt.text;
+    $("#daily-prompt-feature").textContent = prompt.text;
     $("#daily-copy").onclick = () => copyText(prompt.text);
     $("#daily-use").onclick = () => {
       $("#discover").scrollIntoView({ behavior: "smooth" });
