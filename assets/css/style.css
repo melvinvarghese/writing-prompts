@@ -88,6 +88,8 @@
 #writing-prompts-app .prompt-card-footer { display:flex; align-items:center; justify-content:space-between; gap:8px; font-family:"DM Mono",monospace; font-size:8px; font-weight:500; letter-spacing:.6px; }
 #writing-prompts-app .icon-button { width:35px; height:35px; border:2px solid var(--ink); border-radius:50%; background:var(--cream); color:var(--ink); font-weight:700; }
 #writing-prompts-app .icon-button:hover { background:var(--blue); color:white; }
+#writing-prompts-app .load-more-wrap { display:flex; justify-content:center; margin:28px 0 8px; }
+#writing-prompts-app .load-more-wrap[hidden] { display:none; }
 #writing-prompts-app .empty-state { padding:25px; border:2px dashed var(--ink); font-weight:600; text-align:center; }
 #writing-prompts-app .mixer-section { display:grid; grid-template-columns:.75fr 1.25fr; gap:38px; border-top:3px solid var(--ink); border-bottom:3px solid var(--ink); background:var(--blue); color:#fff8e8; }
 #writing-prompts-app .mixer-section .eyebrow { color:var(--yellow); }
