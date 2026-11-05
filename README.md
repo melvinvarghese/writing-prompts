@@ -45,11 +45,6 @@ Then open http://localhost:8000 in your browser.
 
 Using a local web server is recommended because the application loads its prompt collection from JSON files.
 
-## WordPress integration
-
-The project is intended to be embedded into the WordPress website [melvinvarghese.in](https://melvinvarghese.in/) by loading its CSS, JavaScript, and data assets directly. It does not use an iframe.
-
-See the [WordPress integration guide](docs/WORDPRESS-INTEGRATION.md) for implementation details.
 
 ## Project structure
 
