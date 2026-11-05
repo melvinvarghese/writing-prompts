@@ -1,32 +1,23 @@
 # Writing Prompts
 
-A free, browser-based creative writing playground for finding ideas, exploring story possibilities, and getting words onto the page.
+A small creative writing tool for when you need an idea to get started.
 
-**Live site:** https://melvinvarghese.github.io/writing-prompts/
+**Try it:** [writing-prompts](https://melvinvarghese.github.io/writing-prompts/)
 
-## Features
+## What it does
 
-- **500 writing prompts** across fiction, mystery, fantasy, science fiction, horror, personal essays, poetry, screenwriting, philosophical writing, creative nonfiction, and experimental writing.
-- **Browse and filter** prompts by genre and prompt type.
-- **Surprise me** to discover a random prompt.
-- **Daily prompt** for a fresh writing challenge.
-- **Prompt Mixer** to combine a character, setting, conflict, and twist into a story seed.
-- **Writing timer** with 5-, 10-, 15-, and 30-minute sessions.
-- **One-click copying** for prompts and generated story seeds.
-- **Responsive layout** designed for desktop and mobile screens.
+- Browse 500 writing prompts across 11 genres.
+- Filter prompts by genre and type.
+- Pick a random prompt or try the daily challenge.
+- Mix a character, setting, conflict and twist into a story idea.
+- Use the 5, 10, 15 or 30-minute writing timer.
+- Copy any prompt or story seed.
 
-## Technology
+## Built with
 
-The project is built with:
+HTML, CSS, JavaScript and JSON. The site is hosted on GitHub Pages and runs without a backend, database, account or API key.
 
-- HTML
-- CSS
-- Vanilla JavaScript
-- JSON prompt data
-
-It is a static website hosted on GitHub Pages. It does not require a backend, database, user accounts, subscriptions, API keys, or paid services.
-
-## Run locally
+## Run it locally
 
 Clone the repository:
 
@@ -35,43 +26,29 @@ git clone https://github.com/melvinvarghese/writing-prompts.git
 cd writing-prompts
 ```
 
-Start a local web server from the project directory. For example, with Python:
+Start a local server:
 
 ```bash
 python -m http.server 8000
 ```
 
-Then open http://localhost:8000 in your browser.
+Open http://localhost:8000 in your browser.
 
-Using a local web server is recommended because the application loads its prompt collection from JSON files.
+## WordPress
 
+The same app can be loaded on [melvinvarghese.in](https://melvinvarghese.in/) without using an iframe. See the [WordPress integration guide](docs/WORDPRESS-INTEGRATION.md).
 
-## Project structure
+## Files
 
 ```text
-.
-├── assets/
-│   ├── css/
-│   │   ├── style.css
-│   │   └── tokens.css
-│   └── js/
-│       ├── app.js
-│       ├── mixer.js
-│       └── timer.js
-├── data/
-│   ├── daily-prompts.json
-│   ├── mixer-elements.json
-│   └── prompts.json
-├── docs/
-│   ├── PROJECT-PLAN.md
-│   └── WORDPRESS-INTEGRATION.md
-└── index.html
+assets/
+  css/
+  js/
+data/
+  daily-prompts.json
+  mixer-elements.json
+  prompts.json
+docs/
+  WORDPRESS-INTEGRATION.md
+index.html
 ```
-
-## Design
-
-The interface combines 1980s arcade aesthetics with Memphis-inspired graphic design: bold typography, vivid colours, chunky outlines, playful geometric details, and a CRT-inspired prompt display. The layout is designed to keep the experience lively while remaining easy to navigate.
-
-## Contributing
-
-Suggestions, bug reports, and improvements are welcome. Please open an issue to discuss a significant change before submitting a pull request.
