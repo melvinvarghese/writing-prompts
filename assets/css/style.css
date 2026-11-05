@@ -5,7 +5,7 @@
 #writing-prompts-app button, #writing-prompts-app select { font:inherit; }
 #writing-prompts-app button { cursor:pointer; -webkit-tap-highlight-color:transparent; }
 #writing-prompts-app button:focus-visible, #writing-prompts-app a:focus-visible, #writing-prompts-app select:focus-visible { outline:3px solid var(--blue); outline-offset:4px; }
-#writing-prompts-app .site-shell { width:min(100% - 44px, 1280px); margin:auto; }
+#writing-prompts-app.site-shell { width:min(100% - 44px, 1280px); margin:auto; }
 #writing-prompts-app .site-header { min-height:92px; display:flex; align-items:center; justify-content:space-between; gap:22px; border-bottom:3px solid var(--ink); position:relative; z-index:2; }
 #writing-prompts-app .wordmark { display:flex; align-items:center; gap:10px; font-family:"Bungee",sans-serif; font-size:13px; line-height:1.15; letter-spacing:-.5px; }
 #writing-prompts-app .wordmark-mark { display:grid; place-items:center; width:47px; height:47px; background:var(--yellow); border:3px solid var(--ink); box-shadow:4px 4px 0 var(--ink); font-family:"Bungee",sans-serif; font-size:13px; transform:rotate(-5deg); }
