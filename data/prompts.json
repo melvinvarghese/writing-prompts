@@ -2270,5 +2270,725 @@
     "genre": "screenwriting",
     "form": "screenplay",
     "type": "situation"
+  },
+  {
+    "id": "wp-285",
+    "genre": "fiction",
+    "title": "The Unfinished Welcome",
+    "text": "A new resident receives a welcome basket containing objects that belong to the people who lived in the house before them.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-286",
+    "genre": "fiction",
+    "title": "The Quietest Room",
+    "text": "A sound engineer is hired to record silence in a room that has never been quiet.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-287",
+    "genre": "fiction",
+    "title": "The Borrowed Bicycle",
+    "text": "A bicycle borrowed for one afternoon returns with a note describing a journey its owner never took.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-288",
+    "genre": "fiction",
+    "title": "A Very Small Inheritance",
+    "text": "A person inherits one square metre of land and discovers that several people consider it priceless.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-289",
+    "genre": "fiction",
+    "title": "The Neighbourhood Timekeeper",
+    "text": "Create a character who keeps time for a whole neighbourhood using bells, lights and handwritten notes.",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-290",
+    "genre": "fiction",
+    "title": "The Last Customer",
+    "text": "A shopkeeper's final customer of the evening asks to buy something the shop stopped selling years ago.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-291",
+    "genre": "fiction",
+    "title": "The Table by the Window",
+    "text": "Two strangers keep arriving at the same café table on different days, each leaving something for the other.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-292",
+    "genre": "fiction",
+    "title": "A Story in the Laundry",
+    "text": "Write a story in which a lost item in a shared laundry room connects three households.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-293",
+    "genre": "fiction",
+    "title": "The Wrong Celebration",
+    "text": "A town prepares a celebration for the wrong person, and the person they meant to honour decides not to correct them.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-294",
+    "genre": "fiction",
+    "title": "The Person Who Keeps Receipts",
+    "text": "Build a character who saves every receipt and can reconstruct entire relationships from the purchases people made together.",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-295",
+    "genre": "fiction",
+    "title": "The House's Daily List",
+    "text": "A family finds a handwritten list of chores that updates itself every morning, including tasks nobody remembers doing.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-296",
+    "genre": "fiction",
+    "title": "The Unusual Queue",
+    "text": "A queue forms outside an empty building. Nobody knows what is being offered, but everyone has a reason to wait.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-297",
+    "genre": "fiction",
+    "title": "A Map of Familiar Sounds",
+    "text": "Write a story about someone navigating their hometown by sound after the street signs disappear.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-298",
+    "genre": "fiction",
+    "title": "The Spare Key",
+    "text": "A spare key is returned to its owner with a new tag: 'For the door you haven't found yet.'",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-299",
+    "genre": "fiction",
+    "title": "The Last Rehearsal",
+    "text": "A community theatre group rehearses a play whose final scene changes every time they perform it.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-300",
+    "genre": "fiction",
+    "title": "The Apology Shop",
+    "text": "A small shop offers carefully written apologies for situations customers cannot bring themselves to discuss.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-301",
+    "genre": "fiction",
+    "title": "The Person Who Arrives Early",
+    "text": "Create a character who always arrives early and uses the extra time to quietly alter the places they visit.",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-302",
+    "genre": "fiction",
+    "title": "The Unclaimed Seat",
+    "text": "At a crowded gathering, one chair remains empty. Each guest believes it has been reserved for someone different.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-303",
+    "genre": "mystery",
+    "title": "The Receipt from Tomorrow",
+    "text": "A receipt appears in a shop till for a purchase that will not happen until the following day.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-304",
+    "genre": "mystery",
+    "title": "The Missing Floor",
+    "text": "An elevator stops at a floor absent from the building directory. Its doors open onto a familiar childhood room.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-305",
+    "genre": "mystery",
+    "title": "The Duplicate Signature",
+    "text": "A clerk finds their signature on documents from a town they have never visited.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-306",
+    "genre": "mystery",
+    "title": "The Book Returned Twice",
+    "text": "A library book is returned twice on the same afternoon by two people who have never met.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-307",
+    "genre": "mystery",
+    "title": "The Unlisted Room",
+    "text": "A hotel has one more room than its floor plan. Guests on the same floor describe it differently.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-308",
+    "genre": "mystery",
+    "title": "The Witness's Umbrella",
+    "text": "A witness remembers a crime only through the colour and condition of the umbrellas outside.",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-309",
+    "genre": "mystery",
+    "title": "The Clock in the Archive",
+    "text": "An archive clock runs correctly only when a particular file is removed from its shelf.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-310",
+    "genre": "mystery",
+    "title": "The Message on the Reverse",
+    "text": "A notice removed from a public board reveals a message written on its back, addressed to the person who took it down.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-311",
+    "genre": "mystery",
+    "title": "Seven Accurate Lies",
+    "text": "Write a mystery in which every witness tells the truth but leaves out one crucial detail.",
+    "form": "short story",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-312",
+    "genre": "mystery",
+    "title": "The Unopened Locker",
+    "text": "A station locker has remained sealed for decades. Its contents are warm when it is finally opened.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-313",
+    "genre": "mystery",
+    "title": "The House Number Changes",
+    "text": "A delivery driver finds that one house number changes whenever they look away. The residents insist it has always been that way.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-314",
+    "genre": "mystery",
+    "title": "The Empty Photograph Frame",
+    "text": "A family frame displays a different image of the same room each morning, with one object missing each time.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-315",
+    "genre": "mystery",
+    "title": "The Unscheduled Passenger",
+    "text": "A ferry's passenger count is always one higher than the ticket total. The crew have stopped asking why.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-316",
+    "genre": "mystery",
+    "title": "The Detective of Small Details",
+    "text": "Create an investigator who solves cases by noticing tiny inconsistencies everyone else dismisses.",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-317",
+    "genre": "mystery",
+    "title": "The Last Entry",
+    "text": "A lighthouse logbook ends with an entry describing a ship that has not yet been built.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-318",
+    "genre": "mystery",
+    "title": "No One Left the Room",
+    "text": "A valuable object disappears from a room where every person insists they remained seated throughout the evening.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-319",
+    "genre": "mystery",
+    "title": "The Unsent Postcard",
+    "text": "A postcard arrives decades late and appears to answer a question its recipient asked only yesterday.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-320",
+    "genre": "mystery",
+    "title": "The Door with Fresh Paint",
+    "text": "A locked building has one door freshly painted every morning, though nobody has entered for months.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-321",
+    "genre": "mystery",
+    "title": "The Missing Minute",
+    "text": "A security recording skips one minute. Every person present remembers a different event during that gap.",
+    "form": "short story",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-322",
+    "genre": "fantasy",
+    "title": "The Orchard of Borrowed Seasons",
+    "text": "An orchard sells fruit from seasons that have not yet arrived. One customer tastes winter in midsummer.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-323",
+    "genre": "fantasy",
+    "title": "The Apprentice of Lost Things",
+    "text": "An apprentice works in a workshop where lost objects remember their owners and sometimes refuse to be returned.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-324",
+    "genre": "fantasy",
+    "title": "The Bridge That Remembers",
+    "text": "A bridge remembers everyone who crossed it and refuses passage to people who have forgotten an important promise.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-325",
+    "genre": "fantasy",
+    "title": "The Minor God of Hinges",
+    "text": "Create a minor god responsible for doors, hinges and things that almost close properly.",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-326",
+    "genre": "fantasy",
+    "title": "The Village of Temporary Names",
+    "text": "Everyone in a village receives a new name each morning, except one child whose name has remained unchanged for a week.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-327",
+    "genre": "fantasy",
+    "title": "The Market of Unlived Lives",
+    "text": "At a night market, people can purchase glimpses of lives they might have lived. A seller recognises a customer from one of them.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-328",
+    "genre": "fantasy",
+    "title": "The Candle That Burns Backwards",
+    "text": "A candle restores a room to an earlier state as it burns, but nobody can choose which moment returns.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-329",
+    "genre": "fantasy",
+    "title": "The Knight at the Unused Bridge",
+    "text": "A knight has guarded an empty bridge for forty years. One morning a long queue appears on the far bank.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-330",
+    "genre": "fantasy",
+    "title": "The Keeper of Forgotten Festivals",
+    "text": "Create a person whose task is to remember festivals the world has stopped celebrating.",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-331",
+    "genre": "fantasy",
+    "title": "The River's New Name",
+    "text": "A river changes its name every morning and stops flowing when the villagers call it by its old name.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-332",
+    "genre": "fantasy",
+    "title": "A Quest in One Room",
+    "text": "Write an epic fantasy quest that takes place entirely in one room. Make the stakes feel larger than the walls.",
+    "form": "short story",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-333",
+    "genre": "fantasy",
+    "title": "The Library of Unfinished Endings",
+    "text": "A librarian lends endings to people whose stories have become stuck, but every ending must eventually be returned.",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-334",
+    "genre": "fantasy",
+    "title": "The Door in the Tide Pool",
+    "text": "A doorway appears in a tide pool at low tide and opens into a room where the sea is perfectly still.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-335",
+    "genre": "fantasy",
+    "title": "The Tailor of Weather",
+    "text": "A tailor sews weather into coats. One customer asks for a garment that will preserve a particular afternoon.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-336",
+    "genre": "fantasy",
+    "title": "The Festival of Borrowed Voices",
+    "text": "Once a year, people may borrow another person's voice. A quiet child chooses the voice of the town bell.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-337",
+    "genre": "fantasy",
+    "title": "The Star in the Well",
+    "text": "A star falls into a village well and begins answering questions, but only with questions of its own.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-338",
+    "genre": "fantasy",
+    "title": "The Spell Repairer",
+    "text": "Create an apprentice who repairs broken spells, most of which have been damaged by careless wording.",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-339",
+    "genre": "fantasy",
+    "title": "The Mapmaker's Island",
+    "text": "A mapmaker cannot finish drawing an island because its coastline changes whenever someone tells a story about it.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-340",
+    "genre": "science fiction",
+    "title": "The Museum of Future Mistakes",
+    "text": "A museum displays mistakes humanity has not made yet. A new exhibit appears bearing a visitor's name.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-341",
+    "genre": "science fiction",
+    "title": "The Archive Goes Silent",
+    "text": "A global archive stops recording new events. People discover it had been deciding which moments counted.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-342",
+    "genre": "science fiction",
+    "title": "The Human Quality Inspector",
+    "text": "A human is hired to test whether androids recognise genuine kindness. The first android refuses the test.",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-343",
+    "genre": "science fiction",
+    "title": "The Colony's Missing Night",
+    "text": "A settlement on another planet has no darkness. One night, every artificial light switches off at once.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-344",
+    "genre": "science fiction",
+    "title": "The Sleep Subscription",
+    "text": "People subscribe to different kinds of sleep. One customer receives a month of dreams belonging to a stranger.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-345",
+    "genre": "science fiction",
+    "title": "A Future Without Clocks",
+    "text": "Imagine a society that has abandoned clocks. Explore how people coordinate work, travel and relationships.",
+    "form": "worldbuilding",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-346",
+    "genre": "science fiction",
+    "title": "The Robot's Day Off",
+    "text": "A domestic robot takes a day off without instruction. Its owner follows it to discover where it goes.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-347",
+    "genre": "science fiction",
+    "title": "The Satellite's Last Photograph",
+    "text": "A decommissioned satellite sends one final image of a place that should not be visible from orbit.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-348",
+    "genre": "science fiction",
+    "title": "The Last Human Translator",
+    "text": "A translator works for an AI that has begun inventing words for feelings it cannot experience.",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-349",
+    "genre": "science fiction",
+    "title": "The City Rents Its Weather",
+    "text": "A city rents sunshine, rain and wind by the hour. One neighbourhood refuses to pay and develops weather of its own.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-350",
+    "genre": "science fiction",
+    "title": "The Message Before Sending",
+    "text": "A person receives a message from a friend, then watches the friend compose and send the exact same message hours later.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-351",
+    "genre": "science fiction",
+    "title": "The Station's Gardeners",
+    "text": "Automated gardeners on a space station begin cultivating plants absent from the station's biological database.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-352",
+    "genre": "science fiction",
+    "title": "The Right to an Offline Life",
+    "text": "Explore whether access to digital systems should be optional when essential services depend on them.",
+    "form": "reflection",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-353",
+    "genre": "science fiction",
+    "title": "The Robot Who Studies Hesitation",
+    "text": "Create a research robot fascinated by the human pause before answering a simple question.",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-354",
+    "genre": "science fiction",
+    "title": "The Signal's Waiting Room",
+    "text": "An alien signal asks humanity to wait. Generations of researchers must decide how long to honour the request.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-355",
+    "genre": "science fiction",
+    "title": "The Backup of a City",
+    "text": "A city is digitally backed up every night. One morning, the backup contains a neighbourhood nobody remembers.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-356",
+    "genre": "science fiction",
+    "title": "The Ocean's First Message",
+    "text": "An underwater sensor network receives a message from the ocean floor, formatted as a reply to a question asked decades earlier.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-357",
+    "genre": "horror",
+    "title": "The Cupboard of Clean Dishes",
+    "text": "Every morning, a clean dish appears in a locked cupboard. The family owns fewer dishes than the cupboard contains.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-358",
+    "genre": "horror",
+    "title": "The Housekeeping Request",
+    "text": "A hotel guest requests fresh towels every hour. The used towels are always dry and folded into unfamiliar shapes.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-359",
+    "genre": "horror",
+    "title": "The Extra Shadow",
+    "text": "At sunset, a family notices their shadows include one extra figure. The figure appears closer each evening.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-360",
+    "genre": "horror",
+    "title": "The Room Tone",
+    "text": "A sound editor records silence in an empty house and hears a different breathing sound in every room.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-361",
+    "genre": "horror",
+    "title": "The Doorbell at the Empty Flat",
+    "text": "A doorbell rings in an apartment empty for years. The building manager hears their own voice asking to be let in.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-362",
+    "genre": "horror",
+    "title": "The Friendly Caretaker",
+    "text": "A building caretaker remembers every tenant, including people who moved out before the caretaker was born.",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-363",
+    "genre": "horror",
+    "title": "The Familiar Room at the Wrong Angle",
+    "text": "Describe a familiar room as if it has shifted a few degrees while nobody was looking. Keep every detail plausible.",
+    "form": "short story",
+    "type": "observation"
+  },
+  {
+    "id": "wp-364",
+    "genre": "horror",
+    "title": "The Voice Note from Tomorrow",
+    "text": "A person receives a voice note from their own number, timestamped tomorrow. It describes what they are doing now.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-365",
+    "genre": "horror",
+    "title": "Fear Without a Monster",
+    "text": "Write a horror story with no visible threat, villain or supernatural being. Let the setting and choices create dread.",
+    "form": "short story",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-366",
+    "genre": "horror",
+    "title": "The Last Light in the Corridor",
+    "text": "A corridor light switches on only when nobody looks at it. The building electrician is asked to repair it.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-367",
+    "genre": "horror",
+    "title": "The Unfamiliar Family Portrait",
+    "text": "A family portrait gains a new person each year. This year the newest figure is holding the camera.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-368",
+    "genre": "horror",
+    "title": "The Voice in the Water Tank",
+    "text": "A building's water tank carries a voice from flat to flat. Each resident hears a different instruction.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-369",
+    "genre": "horror",
+    "title": "The Second Set of Footprints",
+    "text": "A person walks alone through fresh snow and returns to find a second set of footprints matching theirs exactly.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-370",
+    "genre": "horror",
+    "title": "The Tap That Runs Warm",
+    "text": "A kitchen tap begins running warm water at midnight, carrying the faint smell of a place the family has never visited.",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-371",
+    "genre": "horror",
+    "title": "The Empty Classroom's Attendance",
+    "text": "A teacher finds one extra name on the attendance sheet each day. The name belongs to a student not yet born.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-372",
+    "genre": "horror",
+    "title": "The Neighbour's Empty Balcony",
+    "text": "A neighbour's balcony always has a chair facing the narrator's window, even when the neighbour is away.",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-373",
+    "genre": "horror",
+    "title": "The Threat Is Never Named",
+    "text": "Write a horror scene in which no character names or describes the threat. Let their choices make its nature clear.",
+    "form": "short story",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-374",
+    "genre": "horror",
+    "title": "The Sound of Someone Tidying",
+    "text": "A person living alone hears someone tidying the kitchen every night. Each morning an object has been put away in an unfamiliar place.",
+    "form": "short story",
+    "type": "story starter"
   }
 ]
