@@ -1,0 +1,98 @@
+[
+  {
+    "id": "wp-001",
+    "title": "The unopened letter",
+    "text": "The last person in a small town receives a letter addressed to someone who has been dead for fifty years. What does it contain, and why has it arrived now?",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-002",
+    "title": "A familiar street",
+    "text": "Write about a place you have passed a hundred times but never truly noticed. What changes when you decide to look closely?",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-003",
+    "title": "The memory library",
+    "text": "Imagine a library where every book contains the memory of a person who has forgotten it. A visitor finds a volume with their own name.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-004",
+    "title": "The impossible belief",
+    "text": "What is something you believed as a child that you wish had turned out to be true? Write about the world in which it did.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-005",
+    "title": "The quiet passenger",
+    "text": "A passenger boards the last train every night and gets off at a station that does not appear on any map. Tonight, someone follows.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-006",
+    "title": "A message from Earth",
+    "text": "Humanity has lived on a distant colony for generations. One morning, a radio receives a message from Earth—and it is only three words long.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-007",
+    "title": "The house that listens",
+    "text": "A house remembers every conversation spoken inside it. One day, it begins repeating a conversation that has not happened yet.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-008",
+    "title": "A character in five objects",
+    "text": "Create a character using only five objects they keep within arm's reach. Let the objects reveal what the character refuses to say.",
+    "genre": "fiction",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-009",
+    "title": "The kindness constraint",
+    "text": "Write a scene in which two people disagree deeply, but neither raises their voice, insults the other, or leaves the room.",
+    "genre": "fiction",
+    "form": "short story",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-010",
+    "title": "The last ordinary day",
+    "text": "Describe an ordinary day in the life of someone who knows that tomorrow the world will change forever. Do not reveal what is coming until the final line.",
+    "genre": "fiction",
+    "form": "short story",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-011",
+    "title": "An unfinished apology",
+    "text": "Write a poem addressed to someone you can no longer speak to. Do not use the words sorry, regret, or goodbye.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-012",
+    "title": "The borrowed hour",
+    "text": "If you could borrow one hour from any day in your past, which hour would you choose? What might you notice now that you could not notice then?",
+    "genre": "personal essay",
+    "form": "journaling",
+    "type": "philosophical question"
+  }
+]
