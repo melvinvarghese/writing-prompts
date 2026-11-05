@@ -1,32 +1,82 @@
 # Writing Prompts
 
-A free creative writing playground with an 80s arcade and Memphis-inspired visual identity.
+A free, browser-based creative writing playground for finding ideas, exploring story possibilities, and getting words onto the page.
 
-## Project status
+**Live site:** https://melvinvarghese.github.io/writing-prompts/
 
-The first interactive interface is being redesigned around an 80s arcade-inspired creative playground. It will be tested as a standalone static website before WordPress integration.
+## Features
 
-## Planned experience
-
-- Random writing prompts
-- Browse by genre, writing form, and prompt type
-- Prompt Mixer
-- Daily featured prompt
-- Copy prompt
-- 5, 10, 15, and 30-minute writing timer
-- At least 500 curated prompts at launch
+- **500 writing prompts** across fiction, mystery, fantasy, science fiction, horror, personal essays, poetry, screenwriting, philosophical writing, creative nonfiction, and experimental writing.
+- **Browse and filter** prompts by genre and prompt type.
+- **Surprise me** to discover a random prompt.
+- **Daily prompt** for a fresh writing challenge.
+- **Prompt Mixer** to combine a character, setting, conflict, and twist into a story seed.
+- **Writing timer** with 5-, 10-, 15-, and 30-minute sessions.
+- **One-click copying** for prompts and generated story seeds.
+- **Responsive layout** designed for desktop and mobile screens.
 
 ## Technology
 
-Semantic HTML, CSS, vanilla JavaScript, and JSON data. Hosted free on GitHub Pages, with a native-looking WordPress integration at [melvinvarghese.in/writing-prompts/](https://melvinvarghese.in/writing-prompts/).
+The project is built with:
 
-No accounts, subscriptions, backend, database, or paid API dependencies.
+- HTML
+- CSS
+- Vanilla JavaScript
+- JSON prompt data
 
-## Documentation
+It is a static website hosted on GitHub Pages. It does not require a backend, database, user accounts, subscriptions, API keys, or paid services.
 
-- [Project plan](docs/PROJECT-PLAN.md)
-- [WordPress integration plan](docs/WORDPRESS-INTEGRATION.md)
+## Run locally
 
-## Design direction
+Clone the repository:
 
-1980s arcade energy meets Memphis graphic design: electric teal, hot pink, arcade yellow, cobalt blue, chunky outlined controls, CRT-inspired prompt display, geometric stickers, bold display typography, playful interactions, and accessible responsive layouts.
+```bash
+git clone https://github.com/melvinvarghese/writing-prompts.git
+cd writing-prompts
+```
+
+Start a local web server from the project directory. For example, with Python:
+
+```bash
+python -m http.server 8000
+```
+
+Then open http://localhost:8000 in your browser.
+
+Using a local web server is recommended because the application loads its prompt collection from JSON files.
+
+## WordPress integration
+
+The project is intended to be embedded into the WordPress website [melvinvarghese.in](https://melvinvarghese.in/) by loading its CSS, JavaScript, and data assets directly. It does not use an iframe.
+
+See the [WordPress integration guide](docs/WORDPRESS-INTEGRATION.md) for implementation details.
+
+## Project structure
+
+```text
+.
+├── assets/
+│   ├── css/
+│   │   ├── style.css
+│   │   └── tokens.css
+│   └── js/
+│       ├── app.js
+│       ├── mixer.js
+│       └── timer.js
+├── data/
+│   ├── daily-prompts.json
+│   ├── mixer-elements.json
+│   └── prompts.json
+├── docs/
+│   ├── PROJECT-PLAN.md
+│   └── WORDPRESS-INTEGRATION.md
+└── index.html
+```
+
+## Design
+
+The interface combines 1980s arcade aesthetics with Memphis-inspired graphic design: bold typography, vivid colours, chunky outlines, playful geometric details, and a CRT-inspired prompt display. The layout is designed to keep the experience lively while remaining easy to navigate.
+
+## Contributing
+
+Suggestions, bug reports, and improvements are welcome. Please open an issue to discuss a significant change before submitting a pull request.
