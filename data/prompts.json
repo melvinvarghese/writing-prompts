@@ -1870,5 +1870,405 @@
     "genre": "experimental writing",
     "form": "found poem",
     "type": "constraint"
+  },
+  {
+    "id": "wp-235",
+    "title": "The map of borrowed rooms",
+    "text": "A cartographer discovers that every room they have rented appears on a map of a city that does not exist. One room is marked with a date in the future.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-236",
+    "title": "The witness who stayed home",
+    "text": "A witness gives a detailed account of a crime that happened across town, although records show they never left their house that night.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-237",
+    "title": "Three knocks at noon",
+    "text": "Every day at noon, someone knocks three times on an apartment door. The resident finally opens it and finds a package addressed to the building itself.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-238",
+    "title": "The missing paragraph",
+    "text": "An editor receives a manuscript whose final paragraph disappears whenever anyone reads it aloud. What is the paragraph trying to prevent?",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-239",
+    "title": "A catalogue of alibis",
+    "text": "Write a mystery in which each suspect has an alibi that is technically true but deliberately misleading.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-240",
+    "title": "The key with no lock",
+    "text": "A locksmith inherits a key that fits no lock in the city. A stranger offers to buy it, naming a door that was demolished decades ago.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-241",
+    "title": "The silent announcement",
+    "text": "A train station's public-address system announces the name of a passenger who has not yet arrived. The same announcement repeats every evening.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-242",
+    "title": "The second signature",
+    "text": "A retired clerk finds their signature on an official document dated twenty years before they were born.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-243",
+    "title": "The garden's boundaries",
+    "text": "A gardener is asked to restore a neglected garden, but every morning its walls have moved a little farther outward.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-244",
+    "title": "The apprentice of lost things",
+    "text": "A young apprentice learns that lost objects gather in a hidden workshop and that each one remembers its owner.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-245",
+    "title": "A moon kept in a jar",
+    "text": "A village keeps a tiny moon in a glass jar to light its winter festival. One year, the jar begins to grow warm.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-246",
+    "title": "The language of bridges",
+    "text": "In a kingdom where bridges can speak, one bridge refuses to let anyone cross until two enemies settle an old argument.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-247",
+    "title": "The dragon's day off",
+    "text": "Write a comic fantasy scene about a dragon who wants one quiet day without guarding treasure, granting wishes or being challenged.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-248",
+    "title": "The borrowed shadow",
+    "text": "A person borrows a shadow for a festival and discovers it belongs to someone who has been missing for a century.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-249",
+    "title": "The weather tailor",
+    "text": "A tailor can sew weather into coats. A customer asks for a garment that will keep one particular afternoon from ending.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-250",
+    "title": "The village at the world's edge",
+    "text": "Describe a village built at the edge of a map. Its residents have different explanations for what lies beyond the paper.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "observation"
+  },
+  {
+    "id": "wp-251",
+    "title": "The archive of extinct sounds",
+    "text": "A future museum preserves sounds from vanished ecosystems. One recording contains a voice asking visitors to stop listening.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-252",
+    "title": "The maintenance of dreams",
+    "text": "A technician repairs a machine that broadcasts dreams to sleeping citizens. Tonight, the dreams are arriving in the wrong order.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-253",
+    "title": "A planet with one rule",
+    "text": "Design a colony on a distant planet where one ordinary human habit is physically impossible. Show how society adapts.",
+    "genre": "science fiction",
+    "form": "worldbuilding",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-254",
+    "title": "The message in the static",
+    "text": "A radio operator receives a transmission made entirely of household noises. A pattern emerges when the sounds are arranged by time.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-255",
+    "title": "The last human language",
+    "text": "A translation system is about to erase the final language it cannot interpret. A linguist must decide whether to preserve it or let it change.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-256",
+    "title": "The passenger simulation",
+    "text": "A commuter discovers that the other passengers on their daily train are simulations designed to study one decision they have not made yet.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-257",
+    "title": "The borrowed hour",
+    "text": "A city sells extra hours to people who can afford them. Write about someone who discovers where the purchased time is taken from.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-258",
+    "title": "The quiet evacuation",
+    "text": "Write a science-fiction scene in which an entire city prepares to leave Earth without alarming the people who cannot go.",
+    "genre": "science fiction",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-259",
+    "title": "The photograph that ages",
+    "text": "A family photograph changes by one year every midnight, but only the youngest person in the picture notices.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-260",
+    "title": "The lift stops at thirteen",
+    "text": "An office lift opens onto a floor that is absent from the building directory. The people waiting there recognise the passenger.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-261",
+    "title": "A voice beneath the floorboards",
+    "text": "During renovations, a homeowner hears a voice below the floorboards reciting tomorrow's weather and yesterday's private conversations.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-262",
+    "title": "The caretaker's list",
+    "text": "A caretaker receives a list of rooms to inspect. The final room is labelled with the caretaker's own name.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-263",
+    "title": "The house remembers guests",
+    "text": "Write a horror story in which a house changes its layout to recreate the last evening each visitor spent there.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-264",
+    "title": "The reflection arrives late",
+    "text": "A person notices that their reflection moves a fraction of a second after they do. The delay grows whenever they lie.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-265",
+    "title": "A meal for the absent",
+    "text": "Describe a family meal where everyone carefully avoids mentioning the person for whom the food was prepared.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-266",
+    "title": "The first thing you repaired",
+    "text": "Write about the first object you remember repairing or trying to repair. What did the attempt teach you about patience, pride or failure?",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-267",
+    "title": "A place heard before seen",
+    "text": "Recall a place you recognised first by its sounds. Reconstruct the scene using sound before introducing sight.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-268",
+    "title": "The advice that arrived late",
+    "text": "Explore a piece of advice you understood only years after hearing it. Include the circumstances in which its meaning changed.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-269",
+    "title": "The day without a photograph",
+    "text": "Write about an important day for which you have no photographs. How do you preserve its details, and what might memory have altered?",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-270",
+    "title": "An inventory of thresholds",
+    "text": "List the doorways, gates, platforms or boundaries you crossed during one ordinary day. Turn the list into a reflection on transition.",
+    "genre": "personal essay",
+    "form": "list essay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-271",
+    "title": "The neighbour's ordinary kindness",
+    "text": "Write about a small kindness from someone you did not know well. Avoid turning the person into a hero; focus on the specific act.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-272",
+    "title": "What the old routine left behind",
+    "text": "Describe a routine you no longer follow. Which parts of it disappeared, and which have quietly survived in your current life?",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-273",
+    "title": "A poem in borrowed measurements",
+    "text": "Write a poem using measurements—minutes, metres, degrees, grams—as its emotional vocabulary. Never name the feeling directly.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-274",
+    "title": "The weather inside a room",
+    "text": "Describe a room as if it has its own climate. Let temperature, pressure and light reveal the mood of the people who use it.",
+    "genre": "poetry",
+    "form": "prose poem",
+    "type": "observation"
+  },
+  {
+    "id": "wp-275",
+    "title": "Instructions for a goodbye",
+    "text": "Write a poem as a set of practical instructions for saying goodbye. Let the directions become less practical as the poem progresses.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-276",
+    "title": "The city after closing time",
+    "text": "Create a sequence of brief images showing what a city does in the minutes after its shops and offices close.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "observation"
+  },
+  {
+    "id": "wp-277",
+    "title": "A dialogue between pockets",
+    "text": "Write a poem in which the pockets of two different coats compare the objects they have carried and the lives they have witnessed.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "situation"
+  },
+  {
+    "id": "wp-278",
+    "title": "The unclaimed sound",
+    "text": "Choose a sound you hear often but rarely notice. Build a poem around its rhythm, changes and associations.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "observation"
+  },
+  {
+    "id": "wp-279",
+    "title": "A scene with no explanations",
+    "text": "Write a screenplay scene in which two characters clearly share a history, but neither explains it. Let props and blocking do the work.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-280",
+    "title": "The apology in the background",
+    "text": "Write a scene where the main conversation concerns something trivial while a silent action in the background reveals an apology.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-281",
+    "title": "The object before the cut",
+    "text": "Create a short sequence in which an ordinary object appears in three locations. Each appearance should change the audience's interpretation.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-282",
+    "title": "A character defined by exits",
+    "text": "Introduce a character only through the way they leave three different rooms. Make each exit reveal a different relationship.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "character"
+  },
+  {
+    "id": "wp-283",
+    "title": "The scene that begins too late",
+    "text": "Write a scene that starts after the argument, accident or revelation has already happened. Let the audience reconstruct the event from what remains.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-284",
+    "title": "The final ordinary sound",
+    "text": "Write the final scene of a short film. End on an everyday sound that carries a new meaning because of everything that came before.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
   }
 ]
