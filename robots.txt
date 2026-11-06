@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://melvinvarghese.github.io/writing-prompts/sitemap.xml
