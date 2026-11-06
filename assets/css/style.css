@@ -187,3 +187,12 @@
 @media (prefers-reduced-motion:reduce) {
  #writing-prompts-app *, #writing-prompts-app *::before, #writing-prompts-app *::after { scroll-behavior:auto!important; animation-duration:.01ms!important; animation-iteration-count:1!important; transition-duration:.01ms!important; }
 }
+/* Prompt actions and saved-prompt export */
+#writing-prompts-app .prompt-card-actions { display:flex; align-items:center; gap:6px; }
+#writing-prompts-app .results-actions { display:flex; align-items:center; gap:10px; }
+#writing-prompts-app #download-favourites:disabled { opacity:.5; cursor:not-allowed; }
+#writing-prompts-app .favourite-button[aria-pressed="true"] { background:var(--yellow); }
+@media (max-width:520px) {
+  #writing-prompts-app .results-toolbar { align-items:flex-start; gap:10px; flex-wrap:wrap; }
+  #writing-prompts-app .results-actions { margin-left:auto; }
+}
