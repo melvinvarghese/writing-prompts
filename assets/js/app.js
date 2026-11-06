@@ -40,6 +40,13 @@
     }
   }
 
+  function scrollToSection(selector) {
+    const target = $(selector);
+    if (!target) return;
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    target.scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth" });
+  }
+
   async function sharePrompt(prompt) {
     const shareData = { title: prompt.title || "Writing prompt", text: prompt.text, url: window.location.href.split("#")[0] };
     if (navigator.share) {
@@ -160,7 +167,7 @@
     $("#daily-copy").onclick = () => copyText(prompt.text);
     $("#daily-share").onclick = () => sharePrompt(prompt);
     $("#daily-use").onclick = () => {
-      $("#discover").scrollIntoView({ behavior: "smooth" });
+      scrollToSection("#discover");
       showToast("Take this idea wherever you like.");
     };
   }
@@ -178,7 +185,7 @@
     $("#daily-copy").onclick = () => copyText(prompt.text);
     $("#daily-use").onclick = () => { $("#discover").scrollIntoView({ behavior: "smooth" }); showToast("Take this idea wherever you like."); };
     $("#daily-date").textContent = "A little surprise for you";
-    $("#daily").scrollIntoView({ behavior: "smooth" });
+    scrollToSection("#daily");
   }
 
   function initFilters() {
