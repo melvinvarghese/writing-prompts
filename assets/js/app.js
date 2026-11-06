@@ -46,7 +46,7 @@
       try { await navigator.share(shareData); return; }
       catch (error) { if (error.name === "AbortError") return; }
     }
-    await copyText(prompt.text + "\\n\\nFind more prompts: " + shareData.url);
+    await copyText(prompt.text + "\n\nFind more prompts: " + shareData.url);
   }
 
   function updateFavouriteButton() {
@@ -62,7 +62,7 @@
     for (const prompt of favourites.values()) {
       lines.push(prompt.title, "[" + prompt.genre + " / " + prompt.form + "]", "", prompt.text, "", "------------------------", "");
     }
-    const blob = new Blob([lines.join("\\n")], { type: "text/plain;charset=utf-8" });
+    const blob = new Blob([lines.join("\n")], { type: "text/plain;charset=utf-8" });
     const url = URL.createObjectURL(blob);
     const link = document.createElement("a");
     link.href = url;
@@ -158,7 +158,6 @@
     $("#daily-prompt-text").textContent = prompt.text;
     $("#daily-prompt-feature").textContent = prompt.text;
     $("#daily-copy").onclick = () => copyText(prompt.text);
-    $("#daily-share").onclick = () => sharePrompt(prompt);
     $("#daily-share").onclick = () => sharePrompt(prompt);
     $("#daily-use").onclick = () => {
       $("#discover").scrollIntoView({ behavior: "smooth" });
