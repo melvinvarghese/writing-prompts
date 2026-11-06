@@ -7,6 +7,7 @@
   const pageSize = 12;
   let visibleCount = pageSize;
   let toastTimer;
+  const favourites = new Map();
 
   function showToast(text) {
     const toast = $("#toast");
@@ -37,6 +38,40 @@
     } catch (error) {
       showToast("Copy isn't available here. Please select the prompt text.");
     }
+  }
+
+  async function sharePrompt(prompt) {
+    const shareData = { title: prompt.title || "Writing prompt", text: prompt.text, url: window.location.href.split("#")[0] };
+    if (navigator.share) {
+      try { await navigator.share(shareData); return; }
+      catch (error) { if (error.name === "AbortError") return; }
+    }
+    await copyText(prompt.text + "\\n\\nFind more prompts: " + shareData.url);
+  }
+
+  function updateFavouriteButton() {
+    const button = $("#download-favourites");
+    if (!button) return;
+    button.textContent = "FAVOURITES (" + favourites.size + ") ↓";
+    button.disabled = favourites.size === 0;
+  }
+
+  function downloadFavourites() {
+    if (!favourites.size) return;
+    const lines = ["MY SAVED WRITING PROMPTS", "========================", ""];
+    for (const prompt of favourites.values()) {
+      lines.push(prompt.title, "[" + prompt.genre + " / " + prompt.form + "]", "", prompt.text, "", "------------------------", "");
+    }
+    const blob = new Blob([lines.join("\\n")], { type: "text/plain;charset=utf-8" });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = "my-writing-prompts-favourites.txt";
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+    URL.revokeObjectURL(url);
+    showToast("Your favourites have been downloaded.");
   }
 
   function label(value) {
@@ -81,9 +116,31 @@
       copy.type = "button";
       copy.className = "icon-button";
       copy.setAttribute("aria-label", "Copy prompt: " + prompt.title);
-      copy.textContent = "↗";
+      const actions = document.createElement("div");
+      actions.className = "prompt-card-actions";
+      const favourite = document.createElement("button");
+      favourite.type = "button";
+      favourite.className = "icon-button favourite-button";
+      favourite.textContent = favourites.has(prompt.id) ? "★" : "☆";
+      favourite.setAttribute("aria-label", favourites.has(prompt.id) ? "Remove favourite: " + prompt.title : "Save favourite: " + prompt.title);
+      favourite.setAttribute("aria-pressed", String(favourites.has(prompt.id)));
+      favourite.addEventListener("click", () => {
+        if (favourites.has(prompt.id)) favourites.delete(prompt.id);
+        else favourites.set(prompt.id, prompt);
+        favourite.textContent = favourites.has(prompt.id) ? "★" : "☆";
+        favourite.setAttribute("aria-pressed", String(favourites.has(prompt.id)));
+        favourite.setAttribute("aria-label", favourites.has(prompt.id) ? "Remove favourite: " + prompt.title : "Save favourite: " + prompt.title);
+        updateFavouriteButton();
+      });
+      const share = document.createElement("button");
+      share.type = "button";
+      share.className = "icon-button";
+      share.textContent = "↗";
+      share.setAttribute("aria-label", "Share prompt: " + prompt.title);
+      share.addEventListener("click", () => sharePrompt(prompt));
       copy.addEventListener("click", () => copyText(prompt.text));
-      footer.append(meta, copy);
+      actions.append(favourite, share, copy);
+      footer.append(meta, actions);
       card.append(number, text, footer);
       grid.append(card);
     });
@@ -101,6 +158,8 @@
     $("#daily-prompt-text").textContent = prompt.text;
     $("#daily-prompt-feature").textContent = prompt.text;
     $("#daily-copy").onclick = () => copyText(prompt.text);
+    $("#daily-share").onclick = () => sharePrompt(prompt);
+    $("#daily-share").onclick = () => sharePrompt(prompt);
     $("#daily-use").onclick = () => {
       $("#discover").scrollIntoView({ behavior: "smooth" });
       showToast("Take this idea wherever you like.");
@@ -146,6 +205,8 @@
       renderPrompts();
     });
     $("#surprise-button")?.addEventListener("click", randomPrompt);
+    $("#download-favourites")?.addEventListener("click", downloadFavourites);
+    updateFavouriteButton();
     $("#load-more-prompts")?.addEventListener("click", () => {
       visibleCount += pageSize;
       renderPrompts();
