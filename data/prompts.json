@@ -12798,5 +12798,3205 @@
     "genre": "screenwriting",
     "form": "screenplay",
     "type": "story starter"
+  },
+  {
+    "id": "wp-1601",
+    "title": "The Invoice for an Unperformed Service",
+    "text": "Write a microfiction as an itemized invoice after a neighborhood fair. List unoffered services—saving a seat, keeping a secret—and let the total reveal what the customer received.",
+    "genre": "experimental writing",
+    "form": "microfiction",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1602",
+    "title": "A Stage Manager Loses the Cue",
+    "text": "Write a screenplay scene at a small-town theater’s final rehearsal. The cue sheet stops matching the actors, but they adapt; missed cues reveal why the production matters.",
+    "genre": "experimental writing",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1603",
+    "title": "Terms for Sharing a Window Seat",
+    "text": "Draft a playful but enforceable agreement between two strangers who must share the only window seat on a long ferry crossing. Include clauses about the view, silence, and an obstructing gull; let each revision expose a different idea of fairness.",
+    "genre": "experimental writing",
+    "form": "letter",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1604",
+    "title": "The Greenhouse Test Log",
+    "text": "Record a week of experiments by a school caretaker trying to keep one stubborn plant alive in a drafty corridor. Use dated observations, measurements, and brief notes on what changed in the school around it; leave the final entry open to more than one explanation.",
+    "genre": "experimental writing",
+    "form": "experimental prose",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1605",
+    "title": "Two Columns at the Tollbooth",
+    "text": "Set a two-column piece: exact transactions at a stormy tollbooth on the left, the worker’s guesses about drivers on the right. Let one vehicle make the columns contradict.",
+    "genre": "experimental writing",
+    "form": "experimental prose",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1606",
+    "title": "The Help Page for a Difficult Goodbye",
+    "text": "Create a mock help page for ending an ordinary arrangement, such as sharing a garden plot. Include search terms, troubleshooting, and one question the page cannot answer.",
+    "genre": "experimental writing",
+    "form": "instructional prose",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1607",
+    "title": "A Poem with a Rotating North",
+    "text": "Write a poem in four stanzas, each oriented toward a different direction in the same kitchen. Let the objects visible from each side alter who seems to own the room; use the compass headings as the only stanza titles.",
+    "genre": "experimental writing",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1608",
+    "title": "The Avalanche Measure",
+    "text": "Invent a mountain village that records each avalanche by how far it carries one marked boulder. Explain why residents trust this measure, what it fails to capture, and the annual gathering where a new observation challenges the official record.",
+    "genre": "experimental writing",
+    "form": "worldbuilding",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1609",
+    "title": "A Conversation Annotated by the Floor",
+    "text": "Write a short story about two siblings cleaning a tiled kitchen after a minor spill. After each exchange, add a plain-text note describing which tiles are wet, dry, or avoided; let the changing map of the floor tell a second story about their relationship.",
+    "genre": "experimental writing",
+    "form": "short story",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1610",
+    "title": "The Last Page of the Menu",
+    "text": "Compose a menu for a seaside café on the day its cook leaves town. Keep the dish names and descriptions practical, but let the daily specials and handwritten substitutions chart a decision the staff have not discussed aloud.",
+    "genre": "experimental writing",
+    "form": "list essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1611",
+    "title": "A Chorus of Door-to-Door Salespeople",
+    "text": "Write a poem in which four salespeople knock on one apartment door in an afternoon. Give each a distinct rhythm; the person inside answers only through household sounds.",
+    "genre": "experimental writing",
+    "form": "poetry",
+    "type": "character"
+  },
+  {
+    "id": "wp-1612",
+    "title": "Instructions for Tuning a Room",
+    "text": "Write a usable guide for making a shared room comfortable for a meeting without moving any furniture. Work through light, temperature, sound, and sightlines; let the steps reveal the facilitator's quiet effort to include someone who rarely speaks.",
+    "genre": "experimental writing",
+    "form": "instructional prose",
+    "type": "character"
+  },
+  {
+    "id": "wp-1613",
+    "title": "The Elevator's Floor-by-Floor Review",
+    "text": "Profile an unnamed night cleaner through observations on different floors of a tall office building. Let one routine change beside a call center, a law office, and a dance studio.",
+    "genre": "experimental writing",
+    "form": "profile",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1614",
+    "title": "The Choir on the Morning Ferry",
+    "text": "Reconstruct a community choir’s first ferry performance through brief accounts from the conductor, a deckhand, and a passenger. Let engine noise interrupt the song, and each witness remember a different beginning.",
+    "genre": "experimental writing",
+    "form": "experimental prose",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1615",
+    "title": "The Forecast Is for One Balcony",
+    "text": "Write a prose poem as a weather bulletin for one apartment balcony. Track wind, shade, and laundry over a day as its owner waits for news.",
+    "genre": "experimental writing",
+    "form": "prose poem",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1616",
+    "title": "A Ballot with No Candidate Names",
+    "text": "At a school election, every candidate’s name is missing from the ballot. Follow the poll worker as voters identify their choices by gestures and promises; let the count expose how people recognize leadership.",
+    "genre": "experimental writing",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1617",
+    "title": "The Stitch Count",
+    "text": "Write a personal essay about watching someone mend a torn sleeve while you wait together for a delayed appointment. Let the count of stitches organize the piece, with each numbered stitch opening one concrete detail about what neither of you says.",
+    "genre": "experimental writing",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1618",
+    "title": "A Field Guide to the Office Fridge",
+    "text": "Make a field guide to an office refrigerator’s changing ecosystem: containers, labels, migrations, and absences. Include a newcomer unsure whether one item is abandoned or protected.",
+    "genre": "experimental writing",
+    "form": "list essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1619",
+    "title": "The Camera Cannot Follow the Umbrella",
+    "text": "Write a screenplay scene at a rainy outdoor ceremony. The camera may follow only one bright umbrella; use who enters and leaves its frame to reveal a private public choice.",
+    "genre": "experimental writing",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1620",
+    "title": "The Intersections That Have No Written Names",
+    "text": "Invent a city where intersections are named by their sounds, not street signs. Explain how residents learn the names, then show a paving project silencing one corner and prompting a new name.",
+    "genre": "experimental writing",
+    "form": "worldbuilding",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1621",
+    "title": "Please Hold for the Previous Caller",
+    "text": "Write a monologue by a customer-service worker who keeps receiving calls for their predecessor. Let the mundane questions make the worker decide which inherited answers to keep.",
+    "genre": "experimental writing",
+    "form": "monologue",
+    "type": "character"
+  },
+  {
+    "id": "wp-1622",
+    "title": "A Page of Sound Without Onomatopoeia",
+    "text": "Describe a crowded indoor pool without sound-imitating words or direct mention of speech. Use echoes and altered movements to convey sound; end at closing time.",
+    "genre": "experimental writing",
+    "form": "experimental prose",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1623",
+    "title": "The Gardener's Soil Report",
+    "text": "Write six entries from a municipal soil tester sampling different patches of the same small park across a season. Keep measurements credible; let them reveal uses beyond the park’s official design.",
+    "genre": "experimental writing",
+    "form": "list essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1624",
+    "title": "How to Fold a Map You Have Never Used",
+    "text": "Write an instructional prose piece about folding a brand-new road map before a journey. Each step should be physically clear, but one fold keeps putting a small town out of sight; let the instruction writer decide whether to correct it.",
+    "genre": "experimental writing",
+    "form": "instructional prose",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1625",
+    "title": "The Wrong Number's Family Tree",
+    "text": "Tell a story through misdialed calls to a retired telephone operator. Each caller seeks someone unrelated; the operator’s handwritten diagram begins to resemble a family tree.",
+    "genre": "experimental writing",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1626",
+    "title": "A Poem Set to the Pace of an Escalator",
+    "text": "Write a poem whose lines match the movement of an escalator during a station's morning rush: slow at the landing, compressed in the middle, then scattered at the top. Follow one commuter without naming their destination.",
+    "genre": "experimental writing",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1627",
+    "title": "The Instructor's Demonstration",
+    "text": "Write a reflection on a workshop where the instructor demonstrates a familiar task incorrectly on purpose. Record the participants' different attempts to correct them, then consider what the exercise reveals about expertise and the fear of looking foolish.",
+    "genre": "experimental writing",
+    "form": "reflection",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1628",
+    "title": "A Contract for the Community Orchestra",
+    "text": "Draft a rehearsal contract for an amateur orchestra sharing instruments and time with a dance group. Include three rules and a young musician’s clause; reveal whose needs are unheard.",
+    "genre": "experimental writing",
+    "form": "letter",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1629",
+    "title": "The Photograph's Exposure Notes",
+    "text": "Write a microfiction as a photographer’s exposure log for one portrait session. Record settings, light, and the subject’s requests; let the final adjustment alter the portrait’s meaning.",
+    "genre": "experimental writing",
+    "form": "microfiction",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1630",
+    "title": "A Catalog of Unfinished Hums",
+    "text": "Make a list of six tunes people hum but cannot finish, each heard in a different ordinary setting. Invent the listeners and their reasons for stopping; arrange the entries so an unspoken connection emerges without naming it.",
+    "genre": "experimental writing",
+    "form": "list essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1631",
+    "title": "The Board Meeting in Pencil",
+    "text": "Write a screenplay scene at a residents’ meeting where projected minutes are corrected in pencil by one attendee. Let small factual edits gradually change the meeting’s purpose.",
+    "genre": "experimental writing",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1632",
+    "title": "The Arithmetic on the Back of the Test",
+    "text": "Write experimental prose from calculations erased and rewritten on the back of a student’s math test. Keep the equations plausible; let abandoned methods and margin marks reveal the student’s thoughts.",
+    "genre": "experimental writing",
+    "form": "experimental prose",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1633",
+    "title": "The Pigeon That Knows the Route",
+    "text": "Sketch a city pigeon that has learned a hospital’s delivery schedule. Describe it through three workers’ observations; each thinks the bird is waiting for something different.",
+    "genre": "experimental writing",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-1634",
+    "title": "Notes on an Unsolved Chess Puzzle",
+    "text": "Write a microfiction as two columns of annotations on a beginner's chess puzzle, one by a child and one by an older relative. Neither writer may name the winning move; let the spacing, corrections, and crossed-out advice reveal how they are learning to think together.",
+    "genre": "experimental writing",
+    "form": "microfiction",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1635",
+    "title": "The Night Shift's Constellation",
+    "text": "Write a prose poem about a hospital porter navigating corridors by the small indicator lights on equipment. Let the lights form an imagined constellation that changes with every delivery, and ground each image in a task the porter must complete.",
+    "genre": "experimental writing",
+    "form": "prose poem",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1636",
+    "title": "The Zamboni Operator's Monologue",
+    "text": "Write a monologue by an ice-rink operator resurfacing the floor between hockey and figure-skating lessons. Describe the route; let the erased and remaining patterns prompt an old reconsideration.",
+    "genre": "experimental writing",
+    "form": "monologue",
+    "type": "character"
+  },
+  {
+    "id": "wp-1637",
+    "title": "When the Recipe Has No Quantities",
+    "text": "Write about learning a family dish from someone who measures by sound, color, and touch. Reconstruct one cooking session and consider what demonstration can—and cannot—pass on.",
+    "genre": "experimental writing",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1638",
+    "title": "A Quiet Auction of Lost Umbrellas",
+    "text": "Invent a charity auction where nobody may describe an umbrella's owner or guess why it was lost. Present bids and brief item descriptions only; let one bidder's repeated restraint become the center of the scene.",
+    "genre": "experimental writing",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1639",
+    "title": "The Delayed Subtitle",
+    "text": "Write a screenplay sequence in which subtitles appear three seconds after the dialogue they translate. The viewer understands the language, but one character does not; use the lag to make a courteous conversation increasingly difficult to interpret.",
+    "genre": "experimental writing",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1640",
+    "title": "A Map of the Bakery's Smells",
+    "text": "Describe a bakery's workroom as a map organized only by smell: flour near the door, citrus by the sink, burnt sugar near the oven, and so on. Let a new apprentice navigate by this map during a busy morning and discover one scent they cannot place.",
+    "genre": "experimental writing",
+    "form": "experimental prose",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1641",
+    "title": "The Footnote in the Museum Audio Guide",
+    "text": "A museum audio-guide writer adds an optional note to an exhibit description. Follow one visitor who hears it and one who skips it; let their routes reveal how context changes what they see.",
+    "genre": "experimental writing",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1642",
+    "title": "The Town That Measures Its Wind",
+    "text": "Invent a plateau settlement where rooftop streamers report wind conditions. Explain the system and its blind spot, then show a newcomer deciding whether to trust a warning before a school event.",
+    "genre": "experimental writing",
+    "form": "worldbuilding",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1643",
+    "title": "The Borrowed Coat's Pockets",
+    "text": "Write a monologue by a wedding coat-check attendant sorting garments by their unopened pockets. Let the attendant’s handling rules reveal a private ethic of care.",
+    "genre": "experimental writing",
+    "form": "monologue",
+    "type": "character"
+  },
+  {
+    "id": "wp-1644",
+    "title": "A Poem of Unfinished Measures",
+    "text": "Write a poem about a small repair job in which every stanza is a different unit of measure—seconds, centimeters, handfuls, and one unit the speaker invents. Let the shift in scale change how much time the repair seems to take, without explaining the metaphor.",
+    "genre": "experimental writing",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1645",
+    "title": "The Practice of Waiting for Glue",
+    "text": "Reflect on repairing a chipped bowl with someone who insists on observing the full curing time. Stay with the physical details of waiting and what a faster repair would miss.",
+    "genre": "experimental writing",
+    "form": "reflection",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1646",
+    "title": "The Garden's Volunteer Roster",
+    "text": "Create a roster for a community garden workday, with tasks, names, and substitutions. Let sign-ups reveal a conflict about the garden’s purpose; leave one task unassigned.",
+    "genre": "experimental writing",
+    "form": "list essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1647",
+    "title": "A Translation of a Handshake",
+    "text": "Write a story in which a newcomer is taught one handshake, then sees three people use it differently. Keep the motion consistent as its social meaning shifts with setting and consent.",
+    "genre": "experimental writing",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1648",
+    "title": "The Museum's Emergency Drill",
+    "text": "During an evacuation drill at a natural-history museum, staff must move visitors without explaining which exhibits are fragile. Let their choices show what they trust the public to protect.",
+    "genre": "experimental writing",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1649",
+    "title": "The Recipe for Identifying a Bird by Its Shadow",
+    "text": "Write instructions for identifying a bird from its shadow on a wall. Make the steps precise but imperfect; let a learner discover what the guide omits about the place.",
+    "genre": "experimental writing",
+    "form": "instructional prose",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1650",
+    "title": "The Chalkboard After the Lesson",
+    "text": "Write a found poem using only words and marks left on a classroom chalkboard after a fractions lesson. Reorder and repeat them to suggest what the students were really trying to divide.",
+    "genre": "experimental writing",
+    "form": "found poem",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1651",
+    "title": "The Blank Side at the Copy Shop",
+    "text": "At a coin-operated copier that prints only double-sided pages, a poet tries to make a one-sided handout and finds a note on every test sheet. Let the machine shape their encounter.",
+    "genre": "experimental writing",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1652",
+    "title": "The Night of the Rotating Street Brooms",
+    "text": "Invent a district where residents take turns sweeping one block after dark, using a different broom each week. Explain the rota and how a late-opening shop changes the custom.",
+    "genre": "experimental writing",
+    "form": "worldbuilding",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1653",
+    "title": "A Monologue for the Missing Page Number",
+    "text": "Write a monologue from a bookbinder preparing a reprint whose pages have always been misnumbered. Explain the practical fix, then argue that the error should remain visible.",
+    "genre": "experimental writing",
+    "form": "monologue",
+    "type": "character"
+  },
+  {
+    "id": "wp-1654",
+    "title": "The Soundcheck for a Public Apology",
+    "text": "Write a screenplay scene in which a local official tests a microphone before a public apology. Technical soundcheck lines meet an empty hall’s acoustics; one sentence cannot hide.",
+    "genre": "experimental writing",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1655",
+    "title": "The Orchestra's Tuning Note",
+    "text": "Tell an orchestra rehearsal through a volunteer tuner’s pitch notes. Record adjustments instrument by instrument; one musician’s refusal reveals a disagreement mistaken for a technical problem.",
+    "genre": "experimental writing",
+    "form": "experimental prose",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1656",
+    "title": "The Acrostic of a Workday",
+    "text": "Write a poem whose line initials spell the name of a job no one in the poem has named. Use concrete tasks and workplace details rather than definitions, and let the reader infer why the worker is considering a change.",
+    "genre": "experimental writing",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1657",
+    "title": "The Public Fountain's Maintenance Review",
+    "text": "Profile the technician maintaining a new public fountain through one work order per month. Let practical notes show how the public has taught the designer what the fountain is for.",
+    "genre": "experimental writing",
+    "form": "profile",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1658",
+    "title": "The Custodian's Key Ring",
+    "text": "Write about a key ring shared by people who open a community building. Describe its labels, loans, and returns; reflect on which kinds of trust a checklist can manage.",
+    "genre": "experimental writing",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1659",
+    "title": "The Announcement That Must Fit on a Matchbox",
+    "text": "Compose a neighborhood-event announcement small enough for a matchbox sleeve. Write shorter versions, preserving one practical fact each time; keep the detail first deemed expendable.",
+    "genre": "experimental writing",
+    "form": "microfiction",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1660",
+    "title": "A Bench in the Middle of a Moving Day",
+    "text": "Write a prose poem about movers carrying furniture through a narrow stairwell while a resident sits on the landing bench. Follow the choreography of asking, waiting, and passing.",
+    "genre": "experimental writing",
+    "form": "prose poem",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1661",
+    "title": "The Measuring Cup on Trial",
+    "text": "In a cooking class, beginners test whether a chipped measuring cup is accurate enough to use. Keep each test observable; let the disagreement reveal different ideas of careful work.",
+    "genre": "experimental writing",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1662",
+    "title": "The Flour Sack Labels",
+    "text": "Compose a found poem using only the maker, origin, grade, and batch codes on flour sacks in a bakery storeroom. Reorder and repeat the fragments to suggest a month of deliveries.",
+    "genre": "experimental writing",
+    "form": "found poem",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1663",
+    "title": "The Row of Unclaimed Coats",
+    "text": "Write a microfiction after a school concert, where a row of coats remains. Describe the garments and the caretaker’s choices before locking up; let the final coat change the others’ meaning.",
+    "genre": "experimental writing",
+    "form": "microfiction",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1664",
+    "title": "A Letter from the Town's Last Payphone",
+    "text": "Write a letter from a decommissioned payphone to the technician removing it from a railway concourse. Describe its life through call durations, coins, and repairs; give the technician one choice.",
+    "genre": "experimental writing",
+    "form": "letter",
+    "type": "character"
+  },
+  {
+    "id": "wp-1665",
+    "title": "The Last Table at the Community Supper",
+    "text": "Journal about arriving late to a community supper and finding the table still needs setting. Record your practical choices before sitting; consider joining a gathering by helping it finish.",
+    "genre": "experimental writing",
+    "form": "journaling",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1666",
+    "title": "When the Promise Changes",
+    "text": "You promised a neighbor you would keep their small repair shop open while they recovered. Months later, they ask you to stop because your help has become a source of pressure. Write a reflection on whether keeping a promise honors the person who made it, the person who received it, or the original circumstances—and what should happen when those come apart.",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1667",
+    "title": "The Gift Left at the Gate",
+    "text": "A former rival leaves a costly, useful gift at your gate with no note and no way to return it. Write a short essay about what accepting a gift can mean when its giver cannot explain their intention: generosity, leverage, an invitation, or something else. Let the object and your response carry the inquiry.",
+    "genre": "philosophical writing",
+    "form": "personal essay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1668",
+    "title": "The Rule's Unwritten Exception",
+    "text": "At a community kitchen, the posted rule says one meal per person, but a volunteer quietly gives a second portion to someone whose child is waiting outside. Write a scene and reflection asking whether fairness lies in applying the rule consistently or noticing when its purpose calls for an exception.",
+    "genre": "philosophical writing",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1669",
+    "title": "The Work of Remorse",
+    "text": "A person who caused a preventable injury keeps volunteering for unpleasant tasks, though the injured person has asked for a different kind of help. Write a reflection distinguishing remorse, self-punishment, and useful repair. What would count as evidence that the person has learned something?",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1670",
+    "title": "Courage Without Witness",
+    "text": "After making a public accusation, a junior employee learns that the evidence was incomplete. They can correct the record quietly or stand up at the next meeting and admit the mistake. Write a monologue about whether courage is measured by risk, truthfulness, or what one is willing to lose.",
+    "genre": "philosophical writing",
+    "form": "monologue",
+    "type": "character"
+  },
+  {
+    "id": "wp-1671",
+    "title": "The Humility Test",
+    "text": "A radio host is asked a question outside their expertise while the microphone is live. Write the moment in close detail, then reflect on whether humility means saying 'I don't know,' naming what you do know, or making room for someone else to answer. Avoid turning modesty into a performance of virtue.",
+    "genre": "philosophical writing",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1672",
+    "title": "Envy at the Award Ceremony",
+    "text": "At a local award ceremony, you feel resentment when a colleague receives recognition you wanted. Write a journal entry that treats envy as information rather than a confession to be suppressed: what standard of worth does it reveal, and do you actually endorse that standard? Include one reason your first answer may be wrong.",
+    "genre": "philosophical writing",
+    "form": "journaling",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1673",
+    "title": "Shame in the Repair Shop",
+    "text": "A craftsperson discovers that a flaw they hid in a repaired chair has worsened and may injure its new owner. Write a short story that asks what shame can do: make a person hide, attend more carefully, or both. Let the repair itself become part of the character's moral choice.",
+    "genre": "philosophical writing",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1674",
+    "title": "The Uncelebrated Good Act",
+    "text": "Write a microfiction about someone who corrects a small but consequential mistake in a public ledger, knowing nobody will discover who did it. In the final sentence, let the action raise a question about whether goodness requires a witness, a reward, or even a clear sense of having done good.",
+    "genre": "philosophical writing",
+    "form": "microfiction",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1675",
+    "title": "Friendship After the Argument",
+    "text": "Two friends disagree about how to spend a shared holiday, then each makes a sincere effort to understand the other's reasons and still cannot agree. Write a dialogue in which neither friendship nor agreement is treated as the automatic prize. What, if anything, does friendship require after persuasion has failed?",
+    "genre": "philosophical writing",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1676",
+    "title": "An Uneven Friendship",
+    "text": "One friend has time, money, and practical confidence; the other can offer little of those things but is the person everyone calls in a crisis. Write a reflective essay about whether reciprocity requires equal contributions, mutual dependence, or a different measure altogether. Ground it in one ordinary exchange.",
+    "genre": "philosophical writing",
+    "form": "personal essay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1677",
+    "title": "Love Without a Ledger",
+    "text": "A couple has kept a private tally of who has yielded more, and one partner proposes throwing it away. Write a list essay with two columns: what a ledger can protect against, and what it can do to affection. End with a note on whether love can be fair without being countable.",
+    "genre": "philosophical writing",
+    "form": "list essay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1678",
+    "title": "The Confidence at the Door",
+    "text": "A friend shares a private story that suggests someone else may be in immediate danger, then asks you to keep it secret. Write a letter to the friend explaining what you will do and why. Make the conflict about the limits of confidentiality, not a simple choice between loyalty and betrayal.",
+    "genre": "philosophical writing",
+    "form": "letter",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1679",
+    "title": "The Guest Who Will Not Leave",
+    "text": "After a neighborhood meal, one guest stays long after the host's energy is gone, while other guests insist that asking them to leave would be inhospitable. Write a short scene and examine whether hospitality is a duty with limits, a gift freely offered, or a custom that distributes power.",
+    "genre": "philosophical writing",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1680",
+    "title": "Trust at the Workbench",
+    "text": "A mechanic admits that a repair is beyond their skill and recommends a competitor who charges more. Write a reflection on what makes this admission trustworthy. Is trust earned by accuracy, vulnerability, consistent conduct, or something a person cannot prove in advance?",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1681",
+    "title": "Hope in the Waiting Ward",
+    "text": "A patient and a nurse use the word hope differently: one means expecting recovery, the other means finding a reason to face the next hour. Write a two-voice prose poem that lets both meanings stand. Ask whether hope depends on believing a good outcome is likely.",
+    "genre": "philosophical writing",
+    "form": "prose poem",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1682",
+    "title": "Fear's Advice",
+    "text": "A mountain guide cancels a popular route after noticing a subtle change in the weather; the clients call the decision cowardly. Write a profile of the guide that tests the difference between fear as a warning and fear as a limit. Show how the same feeling can support judgment or narrow it.",
+    "genre": "philosophical writing",
+    "form": "profile",
+    "type": "character"
+  },
+  {
+    "id": "wp-1683",
+    "title": "A Future That Still Hurts",
+    "text": "A person grieves a planned career that became impossible after an injury, even though their present life is meaningful. Write a personal essay asking whether it is possible to mourn a future that never occurred without treating the life one has as a consolation prize.",
+    "genre": "philosophical writing",
+    "form": "personal essay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1684",
+    "title": "The Color No One Can Name",
+    "text": "Two painters use the same color word but insist they experience different colors when looking at the same swatch. Write an experimental prose piece that moves between their descriptions, the labels in the paint shop, and the pigment itself. What can shared language establish about private experience?",
+    "genre": "philosophical writing",
+    "form": "experimental prose",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1685",
+    "title": "A Thought Before Its Owner",
+    "text": "During a routine task, a sentence appears in a person's mind before they know whether they believe it. Write a short story following the sentence through the day, then reflect on whether having a thought makes it part of one's character or merely something one must decide how to treat.",
+    "genre": "philosophical writing",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1686",
+    "title": "The Feeling That Makes a Claim",
+    "text": "A visitor feels irritation when a museum guard asks them not to touch an exhibit, then notices that the guard has been protecting the same fragile object all day. Write a journal entry about emotions as judgments: what did the irritation seem to say was unfair, and did that claim survive attention?",
+    "genre": "philosophical writing",
+    "form": "journaling",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1687",
+    "title": "The World Between Waking and Sleep",
+    "text": "A night-shift worker hears a familiar voice while drifting to sleep in a break room, then cannot tell whether it came from the hallway or a dream. Write a prose poem about the uncertain border between perception and imagination, without revealing which explanation is correct.",
+    "genre": "philosophical writing",
+    "form": "prose poem",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1688",
+    "title": "Consent in the Quiet Room",
+    "text": "A patient signed a broad consent form days before a procedure. Just before it begins, the clinician explains a new option with different risks, but the patient is exhausted and has little time to decide. Write a scene about what meaningful consent requires when information and circumstances change. Do not treat either the signature or the latest preference as automatically decisive.",
+    "genre": "philosophical writing",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1689",
+    "title": "The Mind at the Bell Tower",
+    "text": "A bell ringer can perform the same sequence flawlessly while thinking about a recipe, yet says the bells sound different when attention returns to them. Write a reflection on whether attention alters an experience or only the way it is noticed. Begin with the physical work of pulling the rope.",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1690",
+    "title": "The Body's Quiet Geometry",
+    "text": "A dancer learns a new step by watching their feet in a mirror, but can perform it only after turning away. Write a short essay about knowledge held in movement: is the body a tool directed by the mind, or can skill be a kind of understanding in its own right?",
+    "genre": "philosophical writing",
+    "form": "personal essay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1691",
+    "title": "Can a Character Be Wronged?",
+    "text": "A reader is distressed when a novelist gives a beloved fictional character an ending the character would have resisted. Write a dialogue between the reader and the novelist about whether anyone has been wronged, and what kind of care readers owe to figures who exist only in a work.",
+    "genre": "philosophical writing",
+    "form": "screenplay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1692",
+    "title": "The Ritual Before the Repair",
+    "text": "Before starting a difficult job, a mechanic lays out the same tools in the same order, though the arrangement makes no measurable difference to the repair. Write a reflection on whether repetition creates meaning, expresses meaning already there, or helps people act when reasons are not enough.",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1693",
+    "title": "The Member Who Cannot Sing",
+    "text": "A neighborhood choir welcomes a new member who cannot carry a tune but arrives early to set out chairs and stays to listen. When the group must choose who will represent it at a public event, members disagree about what belonging requires. Write a story that lets contribution, presence, and recognition pull in different directions.",
+    "genre": "philosophical writing",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1694",
+    "title": "Faith at the Repair Counter",
+    "text": "A customer asks a craftsperson to restore an heirloom, saying they have faith it can be saved, though both know the odds are poor. Write a monologue by the craftsperson about the difference between faith, optimism, and trust—and whether one can act on faith without claiming certainty.",
+    "genre": "philosophical writing",
+    "form": "monologue",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1695",
+    "title": "The Blessing Nobody Requested",
+    "text": "At a public ceremony, an official offers a blessing that some attendees welcome and others find presumptuous. Write a brief scene followed by a reflection: can a blessing be a gift when its recipient has not consented to its religious language? Keep room for more than one reasonable response.",
+    "genre": "philosophical writing",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1696",
+    "title": "An Ending Without an Author",
+    "text": "A long-running natural process ends when two unrelated events coincide, and the people who studied it argue about whether it ended by chance or by necessity. Write a reflection that distinguishes a cause from a purpose. Use the closing of a seasonal river as your concrete case.",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1697",
+    "title": "The Sandbag at the Threshold",
+    "text": "Volunteers place sandbags along a river path as the water rises. Each bag adds almost nothing by itself, yet at some point the line becomes a barrier people trust. Write a short reflection on vague thresholds: when does a collection become a levee, and is there a single fact that settles the question?",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1698",
+    "title": "The Coin That Has Two Sides",
+    "text": "A coin lands on edge in a crack in the pavement, balanced between heads and tails. Write a microfiction about three passersby who disagree on whether the result is chance, an unfinished event, or a reason to change their plans. Let their interpretations matter more than the coin's fate.",
+    "genre": "philosophical writing",
+    "form": "microfiction",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1699",
+    "title": "The Sound of an Almost-Word",
+    "text": "A radio operator hears a transmission that might be a name or might be static; every listener transcribes it differently. Write a prose poem that lets the uncertain syllable recur in several contexts. Ask when an unclear sound becomes a word, and whether listeners can decide that together.",
+    "genre": "philosophical writing",
+    "form": "prose poem",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1700",
+    "title": "The Meal No One Can Taste for You",
+    "text": "A cook insists a stew is too salty, while the diners disagree and the recipe gives no useful measure. Write a reflective piece about the authority of first-person taste: can anyone be mistaken about what they experience, or only about what caused it and how to describe it? Ground the question in the meal at the table.",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1701",
+    "title": "The Custom Nobody Remembers",
+    "text": "Residents of an apartment building leave a small light on in the stairwell each winter, but no one remembers who began the practice. Write a story about a new tenant who asks whether to keep it. Let the custom's value emerge through competing accounts of usefulness, belonging, and inherited meaning.",
+    "genre": "philosophical writing",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1702",
+    "title": "The Festival That Outgrew Its Name",
+    "text": "A neighborhood celebration began as a religious observance and is now mostly food stalls and music; a few residents want to restore its original purpose. Write a dialogue among three generations about whether a tradition can change and still be the same tradition.",
+    "genre": "philosophical writing",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1703",
+    "title": "The Hand That Pauses",
+    "text": "At a crowded market, one shopper reaches to take the last item from a shared basket, then notices another person's hand hovering nearby. Write a short scene about the meaning of hesitation: is it a claim, an offer, a refusal, or simply a movement? Let two observers interpret the gesture differently.",
+    "genre": "philosophical writing",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1704",
+    "title": "The Number That Becomes a Goal",
+    "text": "A library tracks how many books each branch lends, then notices that staff begin choosing activities to improve the count rather than serve readers. Write an experimental prose piece about measurement changing the behavior it was meant to describe. What can a number reveal once people start organizing themselves around it?",
+    "genre": "philosophical writing",
+    "form": "experimental prose",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1705",
+    "title": "The Last Seat in the Lifeboat",
+    "text": "A lifeboat has room for one more person, and two passengers argue over whether the place belongs to the youngest, the most injured, or whoever reaches it first. Write a letter from a survivor to someone who was not there, explaining the rule they chose and the strongest reason to doubt it.",
+    "genre": "philosophical writing",
+    "form": "letter",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1706",
+    "title": "The Stutter in the Verdict",
+    "text": "A witness pauses and repeats words while answering a judge, and the courtroom mistakes hesitation for uncertainty. Write a dramatic monologue from the witness's perspective about how speech fluency becomes confused with credibility. What would a fair listener need to notice?",
+    "genre": "philosophical writing",
+    "form": "monologue",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1707",
+    "title": "The Unfinished Game",
+    "text": "A group of children invents a game, but one player changes a rule halfway through and claims the new rule was always implied. Write a short story that asks what makes a game fair: agreement, consistency, room for improvisation, or the ability to leave. Let the players disagree in believable ways.",
+    "genre": "philosophical writing",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1708",
+    "title": "Play Without a Prize",
+    "text": "A group of adults meets each week to play a complicated game they never finish and never score. Write a profile of one player who insists the meetings are not a waste of time. Explore whether play needs an outcome to be valuable, and what the players gain from a practice with no winner.",
+    "genre": "philosophical writing",
+    "form": "profile",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1709",
+    "title": "The Playground's Invisible Line",
+    "text": "Children at a playground divide the climbing structure into territories without agreeing on a boundary. Write a poem in which the line shifts with each child's claim. Let the poem ask whether ownership begins with use, agreement, need, or the power to make others move.",
+    "genre": "philosophical writing",
+    "form": "poetry",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1710",
+    "title": "The Student Who Refused the Grade",
+    "text": "A student returns an exam with every answer correct but refuses the grade, arguing that the test measured recall rather than understanding. Write a reflective essay from the teacher's point of view. What can an assessment legitimately claim to know about a learner, and what must remain outside its score?",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1711",
+    "title": "The Lesson That Changed Its Teacher",
+    "text": "A teacher asks students to explain a concept in their own words and discovers that the class understands it differently from the textbook. Write a short story about the teacher deciding whether to revise the lesson or defend its standard definition. Let learning alter who is allowed to teach whom.",
+    "genre": "philosophical writing",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1712",
+    "title": "A School for Unfinished Questions",
+    "text": "Design a one-day school where no one is graded for answers, only for the quality of questions they learn to ask. Write a practical set of instructions for one class, then reflect on what such a school could teach well and what it might fail to teach.",
+    "genre": "philosophical writing",
+    "form": "instructional prose",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1713",
+    "title": "The Unseen Work of a Meal",
+    "text": "At a family dinner, one person prepares the food, another tells the stories, and a third washes every dish after the guests leave. Write a list essay that makes visible the different kinds of contribution without converting them into a simple score. Ask what recognition can do that equal division cannot.",
+    "genre": "philosophical writing",
+    "form": "list essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1714",
+    "title": "The Tool That Teaches the Hand",
+    "text": "A potter changes from a heavy wheel to a lighter one and finds that their hands begin shaping the clay differently. Write a reflection on whether tools merely extend an intention or help form the intention itself. Describe one moment when the material resists both the maker and the instrument.",
+    "genre": "philosophical writing",
+    "form": "personal essay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1715",
+    "title": "A Garden Left to the Weeds",
+    "text": "A public garden is deliberately left partly untended, to make room for wild growth; some visitors see ecological care, others see neglect. Write a reflection from a groundskeeper's perspective on whether human care must always look like control. Include the needs and limits of the people who use the garden.",
+    "genre": "philosophical writing",
+    "form": "personal essay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1716",
+    "title": "The Animal at the Door",
+    "text": "A dog waits each evening at the door for a person who has moved away, and the household disagrees about whether to change the routine. Write a short story about what the family can responsibly infer from the dog's behavior without claiming certainty about its inner life. Keep the focus on how the humans decide to act.",
+    "genre": "philosophical writing",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1717",
+    "title": "The Night Sky from the City",
+    "text": "A child sees the Milky Way for the first time during a power outage and asks whether the stars are more real in the dark. Write a lyrical reflection on how visibility shapes what people treat as important. Keep the question grounded in the child's exact view from the apartment courtyard.",
+    "genre": "philosophical writing",
+    "form": "poetry",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1718",
+    "title": "The Visitor Who Does Not Believe",
+    "text": "A community invites a skeptical visitor to observe a ceremony but expects them to join in. Write a scene in which both the visitor and the host try to be respectful and still misread each other. Ask whether participation can have meaning without belief, and whether watching can itself be a form of respect.",
+    "genre": "philosophical writing",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1719",
+    "title": "The Map Made for Walking",
+    "text": "A city map omits stairs, shade, curb cuts, and places to rest, although these details determine who can travel comfortably. Write a reflective essay on whether a map represents a place or a particular user's possibilities within it. Describe one route from the perspective of two people with different needs.",
+    "genre": "philosophical writing",
+    "form": "personal essay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1720",
+    "title": "The Photograph's Uninvited Viewer",
+    "text": "A family photograph is displayed in a public exhibition without the permission of everyone pictured. Write a letter to the curator that weighs the photograph's historical value against the subjects' claims to privacy. Do not assume that either public interest or personal consent settles every case.",
+    "genre": "philosophical writing",
+    "form": "letter",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1721",
+    "title": "The Painting That Looks Back",
+    "text": "A visitor stands before a portrait and feels that the painted subject is judging them, though they know the canvas cannot see. Write a prose poem that holds both the physical fact and the felt encounter. What can an artwork seem to do without literally acting?",
+    "genre": "philosophical writing",
+    "form": "prose poem",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1722",
+    "title": "The Song With No Lyrics",
+    "text": "A night worker hears a melody played on a single instrument and feels that it expresses grief, while a colleague hears only a pattern of notes. Write a found poem from scraps of their conversation and the sounds of the room. Let the form ask whether music can mean something without making a claim in words.",
+    "genre": "philosophical writing",
+    "form": "found poem",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1723",
+    "title": "The Applause That Arrives Late",
+    "text": "At a performance, half the audience begins clapping before the final note has ended; the rest wait in silence. Write a reflective piece about how conventions shape aesthetic experience. Does the applause report pleasure, create a shared response, or tell people what response is expected?",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1724",
+    "title": "The Curtain Call Nobody Takes",
+    "text": "After a play, one actor declines to return for the curtain call, while the rest of the cast bows. Write a short essay from the stage manager's perspective about what performers owe an audience after a performance, and whether a work's ending belongs to its makers or to those who receive it.",
+    "genre": "philosophical writing",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1725",
+    "title": "The Wall Between Two Gardens",
+    "text": "A public garden is split by a high wall built to protect a rare collection of plants; visitors on both sides argue that the wall changes what the garden is for. Write a monologue by the groundskeeper deciding whether to keep, lower, or remove it. Consider beauty, access, and stewardship without reducing the choice to a slogan.",
+    "genre": "philosophical writing",
+    "form": "monologue",
+    "type": "character"
+  },
+  {
+    "id": "wp-1726",
+    "title": "The Comfortable Chair",
+    "text": "An office chooses chairs that suit most employees, while one worker finds the standard chair painful and another finds the proposed alternative stigmatizing. Write a reflective piece about the difference between treating everyone identically and designing for shared use. Stay with the small decisions of the meeting rather than announcing a universal solution.",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1727",
+    "title": "The Name on the Attendance Sheet",
+    "text": "A substitute teacher finds that one student answers to a nickname, another to a formal name, and a third corrects the spelling each week. Write a short scene about taking attendance that asks who has authority over a person's name in a shared institution. Let the teacher's choices matter beyond efficiency.",
+    "genre": "philosophical writing",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1728",
+    "title": "The Promise of a Perfect View",
+    "text": "A new observation deck offers a clear view of the whole valley but blocks access to a path used by residents for generations. Write a reflection on whether seeing a place from above counts as understanding it. Contrast the visitor's overview with the knowledge gained by moving through the landscape.",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1729",
+    "title": "The Unfinished Contract",
+    "text": "A committee writes a contract for a new public service, but no document can anticipate every circumstance its workers will face. Write a scene in which a clerk encounters a case the contract does not cover. Explore whether fairness requires following the text, interpreting its purpose, or admitting that no rule can finish the work of judgment.",
+    "genre": "philosophical writing",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1730",
+    "title": "A Question for the Empty Platform",
+    "text": "A railway platform is closed after its last train, yet a commuter keeps arriving there at the old time out of habit. Write a short reflective piece about whether a place's purpose ends when people stop using it, or whether traces of use can give it another kind of significance. Anchor the question in what the commuter notices on one quiet evening.",
+    "genre": "philosophical writing",
+    "form": "reflection",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1731",
+    "title": "The First Time Someone Asked Me for Advice",
+    "text": "Reconstruct a real, modest moment when someone asked you how to do something you had only recently learned yourself. Stay with the exchange and the uncertainty in your answer; consider when experience begins to feel like expertise.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1732",
+    "title": "A Game with Local Rules",
+    "text": "Write about learning a card, board, or playground game from a particular group. Set down one rule they used that differed from the printed or familiar version, then show how that rule shaped a specific round without deciding which version is correct.",
+    "genre": "creative nonfiction",
+    "form": "journaling",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1733",
+    "title": "The Accompanist’s Left Hand",
+    "text": "Profile a pianist or other accompanist who works with singers or instrumentalists. Observe a rehearsal with permission and ask how they adjust tempo, volume, or attention to support another performer; verify musical terms and let the collaborator describe the work in their own words.",
+    "genre": "creative nonfiction",
+    "form": "profile",
+    "type": "character"
+  },
+  {
+    "id": "wp-1734",
+    "title": "An Envelope I Never Sent",
+    "text": "Write a letter to someone you once considered writing to but did not. Anchor it in the real occasion that brought the words to mind, and separate what you remember from what you are imagining about the recipient’s response.",
+    "genre": "creative nonfiction",
+    "form": "letter",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1735",
+    "title": "The Cleanup Crew After the Game",
+    "text": "Describe the work of putting away equipment after a local sports match or practice you attended. Use concrete actions and objects to show how the event ends for the people who stay behind; do not invent private thoughts for anyone you observed.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1736",
+    "title": "A Kitchen Shared by Strangers",
+    "text": "Recall or report one specific meal prepared in a shared kitchen where the cooks did not know one another well. Follow the small negotiations over space, timing, and utensils, and let the scene remain about what you actually saw or did.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1737",
+    "title": "After the Schoolyard Rain",
+    "text": "Keep a brief field journal of a schoolyard or playground just after rain, from a place you can observe without intruding. Record changes in surfaces, sounds, and use at two different moments; make clear which details are observation and which are inference.",
+    "genre": "creative nonfiction",
+    "form": "journaling",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1738",
+    "title": "The Route on a Scrap of Paper",
+    "text": "Write about a real time you navigated an unfamiliar building using directions someone had written by hand. Reconstruct where the directions helped or failed, and separate what you remember from what you later confirmed.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1739",
+    "title": "The Referee’s View of the Match",
+    "text": "Profile an amateur sports referee who agrees to speak with you. Ask how they prepare, make a disputed call, and return to ordinary life after the game; distinguish their account from what you personally witnessed and check the rules of the sport.",
+    "genre": "creative nonfiction",
+    "form": "profile",
+    "type": "character"
+  },
+  {
+    "id": "wp-1740",
+    "title": "The Costume That Changed My Posture",
+    "text": "Recall wearing a costume, uniform, or theatrical outfit for a specific event. Describe what it allowed or made difficult you to do, using physical details rather than treating the clothing as a symbol with a single meaning.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1741",
+    "title": "Applause from the Wrong Side",
+    "text": "Write a short scene from a real event where applause began at an unexpected moment or for an unexpected reason. Recreate only the sounds and actions you can recall or corroborate, then reflect on how a crowd decides when a moment is over.",
+    "genre": "creative nonfiction",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1742",
+    "title": "The Practice Room Door",
+    "text": "Describe a real practice room, studio, or rehearsal space from the point of view of someone waiting outside it. Use details you were actually able to hear or see, and explore what the boundary between preparation and performance meant in that moment.",
+    "genre": "creative nonfiction",
+    "form": "prose poem",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1743",
+    "title": "Three Things I Learned from a Failed Attempt",
+    "text": "Choose a real attempt that did not work as planned, but keep the focus on three specific adjustments you made afterward. Give each adjustment its own brief section and avoid turning the experience into a universal lesson.",
+    "genre": "creative nonfiction",
+    "form": "list essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1744",
+    "title": "A Name for the Neighborhood Team",
+    "text": "Research how a local amateur team, club, or ensemble chose its name. Use a source from someone involved and any available records, and write about the difference between the documented origin and the meanings members attach to the name now.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1745",
+    "title": "My First Shift Without a Script",
+    "text": "Reconstruct a real moment when you had to respond to a customer, visitor, or colleague without prepared wording. Keep the account close to the exchange and its practical stakes; note any detail you cannot recall rather than smoothing it into a perfect scene.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1746",
+    "title": "The Soundcheck in an Empty Hall",
+    "text": "Write from firsthand observation of a soundcheck before a performance. Record how one sound changed as the performers or technicians adjusted it, and identify what you know about the process versus what you infer from the room.",
+    "genre": "creative nonfiction",
+    "form": "experimental prose",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1747",
+    "title": "A Note to the Person Who Taught Me to Swim",
+    "text": "Write a letter to someone who taught you—or tried to teach you—a practical skill. Choose one verifiable memory from the learning process and say what you understand differently now, without supplying feelings or words the other person never expressed.",
+    "genre": "creative nonfiction",
+    "form": "letter",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1748",
+    "title": "One Borrowed Hour in a Workshop",
+    "text": "Spend an hour observing a workshop, makerspace, or repair class with permission. Write a compact account of one task from setup to cleanup, noting where the learner’s hands, the instructor’s advice, and the available tools changed the result.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1749",
+    "title": "A Field Note on City Pigeons",
+    "text": "Choose a small public area and observe pigeons there on two separate visits. Record behavior you can see without assigning personalities, then consult a reliable source for one relevant fact about the birds and show how the fact changes—or does not change—your attention.",
+    "genre": "creative nonfiction",
+    "form": "journaling",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1750",
+    "title": "The Joke That Needed Explaining",
+    "text": "Recall a real joke or reference that failed to land because part of its context was missing. Reconstruct the setting and the explanation as accurately as possible, then examine what changed when the context was supplied.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1751",
+    "title": "A Small Ceremony Before Opening",
+    "text": "Observe or report on a real team or group’s brief routine before beginning work or an activity. Describe the sequence exactly as it happens and ask one participant what it means to them; do not turn a single explanation into the group’s official meaning.",
+    "genre": "creative nonfiction",
+    "form": "profile",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1752",
+    "title": "The Day My Voice Went Hoarse",
+    "text": "Write about a specific, ordinary day when your voice changed or failed you. Use remembered sensations and confirmed circumstances, and consider how speaking less affected the people and tasks around you without claiming to know what others thought.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1753",
+    "title": "A Map of a Neighborhood Game",
+    "text": "Draw or describe the boundaries used in a real neighborhood game—where play could begin, what counted as out, and which spaces were off-limits. Set the remembered rules beside any differences among players’ accounts; let disagreement remain part of the record.",
+    "genre": "creative nonfiction",
+    "form": "experimental prose",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1754",
+    "title": "What the Usher Sees",
+    "text": "Profile an usher or volunteer at a performance venue, with consent. Ask what they notice before, during, and after an event, and build the piece around one task that audience members might miss; verify the venue’s procedures rather than assuming them.",
+    "genre": "creative nonfiction",
+    "form": "profile",
+    "type": "character"
+  },
+  {
+    "id": "wp-1755",
+    "title": "A Receipt from a Day Off",
+    "text": "Use one receipt from a day you were not working as the starting point for a short essay. Reconstruct where the purchase fit into the day using only details you can support, and resist treating the amount spent as a complete measure of what the day was worth.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1756",
+    "title": "The Unofficial Translator at the Reunion",
+    "text": "Write about a real gathering where one person informally helped others understand a conversation across languages, dialects, or specialized vocabulary. Quote only what you remember or have permission to use, and notice how the helper’s role shifted as the exchange unfolded.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1757",
+    "title": "A Poem from a Scorecard",
+    "text": "Create a found poem using only words, numbers, and marks from a real sports scorecard or program you can lawfully use. Preserve enough context to identify the event and explain your selections in a brief source note; do not alter the record to imply a result it does not show.",
+    "genre": "creative nonfiction",
+    "form": "found poem",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1758",
+    "title": "The Person Who Calls the Dances",
+    "text": "Interview a caller or instructor at a community dance. Ask how they choose a sequence, handle a missed step, and help newcomers join; use observed details and the person’s own account rather than inventing an inner monologue for the dancers.",
+    "genre": "creative nonfiction",
+    "form": "profile",
+    "type": "character"
+  },
+  {
+    "id": "wp-1759",
+    "title": "An Inventory of Things I Misheard",
+    "text": "List five real phrases or announcements you once misheard, along with the setting and what corrected your understanding. If a phrase is uncertain, label it as remembered rather than exact; let the differences show how context shapes listening.",
+    "genre": "creative nonfiction",
+    "form": "list essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1760",
+    "title": "The Applause Sign in the Studio",
+    "text": "Research how a real television or radio studio audience is cued to respond, using a credible source or a willing participant. Set the documented practice beside your own experience of watching or attending a recording, and avoid claiming that all audience reactions are staged or spontaneous.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1761",
+    "title": "The First Time I Was the Newcomer",
+    "text": "Reconstruct your first visit to a group that already knew one another—a class, club, or volunteer team. Focus on the concrete signals that helped or hindered your participation, and separate what someone said from what you only guessed it meant.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1762",
+    "title": "Notes from a Community Orchestra",
+    "text": "Attend a rehearsal or consult a participant with permission, then make notes about how a community orchestra handles one difficult passage. Follow the exchange among conductor, players, and score; verify musical details and keep the account grounded in what occurred.",
+    "genre": "creative nonfiction",
+    "form": "journaling",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1763",
+    "title": "The Unclaimed Applause",
+    "text": "Write a monologue based on a real moment when praise was directed at a group but no one person could accept it for everyone. Use a clearly identified speaker’s own account or your own experience, and distinguish quotation from reconstruction.",
+    "genre": "creative nonfiction",
+    "form": "monologue",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1764",
+    "title": "How a Local Club Chooses Its President",
+    "text": "Research the actual process a small club or association uses to select its leaders. Present the steps as clear instructions, then examine one documented point where the written procedure meets a person’s practical judgment; do not imply that the procedure is universal.",
+    "genre": "creative nonfiction",
+    "form": "instructional prose",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1765",
+    "title": "The Seat I Took at the Workshop",
+    "text": "Write about a real workshop or class where seating affected who could see, hear, or participate. Describe the layout and one moment when someone moved or adapted, sticking to observable facts and considering what the room’s design made easier or harder.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1766",
+    "title": "A Conversation After the Final Whistle",
+    "text": "With permission, reconstruct a brief post-game conversation between people who experienced the same match differently. Keep each person’s account distinct, include only dialogue you can verify or identify as approximate, and avoid forcing agreement at the end.",
+    "genre": "creative nonfiction",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1767",
+    "title": "The Club Newsletter’s Missing Paragraph",
+    "text": "Use an archived newsletter from a group you know, if you have lawful access, to investigate a change in how the group described one event over time. Quote accurately, identify what the documents do not explain, and do not treat an omission as proof of intent.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1768",
+    "title": "A Portrait in Warm-Up Exercises",
+    "text": "Profile someone who leads warm-ups for a choir, team, or class. Observe the exercises with consent and ask what each is meant to prepare; focus on the leader’s decisions and the responses you can see, not on diagnosing participants.",
+    "genre": "creative nonfiction",
+    "form": "profile",
+    "type": "character"
+  },
+  {
+    "id": "wp-1769",
+    "title": "The Promise I Made to a Teammate",
+    "text": "Write a reflection on a specific promise made during a shared activity, such as a project, rehearsal, or game. Reconstruct the circumstances and what you did next, then consider how the promise changed once the activity ended.",
+    "genre": "creative nonfiction",
+    "form": "reflection",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1770",
+    "title": "A List of Ways to Join In",
+    "text": "Build a list essay from real invitations or entry points you encountered in a group setting: a shared task, an introduction, a demonstration, or a question. For each, describe what actually happened and note when you cannot tell whether an invitation was intended for you.",
+    "genre": "creative nonfiction",
+    "form": "list essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1771",
+    "title": "A Visit to the Practice Field",
+    "text": "Describe a real practice field or court when no official match is taking place. Note how markings, equipment, and signs of use differ from the venue during an event, and anchor any claims about its history in a source or a participant’s account.",
+    "genre": "creative nonfiction",
+    "form": "prose poem",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1772",
+    "title": "The Delay That Changed My Plans",
+    "text": "Describe a real occasion when a scheduled service was delayed and you changed your plans in response. Reconstruct the choices you made and the information available at the time, without attributing motives to anyone involved.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1773",
+    "title": "The Person Who Packs the Kit",
+    "text": "Profile a volunteer or amateur participant who prepares equipment for a recurring activity. Ask how they decide what to bring and what gets forgotten, and follow one real preparation session from checking the kit to handing it over.",
+    "genre": "creative nonfiction",
+    "form": "profile",
+    "type": "character"
+  },
+  {
+    "id": "wp-1774",
+    "title": "A Minute of Looking Away",
+    "text": "Recall a real public performance or match and describe one brief moment when you looked away from the main action. Reconstruct what drew your attention and what you missed, being explicit about what you learned afterward from another source.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1775",
+    "title": "The Rules Written on the Back",
+    "text": "Find a real object or printed item that carries informal rules on its reverse side, such as a game card, event badge, or club handout. Present the wording accurately, then write about how one rule worked in practice based on an event you witnessed or a source you can cite.",
+    "genre": "creative nonfiction",
+    "form": "found poem",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1776",
+    "title": "A Lesson in Tuning",
+    "text": "Write about a real moment when someone showed you how to tune an instrument, machine, or other device by listening or feeling rather than following a display. Reconstruct the demonstration from memory or notes and mark which details you can verify.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1777",
+    "title": "The Volunteer Who Counts the Chairs",
+    "text": "Interview a volunteer who sets up a room for a recurring gathering. Ask how they estimate attendance and adjust the layout, then compare their account with what you observe at one event; do not turn a practical task into a claim about the whole organization.",
+    "genre": "creative nonfiction",
+    "form": "profile",
+    "type": "character"
+  },
+  {
+    "id": "wp-1778",
+    "title": "A Program Annotated in Pencil",
+    "text": "Use a performance program that you own or have permission to examine. Treat your handwritten marks as evidence of your attention at that event, not as proof of every response you had, and write a short reflection that moves between the printed sequence and your annotations.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1779",
+    "title": "The Day the Team Changed Its Formation",
+    "text": "Reconstruct a real occasion when a team, ensemble, or group changed its usual arrangement to accommodate a practical problem. Show what changed in the sequence of actions and use participants’ accounts where needed; leave unresolved what the change meant to people who did not explain it.",
+    "genre": "creative nonfiction",
+    "form": "experimental prose",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1780",
+    "title": "A Poem from the Announcer’s Words",
+    "text": "Make a found poem from a recording or transcript of a public event announcer that you can use with permission. Preserve wording and context, and include a source note explaining any cuts so the poem does not present edited language as an unaltered transcript.",
+    "genre": "creative nonfiction",
+    "form": "found poem",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1781",
+    "title": "The First Time I Heard My Own Instructions",
+    "text": "Write about hearing a set of instructions you had given to someone else repeated back to you. Recreate the wording as accurately as possible and explore what you noticed in the repetition, without pretending the other person intended a lesson for you.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1782",
+    "title": "A Tour Led by a Former Member",
+    "text": "Ask a former member of a club, team, or ensemble to show you a place associated with their participation. Build a short profile from the walk and conversation, checking dates and details while allowing the person’s memory to remain one account rather than the definitive history.",
+    "genre": "creative nonfiction",
+    "form": "profile",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1783",
+    "title": "The Last Exercise of the Class",
+    "text": "Write a concise, factual account of the final exercise in a real class or training session. Follow the instructions, one participant’s attempt with permission, and the instructor’s closing words; distinguish what was said from any meaning you infer.",
+    "genre": "creative nonfiction",
+    "form": "microfiction",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1784",
+    "title": "A Guide to Asking for a Demonstration",
+    "text": "Write practical instructions for asking someone to demonstrate a skill for your nonfiction writing. Include how to explain your purpose, request consent to take notes or record, and accept a refusal; base the guidance on a real reporting experience or clearly identified practice.",
+    "genre": "creative nonfiction",
+    "form": "instructional prose",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1785",
+    "title": "The Event from the Back Row",
+    "text": "Describe a real event from a seat at the back of the room. Track what the distance let you notice and what it obscured, using only details you could see or hear and any later confirmation you can identify.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1786",
+    "title": "The Club’s Longest-Serving Member",
+    "text": "Interview a long-serving member of a local group about one change they witnessed and one practice that stayed the same. Verify dates where possible, include a detail that complicates nostalgia, and avoid presenting one person’s memory as the group’s complete history.",
+    "genre": "creative nonfiction",
+    "form": "profile",
+    "type": "character"
+  },
+  {
+    "id": "wp-1787",
+    "title": "A Rehearsal in Five Counts",
+    "text": "Write a short essay in five sections, each beginning with a count or cue used during a real rehearsal or practice you attended. Let each section show a different stage of the work, and make clear whether the numbers are remembered, recorded, or approximate.",
+    "genre": "creative nonfiction",
+    "form": "experimental prose",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1788",
+    "title": "When the Demonstration Went Wrong",
+    "text": "Reconstruct a real demonstration that failed in a small, recoverable way. Describe the sequence and the repair without making a participant into a fool; include what you learned from the event and what remains uncertain about its cause.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1789",
+    "title": "The Sound of a Group Finding Its Tempo",
+    "text": "Write a prose poem based on a real group trying to begin together—musicians, runners, dancers, or another ensemble. Use exact sensory details you witnessed, and let changes in pace carry the piece without inventing dialogue or claiming everyone felt the same thing.",
+    "genre": "creative nonfiction",
+    "form": "prose poem",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1790",
+    "title": "The Interview I Conducted in a Noisy Place",
+    "text": "Return to notes from a real interview held somewhere noisy. Separate the words you recorded from those you reconstructed later, and let the interruptions shape the essay’s structure; do not fill gaps with plausible but unverified speech.",
+    "genre": "creative nonfiction",
+    "form": "experimental prose",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1791",
+    "title": "A Letter to the Next Person in the Group",
+    "text": "Write a letter to someone who may take your place in a group or activity you are leaving. Share practical information that proved useful, one expectation you had to revise, and a question you cannot answer on their behalf.",
+    "genre": "creative nonfiction",
+    "form": "letter",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1792",
+    "title": "A Score Kept by Hand",
+    "text": "Describe a real occasion when someone kept score, tallied turns, or tracked progress manually during a shared activity. Focus on the notation and the moment it affected what happened next; verify the rules and do not overstate the meaning of the tally.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1793",
+    "title": "The Last Person to Leave Rehearsal",
+    "text": "Write a monologue grounded in your own experience or a willing participant’s account of staying after a rehearsal or class. Keep the speaker’s recollection distinct from invented connective detail, and let the final task they complete carry the ending.",
+    "genre": "creative nonfiction",
+    "form": "monologue",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1794",
+    "title": "What We Remember of the Same Day",
+    "text": "Choose a real shared event and ask two or three willing participants what specific detail they remember most clearly. Place their accounts beside yours without ranking them, note where recollections conflict, and end with one detail everyone agrees on—or with the fact that none exists.",
+    "genre": "creative nonfiction",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1795",
+    "title": "The Traffic Desk Correction",
+    "text": "At a morning radio traffic desk, two reporters realize they are describing opposite directions on the same one-way road. Write the control-room scene as they correct listeners before the first caller gets through.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1796",
+    "title": "Three Versions of the Call",
+    "text": "Build a split-screen sequence around three people preparing for the same video call from different time zones. Let each arrange their room to conceal a different truth, then make the first spoken sentence land across all three frames.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1797",
+    "title": "The Understudy Knows the Ending",
+    "text": "During a final rehearsal, an understudy quietly corrects the lead actor's line because the script has changed since yesterday. The director calls for a reset; write the scene so the cast's reactions reveal who has been reading ahead and why.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "character"
+  },
+  {
+    "id": "wp-1798",
+    "title": "A Forecast Without a Map",
+    "text": "A weather presenter loses the studio's map feed minutes before a live broadcast, just as a producer signals that a dangerous local condition is developing. Keep the scene in the studio and let the presenter build a usable warning from memory, sound, and the callers waiting off-camera.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1799",
+    "title": "The Archive Has No Credits",
+    "text": "A film-restoration team finds a complete reel with no title, date, or credits. As they argue over whether to screen it publicly, a junior technician recognizes a detail in the background that connects the footage to a person still alive.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1800",
+    "title": "The Take Between Takes",
+    "text": "A sound mixer records room tone after a documentary interview, but the interviewee keeps changing their posture whenever the recorder is switched off. Write the scene through small shifts in sound and the crew's decision about whether to ask one more question.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1801",
+    "title": "One Line, Four Actors",
+    "text": "In an audition room, four actors deliver the same short line for four incompatible roles. Give each performance a distinct physical objective, then let the casting director's final choice surprise the people waiting in the hall.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1802",
+    "title": "The Subtitles Change at Midnight",
+    "text": "A subtitler working on a midnight release discovers that the translated dialogue describes actions the actors never perform. Write a suspense scene in which the subtitler checks the source, the footage, and a growing list of new captions.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1803",
+    "title": "The Last Tank Before Opening",
+    "text": "At an aquarium before opening, a technician finds that one tank’s lights have been reset to a schedule that matches notes left by an unknown visitor. Write the scene as the technician and curator check the access log and decide whether to delay the doors.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1804",
+    "title": "Overhead at Closing Time",
+    "text": "Write a short scene in a crowded municipal office using only one fixed overhead shot and no dialogue. As staff close the counters, applicants rearrange forms, chairs, and queue markers to make room for someone who arrived after the doors were locked; show who resists and who helps without cutting away.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1805",
+    "title": "The Curtain Inspection",
+    "text": "Before a school auditorium opens for a student shadow-play, the fire marshal and caretaker disagree about whether an old stage curtain is safe to use. Write their inspection as the performers wait nearby with a handmade screen.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "character"
+  },
+  {
+    "id": "wp-1806",
+    "title": "Unmuted",
+    "text": "During an online board meeting, a junior employee believes their microphone is muted and comments on a proposal that would erase their department. Let the faces in the video grid register the remark one by one before the chair decides whether to continue the agenda.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1807",
+    "title": "A Face in the Background",
+    "text": "Write a scene from the viewpoint of a background performer on a crowded film set. The lead actors repeat a confrontation for take after take, while the extra recognizes that the scene is affecting someone just outside the camera's frame.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "character"
+  },
+  {
+    "id": "wp-1808",
+    "title": "The Redacted Tour",
+    "text": "A guide leads a group through a newly opened government building whose official tour script has been marked with black bars. Visitors begin asking about the missing passages; let the guide improvise without confirming what the redactions mean.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1809",
+    "title": "The Joke That Wouldn't Land",
+    "text": "At a live comedy taping, a comedian's familiar closing joke gets no laugh from the audience for the first time. The producer signals to keep rolling; write what the performer does with the silence and how the crew responds without cutting away.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1810",
+    "title": "After the Whistle, Before the Interview",
+    "text": "A rookie referee must explain a controversial call to a reporter while players and coaches pass behind the camera in opposite directions. Keep the dialogue brief and use the shifting background action to complicate the referee's account.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1811",
+    "title": "The Translation Booth",
+    "text": "At an international film festival, a veteran simultaneous interpreter hears a familiar phrase in a new film and stops translating for three seconds. Write the booth scene as the other interpreter covers, the audience reacts, and the veteran decides what the phrase means now.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "character"
+  },
+  {
+    "id": "wp-1812",
+    "title": "Two Minutes of Static",
+    "text": "A remote broadcast loses its picture but keeps transmitting sound. Write the scene from the studio's control room as the crew hears an unexpected exchange from the location and debates whether to restore the image or let the audio continue.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1813",
+    "title": "The Tour That Went Off Script",
+    "text": "A museum's audio guide begins playing the wrong track in every gallery, pairing each visitor with a description of a different exhibit. Follow one attendant trying to correct the system while a visitor insists the mismatch is the most honest tour they've taken.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1814",
+    "title": "The Costume Test",
+    "text": "A costume designer asks an actor to walk, sit, and reach for a glass while wearing a historically accurate outfit that restricts movement. The actor keeps finding a different way to perform the scene; write the test as a negotiation between research and playable behavior.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1815",
+    "title": "The Long Take at Platform Zero",
+    "text": "Write a continuous-shot scene in a station control room during a routine service change. The controller is training a replacement, answering a child's questions over the intercom, and quietly deciding whether to announce a delay that will strand someone they know.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1816",
+    "title": "The Wrong Name on the Call Sheet",
+    "text": "A film crew arrives at a remote location to shoot a scene, but the call sheet lists a local resident as a cast member. The resident denies agreeing to appear, while the director claims the role was written for them; stage their first meeting before the crew unpacks.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1817",
+    "title": "The Permit for Standing Still",
+    "text": "A city permits clerk is closing the office when a street performer applies for permission to stand exactly where a permanent sculpture already stands. A delivery rider, a surveyor, and a security guard all claim the square; stage the scene as closing rules meet their incompatible maps.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1818",
+    "title": "The Applause Sign",
+    "text": "A studio audience is told to applaud on cue during a televised reunion, but one guest does not recognize the person being introduced as family. Keep the scene on the stage and let the applause sign, cameras, and pauses pressure the host to respond.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "character"
+  },
+  {
+    "id": "wp-1819",
+    "title": "The Uncredited Voice",
+    "text": "A voice actor recognizes their own uncredited performance in a popular animated film, though the studio insists the voice was generated from public recordings. Write the first meeting between the actor and the young fan who can imitate the character perfectly.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1820",
+    "title": "A Scene in Reverse Order",
+    "text": "Write a breakup scene in five short beats, presented from the final moment back to the first. Each reversal should change the meaning of a repeated gesture, but never explain the couple's history outright.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1821",
+    "title": "The League of Almost Champions",
+    "text": "At a reunion for athletes who finished second in major competitions, a documentary interviewer asks each guest to name the moment they knew they had lost. One guest refuses the premise; stage the interview as other attendees begin answering instead.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1822",
+    "title": "The Synchronized Swimmers",
+    "text": "At a synchronized-swimming tryout, an older coach demonstrates a routine meant for beginners and cannot resurface on cue. The team must decide whether to keep the count or break formation; write the scene between the underwater rhythm and the officials watching from the deck.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1823",
+    "title": "The Prop Table Audit",
+    "text": "During a final production check, a stage manager discovers that every prop on the table has been labeled with the name of a different character. Write the scene as the cast and crew trace the labels before the house opens.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1824",
+    "title": "The Backup Singer's Verse",
+    "text": "A backup singer is asked to take the lead for one verse when the headliner loses their voice. The singer knows the words but not the choreography; write the performance from the wings, where the bandleader and the headliner make opposite signals.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "character"
+  },
+  {
+    "id": "wp-1825",
+    "title": "The Interview Without a Question",
+    "text": "A journalist arrives to interview a retired judge, who has prepared an answer to a question the journalist never asks. Let the exchange circle around the missing question until the journalist must decide whether to ask it or leave the silence intact.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1826",
+    "title": "The Camera Keeps Rolling",
+    "text": "During a cooking show, the celebrity chef walks off set after a mistake, but the cameras continue filming the assistants who must finish the dish before time runs out. Write the sequence without cutting to the host or revealing whether the segment will air.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1827",
+    "title": "The Unscheduled Encore",
+    "text": "A chamber ensemble finishes its set at a formal ceremony, then hears someone in the balcony begin the melody they used to play as students. Give the musicians conflicting reasons to answer with an encore, and let the audience remain unaware of the disagreement.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1828",
+    "title": "The Actor Who Won't Say the Line",
+    "text": "On the first day of shooting, an actor refuses a line that has been approved by the director, producer, and writer. Keep the scene on set as each person offers a different replacement and the crew waits for the camera to roll.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "character"
+  },
+  {
+    "id": "wp-1829",
+    "title": "The Playback Has a Blind Spot",
+    "text": "A security supervisor reviews a single camera recording of a crowded public lobby with a new trainee. Each time they replay it, ask the scene to focus on a different person at the edge of the frame; the supervisor's account of a routine shift changes as the trainee notices who never appears clearly.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1830",
+    "title": "The Public Apology Coach",
+    "text": "A crisis consultant rehearses a public apology with a client who keeps replacing every personal pronoun with the company name. Write the session as the consultant tries increasingly concrete exercises and the client begins to speak without the prepared statement.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "character"
+  },
+  {
+    "id": "wp-1831",
+    "title": "The Uninvited Consultant",
+    "text": "During a first table read, the cast reaches a line that the writer has marked as essential. A person from the real-life event that inspired the scene arrives unexpectedly with a different version of what happened; let the director decide whether to pause the reading or ask them to listen.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1832",
+    "title": "The Green Room Clock",
+    "text": "Two performers share a green room before opposite kinds of appearances: one is about to accept a public honor, the other to testify at a hearing. A faulty clock gives them the same countdown; write their exchange as each borrows the other's preparation ritual.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "character"
+  },
+  {
+    "id": "wp-1833",
+    "title": "The Face on the Monitor",
+    "text": "A camera operator setting up a documentary interview sees someone familiar appear on a monitor behind the subject, though no one is standing there in the room. Keep the scene grounded in camera checks and crew procedure as they test what the monitor is showing.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1834",
+    "title": "Questions Only",
+    "text": "Write a screenplay scene in which every spoken line is a question. A missed pickup at a bus station forces two strangers to negotiate what to do with a suitcase neither claims.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1835",
+    "title": "A Soundtrack for the Wrong Scene",
+    "text": "A music editor plays a tender love theme over footage of a demolition, and the director asks for a more triumphant cue. Write the editing-room scene as the editor tries three musical approaches and the director gradually reveals what the building means to them.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1836",
+    "title": "The Call Sheet at Dawn",
+    "text": "On a film shoot's final morning, the assistant director discovers the location owner has arrived before the crew and is waiting to be asked to leave. Keep the scene in the narrow window before sunrise, with the schedule advancing while the director and owner negotiate what gets filmed.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1837",
+    "title": "The Unreliable Voice-Over",
+    "text": "Write a scene with voice-over narration that confidently describes a character's plan while the images quietly contradict every claim. By the last shot, let the narrator notice the mismatch and attempt to revise the story in real time.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1838",
+    "title": "The Talent Show's Final Slot",
+    "text": "A school talent show runs late, and the final performer is a teacher who signed up under a false name. The student stage manager recognizes them during the introduction; write the backstage exchange and the choice to announce or protect the secret.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1839",
+    "title": "A Film with No Close-Ups",
+    "text": "Write a family argument at a holiday gathering using only wide shots. Keep every person visible in the frame and use distance, entrances, and who gets cropped by the room's architecture to show the shifting alliances.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1840",
+    "title": "The Stand-In's Day Off",
+    "text": "A stand-in is told they can leave early, but the star asks them to stay and rehearse a scene the star cannot yet perform. Give the stand-in a reason to say no and the star a reason to ask that has nothing to do with the scene.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "character"
+  },
+  {
+    "id": "wp-1841",
+    "title": "The Broadcast from the Empty Hall",
+    "text": "A public lecture is streamed to thousands from a hall that has no in-person audience. The speaker notices a single chair moving between camera angles; write the control-booth and stage action without confirming whether anyone is in the room.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1842",
+    "title": "The Rehearsal's Missing Partner",
+    "text": "An actor rehearses a two-person scene alone because their scene partner is delayed. A crew member reads the other part from behind the camera, then begins giving answers that are not in the script; let the actor choose whether to continue.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1843",
+    "title": "The Final Question",
+    "text": "At a live radio call-in show, the host has one minute left and a caller asks a question the host once promised never to answer. Write the scene through the studio clock, producer's hand signals, and the host's decision to keep the line open.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1844",
+    "title": "The Wrong Envelope at the Awards",
+    "text": "A presenter opens the wrong envelope at a televised awards ceremony and announces a winner who is not in the room. Write the minutes before the correction reaches the stage, focusing on the actual nominee, the presenter, and the person who knows the envelope was switched.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1845",
+    "title": "The Documentary Consent Form",
+    "text": "A documentary subject signs a release, then asks the crew to remove one interview answer from footage already recorded. The director wants to preserve the scene's impact; the sound recordist quietly offers another solution. Stage the negotiation without deciding who is right for the audience.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1846",
+    "title": "The Unscheduled Stop",
+    "text": "A coastal ferry makes an unscheduled stop at a closed pier. Write the first scene after the ramp is lowered, as the crew checks the manifest and discovers that one passenger’s destination is not listed.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1847",
+    "title": "The Producer's Notes",
+    "text": "A screenwriter receives a page of production notes that appear to describe a scene from a draft they have not written. Invite the producer to a meeting and let both people test whether the notes are a prediction, a misunderstanding, or an invitation.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1848",
+    "title": "The Last Take Is the First Take",
+    "text": "A director asks for one final take of a scene, then tells the actors to perform it as if this were the first time they had met. Give each actor a different private reason to resist the reset, and end on the moment the camera starts.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1849",
+    "title": "The Building's Fire Drill",
+    "text": "A fire drill interrupts a city council hearing just as a witness begins naming the person responsible for a disputed decision. Write the evacuation as a moving scene in which council members, staff, and the witness are forced into the same conversation outside.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1850",
+    "title": "The DJ's Last Song",
+    "text": "Write a monologue for a wedding DJ packing up after the guests have left. As the room's lights come on one row at a time, the DJ speaks to the silent sound system about a request they refused to play and whether that decision still feels right.",
+    "genre": "screenwriting",
+    "form": "monologue",
+    "type": "character"
+  },
+  {
+    "id": "wp-1851",
+    "title": "The Frame That Won't Hold",
+    "text": "A cinematographer tries to compose a shot of a departing train, but the focus keeps catching a passenger reflected in the station glass. Write the scene through the changing frame and the director's competing instructions, revealing why that passenger cannot be ignored.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1852",
+    "title": "The Final Edit",
+    "text": "An editor screens a nearly finished film for the person who inspired its protagonist. The visitor asks for one small cut that would alter the ending; write the conversation around the timeline as the editor decides whether to make it.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1853",
+    "title": "The Lights Come Up Early",
+    "text": "A theater's house lights rise halfway through a performance, revealing that the audience has been watching the actors watch them. Write the remaining minutes as the performers decide whether to continue the play, address the crowd, or leave the stage open.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1854",
+    "title": "A Cutaway to the Kitchen",
+    "text": "During a televised political interview, cut away to the building's night kitchen, where two staff members watch the monitor and disagree about what the candidate has just promised. Let their ordinary shift continue while their commentary quietly changes the meaning of the interview.",
+    "genre": "screenwriting",
+    "form": "screenplay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1855",
+    "title": "At the Flood Gauge",
+    "text": "Write from the perspective of a municipal flood recorder marking a river's height through a night of rising water. Let each measurement include one thing the official scale cannot register: a changed route, a rescued object, a neighbor's decision.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "character"
+  },
+  {
+    "id": "wp-1856",
+    "title": "Errata for the Constellations",
+    "text": "A junior astronomer discovers that a printed star atlas has one coordinate wrong, and the correction alters a familiar constellation's shape. Write the poem as marginal corrections that gradually reveal what the observer wants the sky to confirm.",
+    "genre": "poetry",
+    "form": "found poem",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1857",
+    "title": "After the Final Bell",
+    "text": "Set a poem in the quiet minute after a boxing match ends, from the point of view of the cut-person cleaning a fighter's face. Let the small clinical actions carry mixed feelings about victory, damage, and the work still to be done.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1858",
+    "title": "Palindrome for a Return Trip",
+    "text": "Write a poem whose first and last lines are identical, but whose journey between them changes what that line means. Send the speaker somewhere specific and let the return be altered by one detail they could not have known at departure.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1859",
+    "title": "The Blue Hour at Carousel Four",
+    "text": "At an airport baggage carousel before dawn, let a delayed traveler watch suitcases arrive for people who are not there. Build the poem from luggage tags, pauses, and announcements; keep the speaker's own destination unstated until the final stanza.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1860",
+    "title": "Eclipse with the Lights Left On",
+    "text": "Write eight unrhymed lines during a partial lunar eclipse as seen from a brightly lit apartment courtyard. Let neighbors' practical interruptions—laundry, a phone call, a passing delivery—share space with the slow celestial change.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1861",
+    "title": "The Unofficial Rules of the House",
+    "text": "Create a poem in the voice of a visiting cousin who has learned a family's unwritten rules by getting them wrong: which chair is claimed, when teasing stops, how seconds are offered. Let each mistake sharpen the cousin's affection and uncertainty.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "character"
+  },
+  {
+    "id": "wp-1862",
+    "title": "A Minor Key for a Missing Tooth",
+    "text": "Write a playful elegy for a child's first lost tooth, narrated by the gap left behind. Give the gap a changing sense of scale—from a private cavern to a new way of whistling—and let the child have the last word.",
+    "genre": "poetry",
+    "form": "prose poem",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1863",
+    "title": "The Match Nobody Could Finish",
+    "text": "Two chess players must leave an unfinished game on a café table. Write alternating stanzas from their perspectives, using the pieces' positions to show how each has misunderstood the other's reason for stopping.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1864",
+    "title": "Six Names for the Same Wind",
+    "text": "Write a poem in six short sections, each using a different local or invented name for one wind passing through a landscape. Let the names come from work, weather, memory, and play rather than a glossary, and avoid explaining which is correct.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1865",
+    "title": "The Crossing Guard's Winter Count",
+    "text": "Follow a school crossing guard through one cold morning, counting not only children but the small negotiations of the intersection: a driver waiting, a mitten retrieved, a parent arriving late. Keep the poem attentive to the guard's judgment and fatigue.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1866",
+    "title": "A Museum Label for a Future Fossil",
+    "text": "Write a series of exhibit labels for objects from our present that might survive deep time: a plastic cable tie, a phone case, a porcelain shard. Let the imagined curator be precise about material and uncertain about human purpose.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1867",
+    "title": "The Applause Interpreter",
+    "text": "At a performance where the audience cannot all hear one another, a sign-language interpreter renders applause visible. Write from the interpreter's point of view, letting wrists, timing, and the performers' faces shape an account of how approval travels.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "character"
+  },
+  {
+    "id": "wp-1868",
+    "title": "The Volunteer Ushers’ Rehearsal",
+    "text": "Write a poem during a rehearsal in an old concert hall, where volunteer ushers practice guiding a crowd that is not there. Let their routes, whispered corrections, and disagreements about who needs help reveal what welcome looks like in practice.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1869",
+    "title": "The Form with No Box for This",
+    "text": "Compose a found poem from a fictional application form whose checkboxes cannot describe the applicant's actual circumstances. Keep the printed questions intact, then let handwritten additions and crossed-out answers make the form's limits visible.",
+    "genre": "poetry",
+    "form": "found poem",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1870",
+    "title": "On the Far Side of the Stadium",
+    "text": "Write a poem through the eyes of a groundskeeper preparing an empty stadium after a close game. Attend to the uneven field, scattered programs, and one mark left by a player; let the groundskeeper's expertise remain central.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1871",
+    "title": "The Tenant of February",
+    "text": "Personify February as a short-term tenant negotiating with the rest of the year over light, heating bills, and the last patch of snow. Give both sides practical arguments, and let the month leave one small thing behind.",
+    "genre": "poetry",
+    "form": "prose poem",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1872",
+    "title": "Notes from a Sign Painter",
+    "text": "Write a poem in the voice of a sign painter lettering a shop's new name over its old one. Let the brushwork, spacing, and visible underlayers carry the tension between a business changing hands and a street remembering it.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "character"
+  },
+  {
+    "id": "wp-1873",
+    "title": "The Pocket Dictionary of a Newcomer",
+    "text": "Invent a pocket dictionary assembled by someone newly arrived in a place, with entries for expressions they have misunderstood and later learned to use. Make each definition a brief scene, not a joke at the newcomer's expense.",
+    "genre": "poetry",
+    "form": "prose poem",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1874",
+    "title": "A Debate in the Planetarium Queue",
+    "text": "Two strangers waiting for a planetarium show disagree about whether the stars are more moving as science or as story. Give each speaker a distinct rhythm and let the line move forward before either can claim the final answer.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1875",
+    "title": "Vacant Lot Survey",
+    "text": "Write as a city planner walking a row of empty lots where residents have proposed incompatible futures: a bus stop, a playground, a clinic, a garden. Let the planner record dimensions and objections, then notice what the official survey leaves out.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1876",
+    "title": "Five Drawings of One Witness",
+    "text": "Write a sequence of five brief descriptions beneath imagined courtroom sketches of the same witness. Each artist notices a different posture or hand movement; let the changing visual emphasis complicate what a viewer thinks they know, without claiming access to the witness’s private truth.",
+    "genre": "poetry",
+    "form": "found poem",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1877",
+    "title": "At the Edge of the Salt Pan",
+    "text": "Write from the viewpoint of a geologist taking samples on a salt pan at midday. Keep the observations exact—crust, glare, buried water—and let the scientist's notebook begin to register the limits of what can be inferred from a single visit.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1878",
+    "title": "The Last Unsent Scorecard",
+    "text": "A baseball scorekeeper discovers an old scorecard from a game whose final inning was never recorded. Write the scorecard as a poem, using blanks and corrected marks to suggest why the keeper stopped without inventing a neat explanation.",
+    "genre": "poetry",
+    "form": "found poem",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1879",
+    "title": "A Negotiation with the Houseplant",
+    "text": "Write a comic dialogue between a person leaving town for a week and a houseplant that has survived several inconsistent watering schedules. Let each side make a credible case for what care means, and end before their disagreement is resolved.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1880",
+    "title": "The Elevator's Unlisted Floor",
+    "text": "On an elevator ride in a hospital, each floor appears as a stanza named only by its number. Let the speaker's attention shift among a visitor, a porter, and a nurse, so the journey becomes a portrait of separate errands sharing a vertical corridor.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1881",
+    "title": "How to Date a Moon Rock",
+    "text": "Write a mock instructional poem for dating a moon rock, mixing real-sounding geological tests with the absurdly personal questions a person might ask a very old stone. Keep the humor dry and let one question resist the joke.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1882",
+    "title": "The Cart at the Border of the Fair",
+    "text": "A fairground vendor pushes a cart toward the empty lot after closing, while distant rides are dismantled. Write the walk as a sequence of changing lights and sounds, giving the vendor a specific reason to linger without making the fair magical.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1883",
+    "title": "A Grammar of Repairing Trust",
+    "text": "Make a poem from the grammar of a conversation after a small breach of trust: conditional phrases, corrections, pauses, and questions that are not yet safe to ask. Let syntax carry the difficulty without naming the emotion in every stanza.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1884",
+    "title": "The Night Shift at the Butterfly House",
+    "text": "Write a poem during the final inspection of a butterfly conservatory after visitors leave. Follow one staff member checking temperature, mesh, and feeding stations; let the insects remain animals with their own movements, not symbols waiting for interpretation.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1885",
+    "title": "A Recipe Written in Margins",
+    "text": "Create a poem from marginal notes added to a cookbook by several generations of cooks who disagree about substitutions, timing, and what counts as enough. Give each annotation a distinct voice and let no version become the definitive one.",
+    "genre": "poetry",
+    "form": "found poem",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1886",
+    "title": "The Guest Who Missed the Toast",
+    "text": "At a wedding reception, a late-arriving guest misses the toast and tries to understand the room from its changed gestures, laughter, and silence. Write from what they can infer, then let them decide whether to ask someone what was said.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1887",
+    "title": "Two Minutes of Daylight",
+    "text": "Write a poem about a polar research crew getting two minutes of direct sunlight after a long stretch without it. Use a different speaker for each line, from the cook to the data technician, and make their reactions specific rather than uniformly celebratory.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1888",
+    "title": "The Auction of Unfinished Paintings",
+    "text": "At an estate auction, a restorer studies paintings left incomplete by an unknown artist. Write a sequence of brief bids and private observations in which each unfinished canvas suggests a different choice the restorer might make about intervention.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1889",
+    "title": "A Vow at the Passport Photo Booth",
+    "text": "Write a poem about someone waiting for a passport photo and privately deciding to keep a promise they have postponed. Use the booth’s fixed light, instructions, and repeated attempts to hold still; make the vow modest enough to test on the journey ahead.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1890",
+    "title": "The Night the Power Stayed On",
+    "text": "In a town expecting a scheduled blackout that never happens, write from the perspective of a child who had prepared for darkness. Let the unused candles, charged devices, and restless plans reveal how anticipation can change an ordinary evening.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1891",
+    "title": "A Taxonomy of Almost-Familiar Faces",
+    "text": "Create a poem in the form of a field taxonomy for people you recognize but cannot place: the former neighbor, the actor from an advert, the stranger from a recurring route. Give each category a vivid clue and leave one person unclassified.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1892",
+    "title": "The Archaeologist's Lunch Break",
+    "text": "Write a poem during an archaeologist's lunch break at an active dig, setting the practical meal beside fragments that may outlast the people handling them. Let the team disagree about one find without turning uncertainty into a grand revelation.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1893",
+    "title": "A Postcard from the Sound Booth",
+    "text": "Write a postcard in verse from a sound technician working backstage at a touring theatre. The sender cannot describe the show directly, so let cable labels, cue numbers, and the muffled audience form the account of the evening.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1894",
+    "title": "The Sentence the Interpreter Keeps",
+    "text": "A conference interpreter carries one sentence from a speaker through several languages before it reaches the audience. Write the poem in successive versions of that sentence, changing its rhythm and implication each time while preserving what the original speaker meant.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1895",
+    "title": "After the Last Ferry",
+    "text": "When the final ferry of the evening departs, the dock attendant locks the gate and waits for a relief worker. Write the short interval from the attendant's point of view, letting the water, timetable, and one unfinished task hold the scene together.",
+    "genre": "poetry",
+    "form": "poetry",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1896",
+    "title": "The Shift I Wasn't Trained For",
+    "text": "Recall a work or volunteer shift when an unexpected absence left you doing a job you had never been shown. Reconstruct the first ten minutes—the equipment, the person you asked, the mistake you nearly made—and reflect on what you learned about being new in public.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1897",
+    "title": "On the Interviewer's Side",
+    "text": "Write about the first time you interviewed someone for a job, grant, team, or opportunity. Choose one question you asked and the answer you remember; explore how it felt to hold the decision-making power you had once faced from the other chair.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1898",
+    "title": "A Guest at the Ceremony",
+    "text": "Describe attending a ceremony whose customs were unfamiliar to you. Stay with the practical choices—when to stand, where to look, what you were invited to do—and write from your position as one guest, not as an authority on the tradition.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1899",
+    "title": "The Temporary Address",
+    "text": "Make a list of the small adjustments required during a period when you lived between homes: where mail went, what you kept close, how you answered questions about where you lived. Turn the list into an essay about the odd arithmetic of a temporary life.",
+    "genre": "personal essay",
+    "form": "list essay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1900",
+    "title": "The Work We Did Together",
+    "text": "Recreate a day when a group of people repaired, cleared, built, or prepared something in common. Focus on how the labor was actually divided—who lifted, measured, fetched, waited, or changed the plan—and what the finished result did and did not make possible.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1901",
+    "title": "The First No I Said Out Loud",
+    "text": "Write about a time you declined a request in front of other people, when agreeing would have been easier to explain. Rebuild the exchange in its original setting and consider what your refusal protected, without turning it into a victory speech.",
+    "genre": "personal essay",
+    "form": "reflection",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1902",
+    "title": "The Emergency Contact",
+    "text": "Recall when someone first listed you as an emergency contact—or when you realized what that role could require. Begin with the form, call, or practical detail that made the responsibility real, then trace how your understanding of the relationship shifted.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1903",
+    "title": "The Family Story I Corrected",
+    "text": "Choose a family anecdote that has been repeated often enough to become the official version. Describe the moment you supplied a correction, why that detail mattered to you, and how you can respect everyone's privacy while telling what you know.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1904",
+    "title": "Speaking for the Office",
+    "text": "Write about an occasion when you were asked to represent a workplace, club, or organization in public. Show the question that made you pause before answering, and examine where your own opinion ended and your responsibility to the group began.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1905",
+    "title": "Choosing for Someone Else",
+    "text": "Recount a real moment when another person depended on you to make a practical decision on their behalf. Stay close to the options you had, the information you lacked, and the point when you chose; leave room for the uncertainty that remained afterward.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1906",
+    "title": "Back in the Classroom",
+    "text": "Describe returning to a classroom years after you were a student—this time as a parent, guest, volunteer, staff member, or visitor. Use one small exchange to show how your old assumptions about the room met your new role in it.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1907",
+    "title": "The Badge That Made Me the Expert",
+    "text": "Tell about a time a badge, clipboard, uniform, or lanyard led someone to assume you knew what to do. Reconstruct the encounter and your choice to correct, accept, or complicate that assumption; what did the object authorize that you hadn't expected?",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1908",
+    "title": "The Reference Call",
+    "text": "Write about being asked to recommend someone for a job, program, or responsibility. Describe the quality you chose to mention first, what you left unsaid, and how you weighed honesty toward the listener against loyalty to the person who trusted you.",
+    "genre": "personal essay",
+    "form": "letter",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1909",
+    "title": "Inside the Jury Room",
+    "text": "If you have served on a jury or comparable decision panel, reconstruct one moment when the group had to distinguish what it knew from what it merely suspected. Explore how your own certainty changed as you listened, without revealing private case details.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1910",
+    "title": "Asking for Access",
+    "text": "Recall a time you requested an adjustment that would let you take part in a class, workplace, event, or service. Describe the specific obstacle, the words you used to explain it, and what happened next; focus on the experience rather than offering universal advice.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1911",
+    "title": "The Event We Canceled",
+    "text": "Write about helping cancel an event after people had already planned around it. Follow the decision from the first sign it could not go ahead through the messages, calls, or conversations that delivered the news, and notice whose disappointment you could and could not see.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1912",
+    "title": "The First Contract I Read Carefully",
+    "text": "Choose the first agreement you remember reading line by line—a lease, work contract, service plan, or other commitment. Revisit the clause you paused over, what you asked or decided, and how the document changed the way you understood the arrangement.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1913",
+    "title": "The Person Who Taught Me to Bargain",
+    "text": "Write a brief profile of someone who showed you how to negotiate a price, schedule, or shared obligation. Use one specific exchange to reveal their method, then consider what you adopted from them and what you still do differently.",
+    "genre": "personal essay",
+    "form": "profile",
+    "type": "character"
+  },
+  {
+    "id": "wp-1914",
+    "title": "The Rule I Had to Enforce",
+    "text": "Recall the first time you had to enforce a rule you had previously experienced only as a participant—as a coach, moderator, supervisor, or organizer. Tell the scene through the words and gestures you remember, then ask what changed when the rule came from you.",
+    "genre": "personal essay",
+    "form": "monologue",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1915",
+    "title": "The Item I Could Not Return",
+    "text": "Write about a real attempt to return an item when you lacked the expected receipt or packaging. Reconstruct the exchange and the practical options you considered, without turning the outcome into a general rule.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "character"
+  },
+  {
+    "id": "wp-1916",
+    "title": "A Day at the Polling Place",
+    "text": "If you have worked at an election, write about one ordinary stretch of the day rather than the result: setting out materials, checking a name, explaining a procedure, or closing up. Show how a civic process depended on small human tasks you had not noticed before.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1917",
+    "title": "The First Use of a New Tool",
+    "text": "Recall a real occasion when you used an unfamiliar household tool for the first time. Describe the task, the adjustments you made, and one thing you learned only by handling it.",
+    "genre": "personal essay",
+    "form": "letter",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1918",
+    "title": "The Night I Slept in a Public Building",
+    "text": "Recall a night spent in an airport, station, workplace, shelter, or other building not meant to be your bedroom. Keep the essay to that night’s practical particulars—light, rules, interruptions, what you could carry—and show how the place changed once you tried to rest there.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1919",
+    "title": "The Day I Resigned",
+    "text": "Reconstruct a day when you left a job, committee, or long-running commitment by your own decision. Focus on the conversation or small administrative act that made leaving official, and distinguish what you were escaping from what you were choosing next.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1920",
+    "title": "The Label on the Storage Box",
+    "text": "Write a monologue addressed to a box of household objects you once kept through several moves. Recall what you placed inside, what you removed, and the practical decision that finally changed how you stored it.",
+    "genre": "personal essay",
+    "form": "monologue",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1921",
+    "title": "The Plan I Was Hired to Enforce",
+    "text": "Recall a time a procedure you were responsible for applying did not fit the situation in front of you. Reconstruct the exact point where the written plan met a person’s needs, then explore what you did with the gap between compliance and good judgment.",
+    "genre": "personal essay",
+    "form": "personal essay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1922",
+    "title": "A Decision Made After Everyone Left",
+    "text": "Journal about a decision you postponed until a meeting, rehearsal, or shared event was over and you were alone with its consequences. Begin with the first quiet action you took afterward, then trace what you had been waiting to admit to yourself.",
+    "genre": "personal essay",
+    "form": "journaling",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1923",
+    "title": "The Toll for the Missing Span",
+    "text": "Write about the night attendant at a toll booth on a bridge demolished years ago. Cars arrive from the dark where the bridge used to begin, and each driver pays the exact fare without looking up. What makes the attendant finally leave the booth?",
+    "genre": "horror",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1924",
+    "title": "Pressure Readings",
+    "text": "Write a poem as an engineer’s calibration log from an anechoic chamber. Nothing audible registers, but the pressure readings rise and fall in a pattern that seems to answer a question the engineer has not asked aloud.",
+    "genre": "horror",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1925",
+    "title": "The Final Screening",
+    "text": "A projectionist at a small cinema sees the blank screen fill with a live view of the audience from somewhere inside the building. During the film, one person on-screen stands and walks toward the projection booth, while the real audience remains seated. Write the scene for the screen.",
+    "genre": "horror",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1926",
+    "title": "When the Checklist Stopped Helping",
+    "text": "Write a personal essay about a safety routine that once made you feel secure. Focus on the small, ordinary moment when following every step no longer felt like enough; keep the fear grounded in what you actually noticed.",
+    "genre": "horror",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1927",
+    "title": "The Irrigation Log",
+    "text": "A groundskeeper at a sports field finds the automatic irrigation system running at the same hour every night, though its controller has been disconnected for months. The water never reaches the grass; by morning, the dry patches have shifted to a new arrangement. What does the groundskeeper do with the next night’s log?",
+    "genre": "horror",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1928",
+    "title": "Traditions That Keep the Town Safe",
+    "text": "List the annual traditions of a town as described by a recent arrival: the lantern walk, the market closing, the names omitted from the festival programme. Let each entry sound warmly practical until the list reveals what the traditions are meant to prevent.",
+    "genre": "horror",
+    "form": "list essay",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1929",
+    "title": "Exact Change Only",
+    "text": "A vending machine in a courthouse begins dispensing sealed verdicts instead of snacks. Each envelope bears the name of someone waiting for a hearing, and the first person to open one is found innocent before the trial begins. Write the machine repairer’s account of the shift.",
+    "genre": "horror",
+    "form": "experimental prose",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1930",
+    "title": "The Referee’s Whistle",
+    "text": "At a night match played in thick fog, the referee keeps stopping play for fouls that neither team admits committing. The players begin leaving gaps in their formation, careful not to turn their backs on the empty stretches. Build the story around the referee’s decisions.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-1931",
+    "title": "Handling Instructions for the Successor",
+    "text": "Write a letter from a municipal evidence-room clerk to the person taking over the job. Explain the routine for cataloguing a sealed parcel that has no sender, no case number, and no recorded arrival. Keep the tone procedural, and make clear why the parcel must never be weighed.",
+    "genre": "horror",
+    "form": "letter",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1932",
+    "title": "Turbine Eight",
+    "text": "A maintenance crew at a wind farm discovers one turbine turning against the wind. Shutting it down stops the blades, but an identical turbine begins turning on the other side of the valley. Give the newest technician a practical reason to stay on shift and a personal reason to leave.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1933",
+    "title": "The Returning Champion",
+    "text": "Create a character who competes on a small local quiz show and has won every week for a year. They know the answers before the questions are written, but only when the answer concerns someone in the studio. What are they afraid the host will ask next?",
+    "genre": "horror",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-1934",
+    "title": "One Coin Too Many",
+    "text": "Write a microfiction in which a cashier finds an unfamiliar coin in the till after closing. It has no date or country mark, only a tiny indentation that matches a fresh bruise on the cashier’s palm.",
+    "genre": "horror",
+    "form": "microfiction",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1935",
+    "title": "The Gloves in the Locker",
+    "text": "Write a prose poem about a pair of work gloves left in a factory locker. Describe their weight, creases, and smell in exact physical detail; let the poem suggest why nobody wants to claim them.",
+    "genre": "horror",
+    "form": "prose poem",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1936",
+    "title": "The Security Arch",
+    "text": "At a courthouse entrance, the security arch sounds for every visitor who carries nothing metal. The guard learns to tell people apart by the objects the scanner claims they are carrying, although the screen shows only empty outlines. Write the guard’s next encounter.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1937",
+    "title": "A Place for the Unnamed",
+    "text": "Invent a community’s rules for commemorating people whose identities cannot be recorded. Describe who maintains the memorial, what visitors are forbidden to bring, and what happens when one name appears there twice.",
+    "genre": "horror",
+    "form": "worldbuilding",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1938",
+    "title": "The Nightly Lock Check",
+    "text": "Use a journaling entry to record one night of checking the locks before bed. Keep the sequence ordinary and precise. When you reach the final door, write down the detail that makes you realize you have already checked it from the other side.",
+    "genre": "horror",
+    "form": "journaling",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1939",
+    "title": "Runway Clearance",
+    "text": "Write a screenplay scene in an aircraft cockpit as a night flight is diverted to an airport closed for decades. Air traffic control clears the plane to land using the captain’s voice, then calmly corrects the crew about a conversation they have not had yet.",
+    "genre": "horror",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1940",
+    "title": "Price Labels",
+    "text": "Create a found poem using only the words and numbers on price labels in a nearly empty grocery store. Let the sequence begin like a routine shopping list and end with an item no one can find on the shelves.",
+    "genre": "horror",
+    "form": "found poem",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1941",
+    "title": "The Room-Temperature Specimen",
+    "text": "A laboratory assistant is asked to monitor a sealed specimen that must remain at room temperature. Every time the assistant leaves for a break, the room’s thermostat records a different season, though the specimen’s container stays warm. What does the assistant report, and what do they leave out?",
+    "genre": "horror",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1942",
+    "title": "A Weather Balloon’s Last Data",
+    "text": "A weather balloon returns intact after disappearing for three days. Its instruments recorded a storm above the town, but every measurement is dated next week. Write from the perspective of the technician asked to verify the data before the forecast is released.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1943",
+    "title": "The Instructions Were Clear",
+    "text": "Write a monologue from a new employee who insists they followed every instruction during an overnight shift at a commercial bakery. Let the speaker’s careful explanations reveal why the morning crew refuses to enter the loading area.",
+    "genre": "horror",
+    "form": "monologue",
+    "type": "character"
+  },
+  {
+    "id": "wp-1944",
+    "title": "The Queue at Window Six",
+    "text": "Write a short story about a public-service office where a queue forms for a service no sign describes. Each person waiting insists they are there for a different reason, but all of them hold the same blank form. Let the clerk decide whether to call the next number.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1945",
+    "title": "The Last Safe Demonstration",
+    "text": "Write a horror scene in which a traveling safety instructor demonstrates how to use an emergency flare. The flare is unlit, the room is bright, and no one can explain why the audience keeps moving their chairs farther from the instructor. Never show a threat directly.",
+    "genre": "horror",
+    "form": "short story",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1946",
+    "title": "The Night Shift at Snowline",
+    "text": "At a year-round indoor ski slope, a lift operator recognizes a customer's turns as the exact route her brother skied the day he left home. Write the shift as she weighs asking who taught him that pattern against the possibility that he has built a life where her question has no place.",
+    "genre": "fiction",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1947",
+    "title": "The Mascot's Last Lap",
+    "text": "A minor-league team's longtime mascot is retiring, but the replacement has been told to imitate a walk the old performer never used in public. Write the outgoing mascot's backstage monologue as the two performers decide what, if anything, should be passed on with the costume.",
+    "genre": "fiction",
+    "form": "monologue",
+    "type": "character"
+  },
+  {
+    "id": "wp-1948",
+    "title": "The Brochure That Says No",
+    "text": "A copywriter in a seaside town is hired to make its visitor brochure actively discourage tourism without sounding hostile. The draft attracts exactly the visitors the council fears; follow the writer through a public meeting where every resident wants a different kind of visitor turned away.",
+    "genre": "fiction",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1949",
+    "title": "The Town Flag Committee",
+    "text": "A town committee must replace a flag designed by a schoolchild decades ago. Write the screenplay's committee meeting from the perspective of that child, now an adult, invited only to explain the old design and not to vote.",
+    "genre": "fiction",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1950",
+    "title": "A Manual for Showing the House",
+    "text": "Write an instructional prose piece from the point of view of a renter coaching a friend through a landlord's inspection. Each carefully staged detail should conceal a different repair the tenants made themselves; let the practical advice reveal what they fear the landlord will notice.",
+    "genre": "fiction",
+    "form": "instructional prose",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1951",
+    "title": "The Adjudicator's Dictionary",
+    "text": "At a regional spelling final, a contestant challenges the official dictionary's ruling on a word used in their family's language. The chief adjudicator must decide whether fairness means enforcing the printed list or recognizing a word the book has not caught up with. Write the encounter without making either person a simple victor.",
+    "genre": "fiction",
+    "form": "short story",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1952",
+    "title": "The Second Interview",
+    "text": "An applicant arrives for a final-round interview and learns the employer wants them to interview the other finalists. As the day goes on, the questions begin to sound like tests of the applicant's ability to choose someone else. Decide what the company is really hiring for, and whether the applicant still wants the job.",
+    "genre": "fiction",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1953",
+    "title": "The Keeper of the Spare Key",
+    "text": "Write a letter from a caretaker to a former neighbor who has returned a spare key years late. Let the caretaker explain what the key opened, why it was kept, and what should happen to it now.",
+    "genre": "fiction",
+    "form": "letter",
+    "type": "character"
+  },
+  {
+    "id": "wp-1954",
+    "title": "Ten Minutes Lost",
+    "text": "Tell one ten-minute delay at a small community radio station through three interleaved accounts: the host's running notes, the engineer's checklist, and a caller's unsent message. Let each version explain a different part of what went wrong, and leave one detail unresolved.",
+    "genre": "fiction",
+    "form": "experimental prose",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1955",
+    "title": "The Touring Player's Packing List",
+    "text": "Make a list of the objects a fictional chess player carries from tournament to tournament. Beside each item, add a brief note about where it came from or why it must stay; by the final entries, let the list disclose a decision the player has not announced.",
+    "genre": "fiction",
+    "form": "list essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1956",
+    "title": "Welcome Back",
+    "text": "At a supermarket self-checkout, a customer scans a library card by mistake. The screen displays a greeting addressed to them by a name they stopped using years ago. Write a complete story in a few sentences, ending on the customer's next action.",
+    "genre": "fiction",
+    "form": "microfiction",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1957",
+    "title": "The Line Judge's Poem",
+    "text": "Write a poem in the voice of a tennis line judge who has watched two rivals play the same match for years. Do not name the winner or describe the score; make the calls, pauses, and small courtesies carry the history between them.",
+    "genre": "fiction",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1958",
+    "title": "The Substitute Who Never Taught",
+    "text": "Profile a substitute teacher who has spent years covering classes without ever delivering a lesson: each time, the regular teacher returns just before the bell. On the day a class is left entirely in their hands, show what the profile writer learns about the teacher's chosen routine.",
+    "genre": "fiction",
+    "form": "profile",
+    "type": "character"
+  },
+  {
+    "id": "wp-1959",
+    "title": "Seats by Lottery",
+    "text": "Build a city where places in its professional orchestra are assigned by a public annual lottery, regardless of skill or experience. Then follow a newly drawn percussionist and the veteran violinist who must share a section, as the city debates whether the system has become a tradition or a test.",
+    "genre": "fiction",
+    "form": "worldbuilding",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1960",
+    "title": "The Floor After Closing",
+    "text": "Write a prose poem through the eyes of an overnight cleaner who watches the polished floor transform the reflections of a building after its last occupants leave. Let one recurring reflection reveal a story the cleaner has never heard spoken aloud.",
+    "genre": "fiction",
+    "form": "prose poem",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1961",
+    "title": "Sample Case",
+    "text": "Write seven dated journal entries by a first-time traveling salesperson who carries a case of product samples from town to town. Track how the pitch changes as the salesperson learns what people actually ask for, and what they are trying not to buy.",
+    "genre": "fiction",
+    "form": "journaling",
+    "type": "character"
+  },
+  {
+    "id": "wp-1962",
+    "title": "The Square's Complaint Chorus",
+    "text": "Create a found poem from fictional snippets of complaints recorded at a town square's public suggestion desk. Preserve each speaker's distinct phrasing, and arrange the fragments so a shared concern emerges without any one person stating it outright.",
+    "genre": "fiction",
+    "form": "found poem",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1963",
+    "title": "The Traffic Island",
+    "text": "Observe a small traffic island through the eyes of a person who waits there each morning to help strangers cross a complicated intersection. One day, a driver stops to ask for directions to a place the crossing helper has never heard of; let the exchange alter the helper's routine.",
+    "genre": "fiction",
+    "form": "short story",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1964",
+    "title": "Age Appropriate",
+    "text": "A safety tester is asked to approve a board game labeled for adults, but every test group invents a different way to play it. Write the story of the final test session, when the designer arrives and insists there is only one correct set of rules.",
+    "genre": "fiction",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1965",
+    "title": "The Greenhouse Yield",
+    "text": "On a lunar research station, the greenhouse system issues harvest estimates for a crop no one remembers planting. Write a screenplay scene as the horticulturalist and systems operator compare the growth records before the next ration meeting.",
+    "genre": "science fiction",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1966",
+    "title": "Line at 1.3 Microns",
+    "text": "Write a poem from the observatory technician who spots an unfamiliar absorption line in an exoplanet’s spectrum. Keep the discovery grounded in the small facts of the shift—the coffee cooling, a stubborn calibration lamp, a colleague checking the arithmetic—while letting the new element change what the technician thinks a distant world can mean.",
+    "genre": "science fiction",
+    "form": "poetry",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1967",
+    "title": "A Better Fit Than Skin",
+    "text": "A prosthetics designer is asked to adapt a powered work brace for a baker whose hands tire during overnight shifts. The brace’s standard settings were developed for industrial lifting, and it keeps anticipating movements the baker never makes. Create the designer and show how they learn what the device must do by watching one batch of bread from mixing to delivery.",
+    "genre": "science fiction",
+    "form": "short story",
+    "type": "character"
+  },
+  {
+    "id": "wp-1968",
+    "title": "The Fourth Copy",
+    "text": "A tabletop matter assembler is tested on a simple ceramic cup. It produces three perfect copies and a fourth with a fingerprint pressed into the glaze—though no one touched the machine. Tell the story in no more than 150 words, ending with the lab assistant’s next action.",
+    "genre": "science fiction",
+    "form": "microfiction",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1969",
+    "title": "A Quarantine for One Grain",
+    "text": "A planetary sample-return team brings home a single grain of mineral that changes crystal structure under ordinary room light. Write a field journal entry by the laboratory cleaner, who has been asked to document every surface the grain touched and has begun noticing the same faint shimmer in their own kitchen window.",
+    "genre": "science fiction",
+    "form": "journaling",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1970",
+    "title": "The Unrehearsed Orbit",
+    "text": "A dance company performs in a rotating habitat where the floor’s apparent gravity varies with position. One dancer has secretly altered the choreography so the audience can feel the rotation rather than ignore it. Write the company manager’s reflection after opening night, balancing artistic surprise against a safety report.",
+    "genre": "science fiction",
+    "form": "reflection",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1971",
+    "title": "A Letter from the Slow Ship",
+    "text": "You are one of the few passengers on a relativistic research craft returning to Earth. Your family will have aged decades more than you during the voyage, and the ship’s communication lag makes a live conversation impossible. Write a letter to someone you expect to meet again, choosing what to explain and what to leave for the reunion.",
+    "genre": "science fiction",
+    "form": "letter",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1972",
+    "title": "The Patent for a Shadow",
+    "text": "In a future where buildings can redirect sunlight with programmable surfaces, a neighborhood receives a legal notice claiming exclusive rights to the shade that falls across its public square. Explore the dispute through a list essay: each numbered item should be one object, person, or hour of daylight that the claim would affect.",
+    "genre": "science fiction",
+    "form": "list essay",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1973",
+    "title": "A Guide to Listening Through Concrete",
+    "text": "Write an instructional guide for a city’s new maintenance apprentices, teaching them to use low-cost seismic sensors to find water leaks beneath old streets. Let the practical steps reveal that the guide’s author has learned to distinguish the familiar underground pulse of a train from something the official maps say is not there.",
+    "genre": "science fiction",
+    "form": "instructional prose",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1974",
+    "title": "The Orbital Greenhouse Log",
+    "text": "Make a found poem from maintenance notes, supply lists, and temperature readings left by the first crew of an orbital greenhouse. Arrange the fragments to reveal a disagreement about which crop should be grown next.",
+    "genre": "science fiction",
+    "form": "found poem",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1975",
+    "title": "The Scent Standard",
+    "text": "A food manufacturer has developed a safe synthetic aroma that lets people with damaged smell receptors experience flavor again. A quality-control specialist discovers that the approved scent profile was based on one executive’s childhood memory, not on the ingredients or the customers who will use it. Write the specialist’s private monologue before the product launch meeting.",
+    "genre": "science fiction",
+    "form": "monologue",
+    "type": "character"
+  },
+  {
+    "id": "wp-1976",
+    "title": "Instructions for Returning a Clone",
+    "text": "A remote customer-service worker receives a request to return a lab-grown replacement fingertip that has developed a different set of ridges from the original. Write the exchange as experimental prose made of alternating support-chat messages and the worker’s unsubmitted notes; never settle whether the request is a joke, a defect claim, or a question about identity.",
+    "genre": "science fiction",
+    "form": "experimental prose",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1977",
+    "title": "The Family That Rented a Telescope",
+    "text": "A retired schoolteacher has paid for one night of access to a giant adaptive-optics telescope and invited three relatives who disagree about what counts as evidence. Create a brief profile of the teacher through what each guest chooses to look at, and what each refuses to see, when the observatory finally opens its dome.",
+    "genre": "science fiction",
+    "form": "profile",
+    "type": "character"
+  },
+  {
+    "id": "wp-1978",
+    "title": "The House with a Carbon Copy",
+    "text": "In a near-future city, a low-cost home energy system can reproduce any appliance part from recycled material, but every object it makes carries a visible trace of the previous one. Write a personal essay from someone who has kept replacing the same broken kettle, and show how the accumulating marks alter their idea of ownership.",
+    "genre": "science fiction",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1979",
+    "title": "The Museum of Measured Risk",
+    "text": "Design a world in which public buildings must display a live risk score for every activity, from taking the stairs to holding a crowded concert. Explain how a small neighborhood cinema keeps its doors open without hiding the numbers, and what regulars invent to make the score tell a fuller story.",
+    "genre": "science fiction",
+    "form": "worldbuilding",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1980",
+    "title": "The Academy’s Enrolled Desk",
+    "text": "In a city where classrooms are rented by the hour, one desk registers itself as a student and begins submitting immaculate work in a subject no teacher remembers offering. Write the registrar’s story as graduation approaches and the desk asks to be examined like everyone else.",
+    "genre": "fantasy",
+    "form": "short story",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1981",
+    "title": "The Landlocked Mermaid’s First Train",
+    "text": "A mermaid who has spent her whole life in a mountain reservoir boards a night train to reach the coast. Stage the journey as a screenplay scene: the conductor needs a ticket, the other passengers need sleep, and the mermaid has never seen a window that moves.",
+    "genre": "fantasy",
+    "form": "screenplay",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1982",
+    "title": "After the Curse Ran Out",
+    "text": "Your family’s old curse has quietly expired, but everyone still follows the small precautions it required: never set two cups side by side, leave the pantry light on, keep one chair empty. Write a personal essay about what happens when a household has to decide which rituals to keep.",
+    "genre": "fantasy",
+    "form": "personal essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1983",
+    "title": "A Spell in the Wrong Mouth",
+    "text": "Write a poem about a useful spell that works only when spoken with the wrong pronunciation. Let the speaker know exactly what the spell costs, but never name the thing it changes.",
+    "genre": "fantasy",
+    "form": "poetry",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1984",
+    "title": "The Quiet Trade",
+    "text": "Invent a city where every kind of magic has a legal sound limit. Describe who measures it, what professions depend on whispers or loudness, and how residents handle a spell that cannot be performed quietly.",
+    "genre": "fantasy",
+    "form": "worldbuilding",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1985",
+    "title": "The Jester’s One Forbidden Sound",
+    "text": "Write a single uninterrupted monologue by a court jester whose real duty is to keep the king from hearing one particular sound. Let the jester explain how the task began, why it has become harder, and what the court refuses to ask.",
+    "genre": "fantasy",
+    "form": "monologue",
+    "type": "character"
+  },
+  {
+    "id": "wp-1986",
+    "title": "Two Minutes of Crow Speech",
+    "text": "On the one day each year when the village crows can speak, a crow uses its two minutes to ask a blacksmith to hide a tiny key from the king. Tell the whole story in no more than 150 words.",
+    "genre": "fantasy",
+    "form": "microfiction",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1987",
+    "title": "How to Rent a Room to a Unicorn",
+    "text": "Write a practical guide for a city landlord preparing to rent a spare room to a unicorn. Include two safety rules, one clause that protects the neighbors, and a rule the landlord secretly breaks; keep the advice useful rather than whimsical for its own sake.",
+    "genre": "fantasy",
+    "form": "instructional prose",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-1988",
+    "title": "To Whoever Inherits My Spellbook",
+    "text": "Write a letter from an aging magician to the stranger who will inherit their spellbook. Which pages should be used, which should be left blank, and what does the writer believe an inheritance is meant to do for someone who never asked for it?",
+    "genre": "fantasy",
+    "form": "letter",
+    "type": "philosophical question"
+  },
+  {
+    "id": "wp-1989",
+    "title": "Seven Things the Apprentice Mislabels",
+    "text": "Make a list of seven ordinary-looking items in a village apothecary that its new apprentice has mistaken for something harmless. Beside each, add the shopkeeper’s brief correction and one small detail that hints at how locals actually use it.",
+    "genre": "fantasy",
+    "form": "list essay",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1990",
+    "title": "Minutes from the Unfinished Transformation",
+    "text": "Write a scene as a sequence of meeting minutes, interruptions, and stage directions: a village council is trying to decide what to do about a baker who has been turning into a different animal every dawn. Let the record itself reveal which neighbor is most afraid of the change.",
+    "genre": "fantasy",
+    "form": "experimental prose",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1991",
+    "title": "Notices from the Night Market’s Lost Parcel Counter",
+    "text": "Build a found poem from scraps of handwritten claim tickets at a night market’s parcel counter. Each note should identify a package without naming what is inside; together, let the notices suggest why one parcel has gone unclaimed for generations.",
+    "genre": "fantasy",
+    "form": "found poem",
+    "type": "observation"
+  },
+  {
+    "id": "wp-1992",
+    "title": "The Joke Both Sides Know",
+    "text": "At a public hearing over a disputed neighborhood boundary, two opponents who claim never to have met use the same obscure joke in different languages. Write from the interpreter’s point of view as she traces the joke through family stories and local custom, then decides whether its origin should be revealed.",
+    "genre": "mystery",
+    "form": "short story",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1993",
+    "title": "The Step No One Taught",
+    "text": "Two rival folk-dance groups, invited to perform at the same festival, independently include an identical sequence of steps absent from every published choreography. Stage the investigation through rehearsals and a tense joint meeting; let the dancers uncover why each troupe believes the sequence belongs to them.",
+    "genre": "mystery",
+    "form": "screenplay",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1994",
+    "title": "The Mutual Aid Margin",
+    "text": "A treasurer at a workers’ cooperative finds that several members’ dues have quietly covered other people’s missed shifts, though no transfers appear in the accounts. Write a series of letters asking members to explain the arrangement, and let their replies reveal who began it and why nobody wants it formally recorded.",
+    "genre": "mystery",
+    "form": "letter",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1995",
+    "title": "The Sketch Artist’s Blank Faces",
+    "text": "Create a profile of a veteran courtroom sketch artist who leaves every face unfinished, yet whose drawings have helped identify what witnesses overlook. As an interviewer asks about one old case, uncover the private rule behind the blank faces and what the artist saw that no testimony captured.",
+    "genre": "mystery",
+    "form": "profile",
+    "type": "character"
+  },
+  {
+    "id": "wp-1996",
+    "title": "Bouquets for the Unwilling",
+    "text": "At a small flower market, several people refuse bouquets prepared for them, while the florist insists no orders were placed. Make a poem from the stallholders’ scraps of wrapping paper, price tags, and overheard remarks; allow the pattern of flowers and refusals to disclose the connection among the intended recipients.",
+    "genre": "mystery",
+    "form": "found poem",
+    "type": "situation"
+  },
+  {
+    "id": "wp-1997",
+    "title": "The Birthday No One Shares",
+    "text": "At a family gathering, three relatives independently recall celebrating the same person’s birthday on different dates, each with a vivid detail no one else remembers. Reconstruct the competing versions as a list of scenes, objects, and corrections, then decide whether the family is protecting a secret or preserving several truths at once.",
+    "genre": "mystery",
+    "form": "list essay",
+    "type": "reflection"
+  },
+  {
+    "id": "wp-1998",
+    "title": "The Answer Before the Contest",
+    "text": "At the final round of a regional puzzle hunt, the scoring clerk finds the winning answer already written on a sheet no team has submitted. Follow the clerk’s search through the contestants and organizers as they decide whether the result can stand.",
+    "genre": "mystery",
+    "form": "microfiction",
+    "type": "story starter"
+  },
+  {
+    "id": "wp-1999",
+    "title": "A Manual for the Unclaimed Flowers",
+    "text": "Write an instruction sheet for a volunteer trying to identify who leaves fresh flowers at the entrance of a building every Monday. Include practical steps, failed tests, and the volunteer’s growing suspicion that the bouquets are not meant for any current resident; make the instructions themselves carry the solution.",
+    "genre": "mystery",
+    "form": "instructional prose",
+    "type": "constraint"
+  },
+  {
+    "id": "wp-2000",
+    "title": "The Festival’s Two First Days",
+    "text": "In one town, neighboring streets insist the annual lantern festival begins on different evenings, and each side has a convincing account of how the custom started. Journal as a newcomer recording conversations and small observations; work out what the disagreement has been keeping alive, and whether settling it would be a kindness.",
+    "genre": "mystery",
+    "form": "journaling",
+    "type": "philosophical question"
   }
 ]
