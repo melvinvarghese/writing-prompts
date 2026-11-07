@@ -102,7 +102,7 @@
     const items = filteredPrompts();
     const visibleItems = items.slice(0, visibleCount);
     grid.replaceChildren();
-    if (count) count.textContent = "SHOWING " + visibleItems.length + " OF " + items.length + " PROMPTS";
+    if (count) count.textContent = visibleItems.length ? "YOUR IDEAS ARE READY" : "NO IDEAS IN THIS FILTER";
     if (empty) empty.hidden = items.length !== 0;
     if (loadMore) loadMore.hidden = visibleItems.length >= items.length;
 
@@ -243,8 +243,8 @@
     initFilters();
     try {
       const [promptResponse, dailyResponse] = await Promise.all([
-        fetch("data/prompts.json"),
-        fetch("data/daily-prompts.json")
+        fetch("https://melvinvarghese.github.io/writing-prompts/data/prompts.json"),
+        fetch("https://melvinvarghese.github.io/writing-prompts/data/daily-prompts.json")
       ]);
       if (!promptResponse.ok) throw new Error("Prompt collection unavailable");
       prompts = await promptResponse.json();
@@ -260,5 +260,6 @@
     initMixer();
   }
 
-  document.addEventListener("DOMContentLoaded", init);
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init, { once: true });
+  else init();
 })();
