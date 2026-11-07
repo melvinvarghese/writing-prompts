@@ -6,7 +6,7 @@ A small creative writing tool for when you need an idea to get started.
 
 ## What it does
 
-- Browse 500 writing prompts across 11 genres.
+- Browse writing prompts across a range of genres.
 - Filter prompts by genre and type.
 - Pick a random prompt or try the daily challenge.
 - Mix a character, setting, conflict and twist into a story idea.
