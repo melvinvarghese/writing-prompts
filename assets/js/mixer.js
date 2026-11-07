@@ -2,7 +2,7 @@
   const pick = (items) => items[Math.floor(Math.random() * items.length)];
   window.WritingPromptMixer = {
     async load() {
-      const response = await fetch("data/mixer-elements.json");
+      const response = await fetch("https://melvinvarghese.github.io/writing-prompts/data/mixer-elements.json");
       if (!response.ok) throw new Error("Could not load mixer ingredients.");
       return response.json();
     },
