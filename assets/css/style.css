@@ -5,7 +5,7 @@
 #writing-prompts-app button, #writing-prompts-app select { font:inherit; }
 #writing-prompts-app button { cursor:pointer; -webkit-tap-highlight-color:transparent; }
 #writing-prompts-app button:focus-visible, #writing-prompts-app a:focus-visible, #writing-prompts-app select:focus-visible { outline:3px solid var(--blue); outline-offset:4px; }
-#writing-prompts-app.site-shell { width:min(100vw, 1440px); max-width:none; margin-left:calc(50% - min(50vw, 720px)); margin-right:0; }
+#writing-prompts-app.site-shell { width:100%; max-width:100%; margin:0 auto; }
 #writing-prompts-app .site-header { min-height:92px; display:flex; align-items:center; justify-content:space-between; gap:22px; border-bottom:3px solid var(--ink); position:relative; z-index:2; }
 #writing-prompts-app .wordmark { display:flex; align-items:center; gap:10px; font-family:"Bungee",sans-serif; font-size:13px; line-height:1.15; letter-spacing:-.5px; }
 #writing-prompts-app .wordmark-mark { display:grid; place-items:center; width:47px; height:47px; background:var(--yellow); border:3px solid var(--ink); box-shadow:4px 4px 0 var(--ink); font-family:"Bungee",sans-serif; font-size:13px; transform:rotate(-5deg); }
@@ -141,7 +141,7 @@
  #writing-prompts-app .mixer-section { grid-template-columns:1fr; }
 }
 @media (max-width:600px) {
- #writing-prompts-app.site-shell { width:100vw; max-width:none; margin-left:calc(50% - 50vw); margin-right:0; }
+ #writing-prompts-app.site-shell { width:100%; max-width:100%; margin:0 auto; }
  #writing-prompts-app .site-header { min-height:0; gap:10px; }
  #writing-prompts-app .wordmark { font-size:10px; }
  #writing-prompts-app .wordmark-mark { width:39px; height:39px; font-size:11px; }
