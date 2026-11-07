@@ -1,8 +1,10 @@
 (function () {
   const state = { duration: 600, remaining: 600, endAt: null, interval: null, running: false };
-  const display = () => document.getElementById("timer-display");
-  const message = () => document.getElementById("timer-message");
-  const startButton = () => document.getElementById("timer-start");
+  const root = document.getElementById("writing-prompts-app");
+  const $ = (selector) => root?.querySelector(selector);
+  const display = () => $("#timer-display");
+  const message = () => $("#timer-message");
+  const startButton = () => $("#timer-start");
 
   function render() {
     const node = display();
@@ -62,21 +64,23 @@
   function setDuration(minutes) {
     state.duration = minutes * 60;
     reset();
-    document.querySelectorAll(".timer-presets button").forEach((button) => {
+    root.querySelectorAll(".timer-presets button").forEach((button) => {
       const selected = Number(button.dataset.minutes) === minutes;
       button.classList.toggle("is-selected", selected);
       button.setAttribute("aria-pressed", String(selected));
     });
   }
 
-  document.addEventListener("DOMContentLoaded", () => {
+  function initTimer() {
     document.querySelectorAll(".timer-presets button").forEach((button) => {
       button.setAttribute("aria-pressed", button.classList.contains("is-selected") ? "true" : "false");
       button.addEventListener("click", () => setDuration(Number(button.dataset.minutes)));
     });
     startButton()?.addEventListener("click", start);
-    document.getElementById("timer-reset")?.addEventListener("click", reset);
+    $("#timer-reset")?.addEventListener("click", reset);
     document.addEventListener("visibilitychange", () => { if (state.running && !document.hidden) tick(); });
     render();
-  });
+  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", initTimer, { once: true });
+  else initTimer();
 })();
