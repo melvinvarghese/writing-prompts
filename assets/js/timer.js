@@ -72,7 +72,7 @@
   }
 
   function initTimer() {
-    document.querySelectorAll(".timer-presets button").forEach((button) => {
+    root.querySelectorAll(".timer-presets button").forEach((button) => {
       button.setAttribute("aria-pressed", button.classList.contains("is-selected") ? "true" : "false");
       button.addEventListener("click", () => setDuration(Number(button.dataset.minutes)));
     });
